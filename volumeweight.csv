@@ -1,0 +1,2515 @@
+SPCD,SPECIES_SYMBOL,COMMON_NAME,GENUS,SPECIES,VARIETY,SUBSPECIES,CORDS_TO_GREEN_TONS,MBF_TO_GREEN_TONS,DRYWT_TO_GREENWT_CONVERSION
+10,ABIES,fir spp.,Abies,spp.,NA,NA,2.05,4.1,1.81
+11,ABAM,Pacific silver fir,Abies,amabilis,NA,NA,2.17,4.34,1.69
+12,ABBA,balsam fir,Abies,balsamea,NA,NA,2.25,4.5,2.16
+14,ABBR,Santa Lucia or bristlecone fir,Abies,bracteata,NA,NA,2.05,4.1,1.81
+15,ABCO,white fir,Abies,concolor,NA,NA,2.32,4.64,1.97
+16,ABFR,Fraser fir,Abies,fraseri,NA,NA,2.05,4.1,1.81
+17,ABGR,grand fir,Abies,grandis,NA,NA,2.22,4.44,1.99
+18,ABLAA,corkbark fir,Abies,lasiocarpa,arizonica,NA,2.05,4.1,1.81
+19,ABLA,subalpine fir,Abies,lasiocarpa,NA,NA,1.41,2.82,1.48
+20,ABMA,California red fir,Abies,magnifica,NA,NA,2.29,4.58,2.03
+21,ABSH,Shasta red fir,Abies,shastensis,NA,NA,2.05,4.1,1.81
+22,ABPR,noble fir,Abies,procera,NA,NA,1.53,3.06,1.34
+40,CHAMA4,white-cedar spp.,Chamaecyparis,spp.,NA,NA,2.07,4.14,1.79
+41,CHLA,Port-Orford-cedar,Chamaecyparis,lawsoniana,NA,NA,2.12,4.24,1.73
+42,CHNO,Alaska yellow-cedar,Chamaecyparis,nootkatensis,NA,NA,2.32,4.64,1.76
+43,CHTH2,Atlantic white-cedar,Chamaecyparis,thyoides,NA,NA,1.82,3.64,1.88
+50,CUPRE,cypress,Cupressus,spp.,NA,NA,2.29,4.58,1.74
+51,CUAR,Arizona cypress,Cupressus,arizonica,NA,NA,2.29,4.58,1.74
+52,CUBA,Baker or Modoc cypress,Cupressus,bakeri,NA,NA,2.29,4.58,1.74
+53,CUFO2,Tecate cypress,Cupressus,forbesii,NA,NA,2.29,4.58,1.74
+54,CUMA2,Monterey cypress,Cupressus,macrocarpa,NA,NA,2.29,4.58,1.74
+55,CUSA3,Sargent's cypress,Cupressus,sargentii,NA,NA,2.29,4.58,1.74
+56,CUMA,MacNab's cypress,Cupressus,macnabiana,NA,NA,2.29,4.58,1.74
+57,JUNIP,redcedar/juniper spp.,Juniperus,spp.,NA,NA,1.97,3.94,1.39
+58,JUPI,Pinchot juniper,Juniperus,pinchotii,NA,NA,1.97,3.94,1.39
+59,JUCO11,redberry juniper,Juniperus,coahuilensis,NA,NA,1.97,3.94,1.39
+60,JUFL,Drooping juniper,Juniperus,flaccida,NA,NA,1.97,3.94,1.39
+61,JUAS,Ashe juniper,Juniperus,ashei,NA,NA,1.97,3.94,1.39
+62,JUCA7,California juniper,Juniperus,californica,NA,NA,1.97,3.94,1.39
+63,JUDE2,alligator juniper,Juniperus,deppeana,NA,NA,2.06,4.12,1.36
+64,JUOC,western juniper,Juniperus,occidentalis,NA,NA,1.97,3.94,1.39
+65,JUOS,Utah juniper,Juniperus,osteosperma,NA,NA,2.95,5.9,1.37
+66,JUSC2,Rocky Mountain juniper,Juniperus,scopulorum,NA,NA,1.97,3.94,1.39
+67,JUVIS,southern redcedar,Juniperus,virginiana,silicicola,NA,1.89,3.78,1.43
+68,JUVI,eastern redcedar,Juniperus,virginiana,NA,NA,1.9,3.8,1.37
+69,JUMO,oneseed juniper,Juniperus,monosperma,NA,NA,1.97,3.94,1.39
+70,LARIX,larch spp.,Larix,spp.,NA,NA,2.51,5.02,1.59
+71,LALA,tamarack,Larix,laricina,NA,NA,2.5,5,1.57
+72,LALY,subalpine larch,Larix,lyallii,NA,NA,2.51,5.02,1.59
+73,LAOC,western larch,Larix,occidentalis,NA,NA,2.47,4.94,1.61
+81,CADE27,incense-cedar,Calocedrus,decurrens,NA,NA,2.24,4.48,1.98
+90,PICEA,spruce spp.,Picea,spp.,NA,NA,1.84,3.68,1.62
+91,PIAB,Norway spruce,Picea,abies,NA,NA,1.84,3.68,1.62
+92,PIBR,Brewer spruce,Picea,breweriana,NA,NA,1.84,3.68,1.62
+93,PIEN,Engelmann spruce,Picea,engelmannii,NA,NA,1.94,3.88,1.88
+94,PIGL,white spruce,Picea,glauca,NA,NA,1.81,3.62,1.55
+95,PIMA,black spruce,Picea,mariana,NA,NA,1.84,3.68,1.53
+96,PIPU,blue spruce,Picea,pungens,NA,NA,1.84,3.68,1.62
+97,PIRU,red spruce,Picea,rubens,NA,NA,1.77,3.54,1.5
+98,PISI,Sitka spruce,Picea,sitchensis,NA,NA,1.69,3.38,1.64
+100,PINUS,pine spp.,Pinus,spp.,NA,NA,2.46,4.92,1.75
+101,PIAL,whitebark pine,Pinus,albicaulis,NA,NA,2.46,4.92,1.75
+102,PIAR,Rocky Mountain bristlecone pine,Pinus,aristata,NA,NA,2.46,4.92,1.75
+103,PIAT,knobcone pine,Pinus,attenuata,NA,NA,2.47,4.94,2.02
+104,PIBA,foxtail pine,Pinus,balfouriana,NA,NA,2.46,4.92,1.75
+105,PIBA2,jack pine,Pinus,banksiana,NA,NA,2.55,5.1,1.99
+106,PIED,common or two-needle pinyon,Pinus,edulis,NA,NA,2.1,4.2,1.31
+107,PICL,sand pine,Pinus,clausa,NA,NA,2.08,4.16,1.4
+108,PICO,lodgepole pine,Pinus,contorta,NA,NA,1.91,3.82,1.64
+109,PICO3,Coulter pine,Pinus,coulteri,NA,NA,2.46,4.92,1.75
+110,PIEC2,shortleaf pine,Pinus,echinata,NA,NA,2.68,5.36,1.75
+111,PIEL,slash pine,Pinus,elliottii,NA,NA,3.12,6.24,1.74
+112,PIEN2,Apache pine,Pinus,engelmannii,NA,NA,2.46,4.92,1.75
+113,PIFL2,limber pine,Pinus,flexilis,NA,NA,2.18,4.36,1.82
+114,PIST3,southwestern white pine,Pinus,strobiformis,NA,NA,2.46,4.92,1.75
+115,PIGL2,spruce pine,Pinus,glabra,NA,NA,2.22,4.44,1.69
+116,PIJE,Jeffrey pine,Pinus,jeffreyi,NA,NA,2.47,4.94,1.9
+117,PILA,sugar pine,Pinus,lambertiana,NA,NA,2.66,5.32,2.21
+118,PILE,Chihuahuan pine,Pinus,leiophylla,NA,NA,2.46,4.92,1.75
+119,PIMO3,western white pine,Pinus,monticola,NA,NA,1.81,3.62,1.6
+120,PIMU,bishop pine,Pinus,muricata,NA,NA,2.42,4.84,1.57
+121,PIPA2,longleaf pine,Pinus,palustris,NA,NA,2.88,5.76,1.66
+122,PIPO,ponderosa pine,Pinus,ponderosa,NA,NA,2.39,4.78,1.79
+123,PIPU5,Table Mountain pine,Pinus,pungens,NA,NA,2.73,5.46,1.75
+124,PIRA2,Monterey pine,Pinus,radiata,NA,NA,2.49,4.98,1.95
+125,PIRE,red pine,Pinus,resinosa,NA,NA,2.24,4.48,1.67
+126,PIRI,pitch pine,Pinus,rigida,NA,NA,2.58,5.16,1.72
+127,PISA2,gray or California foothill pine,Pinus,sabiniana,NA,NA,2.42,4.84,1.77
+128,PISE,pond pine,Pinus,serotina,NA,NA,2.67,5.34,1.63
+129,PIST,eastern white pine,Pinus,strobus,NA,NA,1.84,3.68,1.66
+130,PISY,Scotch pine,Pinus,sylvestris,NA,NA,2.46,4.92,1.75
+131,PITA,loblolly pine,Pinus,taeda,NA,NA,2.82,5.64,1.83
+132,PIVI2,Virginia pine,Pinus,virginiana,NA,NA,2.57,5.14,1.8
+133,PIMO,singleleaf pinyon,Pinus,monophylla,NA,NA,2.46,4.92,1.75
+134,PIDI3,border pinyon,Pinus,discolor,NA,NA,2.46,4.92,1.75
+135,PIAR5,Arizona pine,Pinus,arizonica,NA,NA,2.46,4.92,1.75
+136,PINI,Austrian pine,Pinus,nigra,NA,NA,2.46,4.92,1.75
+137,PIWA,Washoe pine,Pinus,washoensis,NA,NA,2.46,4.92,1.75
+138,PIQU,four-leaf or Parry pinyon pine,Pinus,quadrifolia,NA,NA,2.46,4.92,1.75
+139,PITO,Torrey pine,Pinus,torreyana,NA,NA,2.46,4.92,1.75
+140,PICE,Mexican pinyon pine,Pinus,cembroides,NA,NA,2.46,4.92,1.75
+141,PIRE5,papershell pinyon pine,Pinus,remota,NA,NA,2.46,4.92,1.75
+142,PILO,Great Basin bristlecone pine,Pinus,longaeva,NA,NA,2.46,4.92,1.75
+143,PIMOF,Arizona pinyon pine,Pinus,monophylla,fallax,NA,2.46,4.92,1.75
+144,PIELE2,Honduras pine,Pinus,elliottii,elliottii,NA,2.46,4.92,1.75
+200,PSEUD7,Douglas-fir spp.,Pseudotsuga,spp.,NA,NA,2.12,4.24,1.43
+201,PSMA,bigcone Douglas-fir,Pseudotsuga,macrocarpa,NA,NA,2.12,4.24,1.43
+202,PSME,Douglas-fir,Pseudotsuga,menziesii,NA,NA,2.13,4.26,1.43
+211,SESE3,redwood,Sequoia,sempervirens,NA,NA,2.46,4.92,2.04
+212,SEGI2,giant sequoia,Sequoiadendron,giganteum,NA,NA,2.86,5.72,2.54
+220,TAXOD,baldcypress spp.,Taxodium,spp.,NA,NA,2.77,5.54,1.96
+221,TADI2,baldcypress,Taxodium,distichum,NA,NA,2.76,5.52,1.95
+222,TAAS,pondcypress,Taxodium,ascendens,NA,NA,2.77,5.54,1.96
+223,TAMU,Montezuma baldcypress,Taxodium,mucronatum,NA,NA,2.77,5.54,1.96
+230,TAXUS,yew spp.,Taxus,spp.,NA,NA,2.61,5.22,1.49
+231,TABR2,Pacific yew,Taxus,brevifolia,NA,NA,2.61,5.22,1.49
+232,TAFL,Florida yew,Taxus,floridana,NA,NA,2.61,5.22,1.49
+240,THUJA,thuja spp.,Thuja,spp.,NA,NA,1.61,3.22,1.7
+241,THOC2,northern white-cedar,Thuja,occidentalis,NA,NA,1.84,3.68,1.98
+242,THPL,western redcedar,Thuja,plicata,NA,NA,1.36,2.72,1.41
+250,TORRE,torreya (nutmeg) spp.,Torreya,spp.,NA,NA,2.29,4.58,1.74
+251,TOCA,California torreya (nutmeg),Torreya,californica,NA,NA,2.29,4.58,1.74
+252,TOTA,Florida torreya (nutmeg),Torreya,taxifolia,NA,NA,2.29,4.58,1.74
+260,TSUGA,hemlock spp.,Tsuga,spp.,NA,NA,2.42,4.84,1.81
+261,TSCA,eastern hemlock,Tsuga,canadensis,NA,NA,2.61,5.22,2.09
+262,TSCA2,Carolina hemlock,Tsuga,caroliniana,NA,NA,2.42,4.84,1.81
+263,TSHE,western hemlock,Tsuga,heterophylla,NA,NA,2.22,4.44,1.64
+264,TSME,mountain hemlock,Tsuga,mertensiana,NA,NA,2.34,4.68,1.71
+299,2TE,unknown dead conifer,Tree,evergreen,NA,NA,2.29,4.58,1.74
+300,ACACI,acacia spp.,Acacia,spp.,NA,NA,2.96,5.92,2
+303,ACFA,sweet acacia,Acacia,farnesiana,NA,NA,2.96,5.92,1.76
+304,ACGR,catclaw acacia,Acacia,greggii,NA,NA,2.96,5.92,1.76
+310,ACER,maple spp.,Acer,spp.,NA,NA,2.52,5.04,1.73
+311,ACBA3,Florida maple,Acer,barbatum,NA,NA,2.52,5.04,1.73
+312,ACMA3,bigleaf maple,Acer,macrophyllum,NA,NA,2.38,4.76,1.75
+313,ACNE2,boxelder,Acer,negundo,NA,NA,2.45,4.9,1.91
+314,ACNI5,black maple,Acer,nigrum,NA,NA,2.91,5.82,1.72
+315,ACPE,striped maple,Acer,pensylvanicum,NA,NA,2.32,4.64,1.73
+316,ACRU,red maple,Acer,rubrum,NA,NA,2.46,4.92,1.65
+317,ACSA2,silver maple,Acer,saccharinum,NA,NA,2.26,4.52,1.69
+318,ACSA3,sugar maple,Acer,saccharum,NA,NA,2.94,5.88,1.62
+319,ACSP2,mountain maple,Acer,spicatum,NA,NA,2.52,5.04,1.73
+320,ACPL,Norway maple,Acer,platanoides,NA,NA,2.52,5.04,1.73
+321,ACGL,Rocky Mountain maple,Acer,glabrum,NA,NA,2.52,5.04,1.73
+322,ACGR3,bigtooth maple,Acer,grandidentatum,NA,NA,2.52,5.04,1.73
+323,ACLE,chalk maple,Acer,leucoderme,NA,NA,2.52,5.04,1.73
+330,AESCU,"buckeye, horsechestnut spp.",Aesculus,spp.,NA,NA,2.52,5.04,2.33
+331,AEGL,Ohio buckeye,Aesculus,glabra,NA,NA,2.52,5.04,2.33
+332,AEFL,yellow buckeye,Aesculus,flava,NA,NA,2.51,5.02,2.33
+333,AECA,California buckeye,Aesculus,californica,NA,NA,2.52,5.04,2.33
+334,AEGLA,Texas buckeye,Aesculus,glabra,arguta,NA,2.52,5.04,2.33
+336,AEPA,red buckeye,Aesculus,pavia,NA,NA,2.52,5.04,2.33
+337,AESY,painted buckeye,Aesculus,sylvatica,NA,NA,2.52,5.04,2.33
+341,AIAL,ailanthus,Ailanthus,altissima,NA,NA,2.6,5.2,1.75
+345,ALJU,"mimosa, silktree",Albizia,julibrissin,NA,NA,2.96,5.92,1.76
+350,ALNUS,alder spp.,Alnus,spp.,NA,NA,2.28,4.56,1.95
+351,ALRU2,red alder,Alnus,rubra,NA,NA,2.29,4.58,1.95
+352,ALRH2,white alder,Alnus,rhombifolia,NA,NA,2.28,4.56,1.95
+353,ALOB2,Arizona alder,Alnus,oblongifolia,NA,NA,2.28,4.56,1.95
+355,ALGL2,European alder,Alnus,glutinosa,NA,NA,2.28,4.56,1.95
+356,AMELA,serviceberry spp.,Amelanchier,spp.,NA,NA,3,6,1.49
+357,AMAR3,common serviceberry,Amelanchier,arborea,NA,NA,3,6,1.49
+358,AMSA,roundleaf serviceberry,Amelanchier,sanguinea,NA,NA,3,6,1.49
+360,ARBUT,madrone spp.,Arbutus,spp.,NA,NA,3.1,6.2,1.65
+361,ARME,Pacific madrone,Arbutus,menziesii,NA,NA,3.09,6.18,1.65
+362,ARAR2,Arizona madrone,Arbutus,arizonica,NA,NA,3.1,6.2,1.65
+363,ARXA80,Texas madrone,Arbutus,xalapensis,NA,NA,3.1,6.2,1.65
+367,ASTR,pawpaw,Asimina,triloba,NA,NA,2.96,5.92,1.76
+370,BETUL,birch spp.,Betula,spp.,NA,NA,2.73,5.46,1.72
+371,BEAL2,yellow birch,Betula,alleghaniensis,NA,NA,2.9,5.8,1.71
+372,BELE,sweet birch,Betula,lenta,NA,NA,3.17,6.34,1.71
+373,BENI,river birch,Betula,nigra,NA,NA,2.76,5.52,1.82
+374,BEOC2,water birch,Betula,occidentalis,NA,NA,2.73,5.46,1.72
+375,BEPA,paper birch,Betula,papyrifera,NA,NA,2.6,5.2,1.71
+376,BENE4,resin birch,Betula,neoalaskana,NA,NA,2.6,5.2,1.71
+377,BEUB,Virginia roundleaf birch,Betula,uber,NA,NA,2.73,5.46,1.72
+378,BEUT,northwestern paper birch,Betula,x utahensis,NA,NA,2.73,5.46,1.72
+379,BEPO,gray birch,Betula,populifolia,NA,NA,2.33,4.66,1.64
+381,SILAL3,"chittamwood, gum bumelia",Sideroxylon,lanuginosum,NA,lanuginosum,2.96,5.92,1.76
+391,CACA18,"American hornbeam, musclewood",Carpinus,caroliniana,NA,NA,2.65,5.3,1.5
+400,CARYA,hickory spp.,Carya,spp.,NA,NA,3.38,6.76,1.67
+401,CAAQ2,water hickory,Carya,aquatica,NA,NA,3.59,7.18,1.81
+402,CACO15,bitternut hickory,Carya,cordiformis,NA,NA,3.31,6.62,1.69
+403,CAGL8,pignut hickory,Carya,glabra,NA,NA,3.54,7.08,1.64
+404,CAIL2,pecan,Carya,illinoinensis,NA,NA,3.22,6.44,1.65
+405,CALA21,shellbark hickory,Carya,laciniosa,NA,NA,3.33,6.66,1.65
+406,CAMY,nutmeg hickory,Carya,myristiciformis,NA,NA,3.19,6.38,1.75
+407,CAOV2,shagbark hickory,Carya,ovata,NA,NA,3.27,6.54,1.56
+408,CATE9,black hickory,Carya,texana,NA,NA,3.38,6.76,1.67
+409,CAAL27,mockernut hickory,Carya,alba,NA,NA,3.39,6.78,1.62
+410,CAPA24,sand hickory,Carya,pallida,NA,NA,3.38,6.76,1.67
+411,CAFL6,scrub hickory,Carya,floridana,NA,NA,3.38,6.76,1.67
+412,CAOV3,red hickory,Carya,ovalis,NA,NA,3.38,6.76,1.67
+413,CACA38,southern shagbark hickory,Carya,carolinae-septentrionalis,NA,NA,3.38,6.76,1.67
+420,CASTA,chestnut spp.,Castanea,spp.,NA,NA,2.79,5.58,2.15
+421,CADE12,American chestnut,Castanea,dentata,NA,NA,2.79,5.58,2.15
+422,CAPU9,Allegheny chinkapin,Castanea,pumila,NA,NA,2.79,5.58,2.15
+423,CAPUO,Ozark chinkapin,Castanea,pumila,ozarkensis,NA,2.79,5.58,2.15
+424,CAMO83,Chinese chestnut,Castanea,mollissima,NA,NA,2.79,5.58,2.15
+431,CHCHC4,"giant chinkapin, golden chinkapin",Chrysolepis,chrysophylla,chrysophylla,NA,3.02,6.04,2.28
+450,CATAL,catalpa spp.,Catalpa,spp.,NA,NA,2.15,4.3,1.76
+451,CABI8,southern catalpa,Catalpa,bignonioides,NA,NA,2.15,4.3,1.76
+452,CASP8,northern catalpa,Catalpa,speciosa,NA,NA,2.15,4.3,1.76
+460,CELTI,hackberry spp.,Celtis,spp.,NA,NA,2.65,5.3,1.67
+461,CELA,sugarberry,Celtis,laevigata,NA,NA,2.65,5.3,1.67
+462,CEOC,hackberry,Celtis,occidentalis,NA,NA,2.64,5.28,1.67
+463,CELAR,netleaf hackberry,Celtis,laevigata,reticulata,NA,2.65,5.3,1.67
+471,CECA4,eastern redbud,Cercis,canadensis,NA,NA,2.96,5.92,1.76
+475,CELE3,curlleaf mountain-mahogany,Cercocarpus,ledifolius,NA,NA,2.96,5.92,1.76
+481,CLKE,yellowwood,Cladrastis,kentukea,NA,NA,2.96,5.92,1.76
+490,CORNU,dogwood spp.,Cornus,spp.,NA,NA,2.88,5.76,1.46
+491,COFL2,flowering dogwood,Cornus,florida,NA,NA,2.9,5.8,1.4
+492,CONU4,Pacific dogwood,Cornus,nuttallii,NA,NA,2.85,5.7,1.52
+500,CRATA,hawthorn spp.,Crataegus,spp.,NA,NA,2.96,5.92,1.76
+501,CRCR2,cockspur hawthorn,Crataegus,crus-galli,NA,NA,2.96,5.92,1.76
+502,CRMO2,downy hawthorn,Crataegus,mollis,NA,NA,2.96,5.92,1.76
+503,CRBR3,Brainerd's hawthorn,Crataegus,brainerdii,NA,NA,2.96,5.92,1.76
+504,CRCA,pear hawthorn,Crataegus,calpodendron,NA,NA,2.96,5.92,1.76
+505,CRCH,fireberry hawthorn,Crataegus,chrysocarpa,NA,NA,2.96,5.92,1.76
+506,CRDI,broadleaf hawthorn,Crataegus,dilatata,NA,NA,2.96,5.92,1.76
+507,CRFL,fanleaf hawthorn,Crataegus,flabellata,NA,NA,2.96,5.92,1.76
+508,CRMO3,oneseed hawthorn,Crataegus,monogyna,NA,NA,2.96,5.92,1.76
+509,CRPE,scarlet hawthorn,Crataegus,pedicellata,NA,NA,2.96,5.92,1.76
+510,EUCAL,eucalyptus spp.,Eucalyptus,spp.,NA,NA,2.96,5.92,1.76
+511,EUGL,Tasmanian bluegum,Eucalyptus,globulus,NA,NA,2.96,5.92,1.76
+512,EUCA2,river redgum,Eucalyptus,camaldulensis,NA,NA,2.96,5.92,1.76
+513,EUGR12,grand eucalyptus,Eucalyptus,grandis,NA,NA,2.96,5.92,1.76
+514,EURO2,swampmahogany,Eucalyptus,robusta,NA,NA,2.96,5.92,1.76
+520,DIOSP,persimmon spp.,Diospyros,spp.,NA,NA,3.35,6.7,1.61
+521,DIVI5,common persimmon,Diospyros,virginiana,NA,NA,3.35,6.7,1.61
+522,DITE3,Texas persimmon,Diospyros,texana,NA,NA,3.35,6.7,2
+523,EHAN,Anacua knockaway,Ehretia,anacua,NA,NA,2.96,5.92,1.76
+531,FAGR,American beech,Fagus,grandifolia,NA,NA,2.61,5.22,1.57
+540,FRAXI,ash spp.,Fraxinus,spp.,NA,NA,2.73,5.46,1.64
+541,FRAM2,white ash,Fraxinus,americana,NA,NA,2.72,5.44,1.51
+542,FRLA,Oregon ash,Fraxinus,latifolia,NA,NA,2.68,5.36,1.64
+543,FRNI,black ash,Fraxinus,nigra,NA,NA,2.73,5.46,1.86
+544,FRPE,green ash,Fraxinus,pennsylvanica,NA,NA,2.75,5.5,1.59
+545,FRPR,pumpkin ash,Fraxinus,profunda,NA,NA,2.66,5.32,1.7
+546,FRQU,blue ash,Fraxinus,quadrangulata,NA,NA,2.7,5.4,1.55
+547,FRVE2,velvet ash,Fraxinus,velutina,NA,NA,2.73,5.46,1.64
+548,FRCA3,Carolina ash,Fraxinus,caroliniana,NA,NA,2.73,5.46,1.64
+549,FRTE,Texas ash,Fraxinus,texensis,NA,NA,2.73,5.46,1.64
+550,GLEDI,honeylocust spp.,Gleditsia,spp.,NA,NA,3.17,6.34,1.63
+551,GLAQ,waterlocust,Gleditsia,aquatica,NA,NA,3.17,6.34,1.63
+552,GLTR,honeylocust,Gleditsia,triacanthos,NA,NA,3.18,6.36,1.63
+555,GOLA,loblolly-bay,Gordonia,lasianthus,NA,NA,2.96,5.92,1.76
+561,GIBI2,"ginkgo, maidenhair tree",Ginkgo,biloba,NA,NA,2.96,5.92,1.76
+571,GYDI,Kentucky coffeetree,Gymnocladus,dioicus,NA,NA,2.61,5.22,1.52
+580,HALES,silverbell spp.,Halesia,spp.,NA,NA,2.32,4.64,1.71
+581,HACA3,Carolina silverbell,Halesia,carolina,NA,NA,2.32,4.64,1.71
+582,HADI3,two-wing silverbell,Halesia,diptera,NA,NA,2.32,4.64,1.71
+583,HAPA2,little silverbell,Halesia,parviflora,NA,NA,2.32,4.64,1.71
+591,ILOP,American holly,Ilex,opaca,NA,NA,2.96,5.92,1.84
+600,JUGLA,walnut spp.,Juglans,spp.,NA,NA,2.72,5.44,1.92
+601,JUCI,butternut,Juglans,cinerea,NA,NA,2.36,4.72,2.02
+602,JUNI,black walnut,Juglans,nigra,NA,NA,2.97,5.94,1.8
+603,JUHI,northern California black walnut,Juglans,hindsii,NA,NA,2.72,5.44,1.92
+604,JUCA,southern California black walnut,Juglans,californica,NA,NA,2.72,5.44,1.92
+605,JUMI,Texas walnut,Juglans,microcarpa,NA,NA,2.72,5.44,1.92
+606,JUMA,Arizona walnut,Juglans,major,NA,NA,2.72,5.44,1.92
+611,LIST2,sweetgum,Liquidambar,styraciflua,NA,NA,2.62,5.24,1.76
+621,LITU,yellow-poplar,Liriodendron,tulipifera,NA,NA,2.64,5.28,1.99
+631,LIDE3,tanoak,Lithocarpus,densiflorus,NA,NA,3.42,6.84,1.76
+641,MAPO,Osage-orange,Maclura,pomifera,NA,NA,3.3,6.6,1.34
+650,MAGNO,magnolia spp.,Magnolia,spp.,NA,NA,2.67,5.34,1.92
+651,MAAC,cucumbertree,Magnolia,acuminata,NA,NA,2.56,5.12,1.8
+652,MAGR4,southern magnolia,Magnolia,grandiflora,NA,NA,3.02,6.04,2.04
+653,MAVI2,sweetbay,Magnolia,virginiana,NA,NA,2.57,5.14,1.89
+654,MAMA2,bigleaf magnolia,Magnolia,macrophylla,NA,NA,2.67,5.34,1.92
+655,MAFR,mountain or Fraser magnolia,Magnolia,fraseri,NA,NA,2.53,5.06,1.95
+657,MAPY,pyramid magnolia,Magnolia,pyramidata,NA,NA,2.67,5.34,1.92
+658,MATR,umbrella magnolia,Magnolia,tripetala,NA,NA,2.67,5.34,1.92
+660,MALUS,apple spp.,Malus,spp.,NA,NA,3.49,6.98,1.77
+661,MAFU,Oregon crab apple,Malus,fusca,NA,NA,3.49,6.98,1.77
+662,MAAN3,southern crab apple,Malus,angustifolia,NA,NA,3.49,6.98,1.77
+663,MACO5,sweet crab apple,Malus,coronaria,NA,NA,3.49,6.98,1.77
+664,MAIO,prairie crab apple,Malus,ioensis,NA,NA,3.49,6.98,1.77
+680,MORUS,mulberry spp.,Morus,spp.,NA,NA,2.96,5.92,1.76
+681,MOAL,white mulberry,Morus,alba,NA,NA,2.96,5.92,1.76
+682,MORU2,red mulberry,Morus,rubra,NA,NA,2.96,5.92,1.76
+683,MOMI,Texas mulberry,Morus,microphylla,NA,NA,2.96,5.92,1.76
+684,MONI,black mulberry,Morus,nigra,NA,NA,2.96,5.92,1.76
+690,NYSSA,tupelo spp.,Nyssa,spp.,NA,NA,2.88,5.76,1.95
+691,NYAQ2,water tupelo,Nyssa,aquatica,NA,NA,2.85,5.7,1.93
+692,NYOG,Ogeechee tupelo,Nyssa,ogeche,NA,NA,2.88,5.76,1.95
+693,NYSY,blackgum,Nyssa,sylvatica,NA,NA,2.91,5.82,1.97
+694,NYBI,swamp tupelo,Nyssa,biflora,NA,NA,2.88,5.76,1.95
+701,OSVI,eastern hophornbeam,Ostrya,virginiana,NA,NA,3.2,6.4,1.57
+711,OXAR,sourwood,Oxydendrum,arboreum,NA,NA,2.72,5.44,1.68
+712,PATO2,"paulownia, empress-tree",Paulownia,tomentosa,NA,NA,2.96,5.92,1.76
+715,MAPA28,Maytenus palauica,Maytenus,palauica,NA,NA,2.11,4.22,1.76
+718,OSTR,kesiamel,Osmoxylon,truncatum,NA,NA,1.04,2.08,1.76
+720,PERSE,bay spp.,Persea,spp.,NA,NA,2.96,5.92,1.76
+721,PEBO,redbay,Persea,borbonia,NA,NA,2.96,5.92,1.76
+722,PLAQ,"water-elm, planertree",Planera,aquatica,NA,NA,2.96,5.92,1.76
+729,PLATA,sycamore spp.,Platanus,spp.,NA,NA,2.53,5.06,1.81
+730,PLRA,California sycamore,Platanus,racemosa,NA,NA,2.53,5.06,1.81
+731,PLOC,American sycamore,Platanus,occidentalis,NA,NA,2.53,5.06,1.81
+732,PLWR2,Arizona sycamore,Platanus,wrightii,NA,NA,2.53,5.06,1.81
+740,POPUL,cottonwood and poplar spp.,Populus,spp.,NA,NA,2.37,4.74,2.03
+741,POBA2,balsam poplar,Populus,balsamifera,NA,NA,2.16,4.32,2.01
+742,PODE3,eastern cottonwood,Populus,deltoides,NA,NA,2.61,5.22,2.05
+743,POGR4,bigtooth aspen,Populus,grandidentata,NA,NA,2.21,4.42,1.91
+744,POHE4,swamp cottonwood,Populus,heterophylla,NA,NA,2.37,4.74,2.03
+745,PODEM,plains cottonwood,Populus,deltoides,NA,monilifera,2.37,4.74,2.03
+746,POTR5,quaking aspen,Populus,tremuloides,NA,NA,2.54,5.08,2.24
+747,POBAT,black cottonwood,Populus,balsamifera,NA,trichocarpa,2.36,4.72,2.31
+748,POFR2,Fremont cottonwood,Populus,fremontii,NA,NA,2.29,4.58,1.63
+749,POAN3,narrowleaf cottonwood,Populus,angustifolia,NA,NA,2.37,4.74,2.03
+752,POAL7,silver poplar,Populus,alba,NA,NA,2.37,4.74,2.03
+753,PONI,Lombardy poplar,Populus,nigra,NA,NA,2.37,4.74,2.03
+755,PROSO,mesquite spp.,Prosopis,spp.,NA,NA,3.12,6.24,1.23
+756,PRGL2,honey mesquite,Prosopis,glandulosa,NA,NA,3.11,6.22,1.23
+757,PRVE,velvet mesquite,Prosopis,velutina,NA,NA,3.11,6.22,1.23
+758,PRPU,screwbean mesquite,Prosopis,pubescens,NA,NA,3.11,6.22,1.23
+760,PRUNU,cherry and plum spp.,Prunus,spp.,NA,NA,2.25,4.5,1.57
+761,PRPE2,pin cherry,Prunus,pensylvanica,NA,NA,2.25,4.5,1.57
+762,PRSE2,black cherry,Prunus,serotina,NA,NA,2.26,4.52,1.58
+763,PRVI,chokecherry,Prunus,virginiana,NA,NA,2.25,4.5,1.57
+764,PRPE3,peach,Prunus,persica,NA,NA,2.25,4.5,1.57
+765,PRNI,Canada plum,Prunus,nigra,NA,NA,2.25,4.5,1.57
+766,PRAM,American plum,Prunus,americana,NA,NA,2.25,4.5,1.57
+768,PREM,bitter cherry,Prunus,emarginata,NA,NA,2.25,4.5,1.57
+769,PRAL5,Allegheny plum,Prunus,alleghaniensis,NA,NA,2.25,4.5,1.57
+770,PRAN3,Chickasaw plum,Prunus,angustifolia,NA,NA,2.25,4.5,1.57
+771,PRAV,sweet cherry,Prunus,avium,NA,NA,2.25,4.5,1.57
+772,PRCE,sour cherry,Prunus,cerasus,NA,NA,2.25,4.5,1.57
+773,PRDO,European plum,Prunus,domestica,NA,NA,2.25,4.5,1.57
+774,PRMA,Mahaleb cherry,Prunus,mahaleb,NA,NA,2.25,4.5,1.57
+800,QUERC,oak spp.,Quercus,spp.,NA,NA,3.48,6.96,1.76
+801,QUAG,California live oak,Quercus,agrifolia,NA,NA,3.48,6.96,1.76
+802,QUAL,white oak,Quercus,alba,NA,NA,3.35,6.7,1.71
+803,QUAR,Arizona white oak,Quercus,arizonica,NA,NA,3.48,6.96,1.76
+804,QUBI,swamp white oak,Quercus,bicolor,NA,NA,3.38,6.76,1.62
+805,QUCH2,canyon live oak,Quercus,chrysolepis,NA,NA,4.02,8.04,1.76
+806,QUCO2,scarlet oak,Quercus,coccinea,NA,NA,3.43,6.86,1.66
+807,QUDO,blue oak,Quercus,douglasii,NA,NA,3.48,6.96,1.76
+808,QUSIS,Durand oak,Quercus,sinuata,sinuata,NA,3.48,6.96,1.76
+809,QUEL,northern pin oak,Quercus,ellipsoidalis,NA,NA,3.48,6.96,1.76
+810,QUEM,Emory oak,Quercus,emoryi,NA,NA,3.48,6.96,1.76
+811,QUEN,Engelmann oak,Quercus,engelmannii,NA,NA,3.48,6.96,1.76
+812,QUFA,southern red oak,Quercus,falcata,NA,NA,3.36,6.72,1.86
+813,QUPA5,cherrybark oak,Quercus,pagoda,NA,NA,3.6,7.2,1.72
+814,QUGA,Gambel oak,Quercus,gambelii,NA,NA,3.46,6.92,1.66
+815,QUGA4,Oregon white oak,Quercus,garryana,NA,NA,3.31,6.62,1.59
+816,QUIL,scrub oak,Quercus,ilicifolia,NA,NA,3.48,6.96,1.76
+817,QUIM,shingle oak,Quercus,imbricaria,NA,NA,3.48,6.96,1.76
+818,QUKE,California black oak,Quercus,kelloggii,NA,NA,3.48,6.96,1.99
+819,QULA2,turkey oak,Quercus,laevis,NA,NA,3.48,6.96,1.76
+820,QULA3,laurel oak,Quercus,laurifolia,NA,NA,3.44,6.88,1.88
+821,QULO,California white oak,Quercus,lobata,NA,NA,3.3,6.6,1.84
+822,QULY,overcup oak,Quercus,lyrata,NA,NA,3.5,7,1.79
+823,QUMA2,bur oak,Quercus,macrocarpa,NA,NA,3.33,6.66,1.76
+824,QUMA3,blackjack oak,Quercus,marilandica,NA,NA,3.48,6.96,1.76
+825,QUMI,swamp chestnut oak,Quercus,michauxii,NA,NA,3.57,7.14,1.72
+826,QUMU,chinkapin oak,Quercus,muehlenbergii,NA,NA,3.48,6.96,1.76
+827,QUNI,water oak,Quercus,nigra,NA,NA,3.32,6.64,1.82
+828,QUTE,Nuttall oak,Quercus,texana,NA,NA,3.48,6.96,1.76
+829,QUOB,Mexican blue oak,Quercus,oblongifolia,NA,NA,3.48,6.96,1.76
+830,QUPA2,pin oak,Quercus,palustris,NA,NA,3.56,7.12,1.79
+831,QUPH,willow oak,Quercus,phellos,NA,NA,3.36,6.72,1.84
+832,QUPR2,chestnut oak,Quercus,prinus,NA,NA,3.43,6.86,1.74
+833,QURU,northern red oak,Quercus,rubra,NA,NA,3.48,6.96,1.85
+834,QUSH,Shumard oak,Quercus,shumardii,NA,NA,3.48,6.96,1.76
+835,QUST,post oak,Quercus,stellata,NA,NA,3.58,7.16,1.74
+836,QUSI2,Delta post oak,Quercus,similis,NA,NA,3.48,6.96,1.76
+837,QUVE,black oak,Quercus,velutina,NA,NA,3.43,6.86,1.84
+838,QUVI,live oak,Quercus,virginiana,NA,NA,4.1,8.2,1.56
+839,QUWI2,interior live oak,Quercus,wislizeni,NA,NA,3.48,6.96,1.76
+840,QUMA6,dwarf post oak,Quercus,margarettiae,NA,NA,3.48,6.96,1.76
+841,QUMI2,dwarf live oak,Quercus,minima,NA,NA,3.48,6.96,1.76
+842,QUIN,bluejack oak,Quercus,incana,NA,NA,3.48,6.96,1.76
+843,QUHY,silverleaf oak,Quercus,hypoleucoides,NA,NA,3.48,6.96,1.76
+844,QUOG,Oglethorpe oak,Quercus,oglethorpensis,NA,NA,3.48,6.96,1.76
+845,QUPR,dwarf chinkapin oak,Quercus,prinoides,NA,NA,3.48,6.96,1.76
+846,QUGR3,gray oak,Quercus,grisea,NA,NA,3.48,6.96,1.76
+847,QURU4,netleaf oak,Quercus,rugosa,NA,NA,3.48,6.96,1.76
+851,QUGR,Chisos oak,Quercus,graciliformis,NA,NA,3.48,6.96,1.76
+852,AMEL,sea torchwood,Amyris,elemifera,NA,NA,2.96,5.92,1.76
+853,ANGL4,pond-apple,Annona,glabra,NA,NA,2.96,5.92,1.76
+854,BUSI,gumbo limbo,Bursera,simaruba,NA,NA,2.96,5.92,1.76
+855,CASUA,sheoak spp.,Casuarina,spp.,NA,NA,2.96,5.92,1.76
+856,CAGL11,gray sheoak,Casuarina,glauca,NA,NA,2.96,5.92,1.76
+857,CALE28,belah,Casuarina,lepidophloia,NA,NA,2.96,5.92,1.76
+858,CICA,camphortree,Cinnamomum,camphora,NA,NA,2.96,5.92,1.76
+859,CIFR,Florida fiddlewood,Citharexylum,fruticosum,NA,NA,2.96,5.92,1.76
+860,CITRU2,citrus spp.,Citrus,spp.,NA,NA,2.96,5.92,1.76
+863,CODI8,"tietongue, pigeon-plum",Coccoloba,diversifolia,NA,NA,2.96,5.92,1.76
+864,COEL2,soldierwood,Colubrina,elliptica,NA,NA,2.96,5.92,1.76
+865,COSE2,largeleaf geigertree,Cordia,sebestena,NA,NA,2.96,5.92,1.76
+866,CUAN4,carrotwood,Cupaniopsis,anacardioides,NA,NA,2.96,5.92,1.76
+867,COHO,Bluewood,Condalia,hookeri,NA,NA,2.96,5.92,1.76
+868,EBEB,Blackbead ebony,Ebenopsis,ebano,NA,NA,2.96,5.92,1.76
+869,LEPU3,Great leucaene,Leucaena,pulverulenta,NA,NA,2.96,5.92,1.76
+870,SOAF,Texas sophora,Sophora,affinis,NA,NA,2.96,5.92,1.76
+873,EURH,red stopper,Eugenia,rhombea,NA,NA,2.96,5.92,1.76
+874,EXPA,"butterbough, inkwood",Exothea,paniculata,NA,NA,2.96,5.92,1.76
+876,FIAU,Florida strangler fig,Ficus,aurea,NA,NA,2.96,5.92,1.76
+877,FICI,"wild banyantree, shortleaf fig",Ficus,citrifolia,NA,NA,2.96,5.92,1.76
+882,GUDI,"beeftree, longleaf blolly",Guapira,discolor,NA,NA,2.96,5.92,1.76
+883,HIMA2,manchineel,Hippomane,mancinella,NA,NA,2.96,5.92,1.76
+884,LYLA3,false tamarind,Lysiloma,latisiliquum,NA,NA,2.96,5.92,1.76
+885,MAIN3,mango,Mangifera,indica,NA,NA,2.96,5.92,1.76
+886,METO3,Florida poisontree,Metopium,toxiferum,NA,NA,2.96,5.92,1.76
+887,PIPI3,fishpoison tree,Piscidia,piscipula,NA,NA,2.96,5.92,1.76
+888,SCAC2,"octopus tree, schefflera",Schefflera,actinophylla,NA,NA,2.96,5.92,1.76
+890,SIFO,false mastic,Sideroxylon,foetidissimum,NA,NA,2.96,5.92,1.76
+891,SISA6,"white bully, willow bustic",Sideroxylon,salicifolium,NA,NA,2.96,5.92,1.76
+895,SIGL3,paradisetree,Simarouba,glauca,NA,NA,2.96,5.92,1.76
+896,SYCU,Java plum,Syzygium,cumini,NA,NA,2.96,5.92,1.76
+897,TAIN2,tamarind,Tamarindus,indica,NA,NA,2.96,5.92,1.76
+901,ROPS,black locust,Robinia,pseudoacacia,NA,NA,3.13,6.26,1.44
+902,RONE,New Mexico locust,Robinia,neomexicana,NA,NA,3.14,6.28,1.44
+906,ACWR4,"Everglades palm, paurotis-palm",Acoelorraphe,wrightii,NA,NA,2.96,5.92,1.76
+907,COAR,Florida silver palm,Coccothrinax,argentata,NA,NA,2.96,5.92,1.76
+908,CONU,coconut palm,Cocos,nucifera,NA,NA,2.96,5.92,1.76
+909,ROYST,royal palm spp.,Roystonea,spp.,NA,NA,2.96,5.92,1.76
+911,SAME8,Mexican palmetto,Sabal,mexicana,NA,NA,2.96,5.92,1.76
+912,SAPA,cabbage palmetto,Sabal,palmetto,NA,NA,2.96,5.92,1.76
+913,THMO4,key thatch palm,Thrinax,morrisii,NA,NA,2.96,5.92,1.76
+914,THRA2,Florida thatch palm,Thrinax,radiata,NA,NA,2.96,5.92,1.76
+915,ARECA,other palms,Family Arecaceae,not listed above,NA,NA,2.96,5.92,1.76
+919,SASAD,western soapberry,Sapindus,saponaria,drummondii,NA,2.96,5.92,1.76
+920,SALIX,willow spp.,Salix,spp.,NA,NA,2.62,5.24,2.22
+921,SAAM2,peachleaf willow,Salix,amygdaloides,NA,NA,2.62,5.24,2.22
+922,SANI,black willow,Salix,nigra,NA,NA,2.62,5.24,2.22
+923,SABE2,Bebb willow,Salix,bebbiana,NA,NA,2.62,5.24,2.22
+924,SABO,Bonpland willow,Salix,bonplandiana,NA,NA,2.62,5.24,2.22
+925,SACA5,coastal plain willow,Salix,caroliniana,NA,NA,2.62,5.24,2.22
+926,SAPY,balsam willow,Salix,pyrifolia,NA,NA,2.62,5.24,2.22
+927,SAAL2,white willow,Salix,alba,NA,NA,2.62,5.24,2.22
+928,SASC,Scouler's willow,Salix,scouleriana,NA,NA,2.62,5.24,2.22
+929,SASE10,weeping willow,Salix,x sepulcralis,NA,NA,2.62,5.24,2.22
+931,SAAL5,sassafras,Sassafras,albidum,NA,NA,2.32,4.64,1.71
+934,SORBU,mountain-ash spp.,Sorbus,spp.,NA,NA,2.96,5.92,1.76
+935,SOAM3,American mountain-ash,Sorbus,americana,NA,NA,2.96,5.92,1.76
+936,SOAU,European mountain-ash,Sorbus,aucuparia,NA,NA,2.96,5.92,1.76
+937,SODE3,northern mountain-ash,Sorbus,decora,NA,NA,2.96,5.92,1.76
+940,SWMA2,West Indian mahogany,Swietenia,mahagoni,NA,NA,2.96,5.92,1.76
+950,TILIA,basswood spp.,Tilia,spp.,NA,NA,2.02,4.04,2.03
+951,TIAM,American basswood,Tilia,americana,NA,NA,2.03,4.06,2.03
+952,TIAMH,white basswood,Tilia,americana,heterophylla,NA,2.02,4.04,2.03
+953,TIAMC,Carolina basswood,Tilia,americana,caroliniana,NA,2.02,4.04,2.03
+970,ULMUS,elm spp.,Ulmus,spp.,NA,NA,2.92,5.84,1.69
+971,ULAL,winged elm,Ulmus,alata,NA,NA,2.8,5.6,1.45
+972,ULAM,American elm,Ulmus,americana,NA,NA,2.83,5.66,1.92
+973,ULCR,cedar elm,Ulmus,crassifolia,NA,NA,3.15,6.3,1.67
+974,ULPU,Siberian elm,Ulmus,pumila,NA,NA,2.92,5.84,1.69
+975,ULRU,slippery elm,Ulmus,rubra,NA,NA,2.9,5.8,1.84
+976,ULSE,September elm,Ulmus,serotina,NA,NA,2.92,5.84,1.69
+977,ULTH,rock elm,Ulmus,thomasii,NA,NA,2.77,5.54,1.52
+981,UMCA,California laurel,Umbellularia,californica,NA,NA,2.69,5.38,1.63
+982,YUBR,Joshua tree,Yucca,brevifolia,NA,NA,2.96,5.92,1.76
+986,AVGE,black mangrove,Avicennia,germinans,NA,NA,2.96,5.92,1.76
+987,COER2,buttonwood-mangrove,Conocarpus,erectus,NA,NA,2.96,5.92,1.76
+988,LARA2,white mangrove,Laguncularia,racemosa,NA,NA,2.96,5.92,1.76
+989,RHMA2,American mangrove,Rhizophora,mangle,NA,NA,2.96,5.92,1.76
+990,OLTE,desert ironwood,Olneya,tesota,NA,NA,2.96,5.92,1.76
+991,TAMAR2,saltcedar,Tamarix,spp.,NA,NA,2.96,5.92,1.76
+992,MEQU,melaleuca,Melaleuca,quinquenervia,NA,NA,2.96,5.92,1.76
+993,MEAZ,chinaberry,Melia,azedarach,NA,NA,2.96,5.92,1.76
+994,TRSE6,Chinese tallowtree,Triadica,sebifera,NA,NA,2.96,5.92,1.76
+995,VEFO,tungoil tree,Vernicia,fordii,NA,NA,2.96,5.92,1.76
+996,COOB2,smoketree,Cotinus,obovatus,NA,NA,2.96,5.92,1.76
+997,ELAN,Russian-olive,Elaeagnus,angustifolia,NA,NA,2.96,5.92,1.76
+998,2TB,unknown dead hardwood,Tree,broadleaf,NA,NA,2.96,5.92,1.76
+999,2TREE,other or unknown live tree,Tree,unknown,NA,NA,2.96,5.92,1.76
+5091,CRPH,Washington hawthorn,Crataegus,phaenopyrum,NA,NA,2.96,5.92,1.76
+5092,CRSU5,fleshy hawthorn,Crataegus,succulenta,NA,NA,2.96,5.92,1.76
+5093,CRUN,dwarf hawthorn,Crataegus,uniflora,NA,NA,2.96,5.92,1.76
+5146,ACCI,vine maple,Acer,circinatum,NA,NA,2.52,5.04,2
+5147,ACGI,Amur maple,Acer,ginnala,NA,NA,2.52,5.04,1.76
+5149,ACMO10,Painted maple,Acer,mono,NA,NA,2.52,5.04,1.62
+5150,ACPA2,Japanese maple,Acer,palmatum,NA,NA,2.58,5.16,1.76
+5151,ACPS,sycamore maple,Acer,pseudoplatanus,NA,NA,2.52,5.04,1.76
+5152,ACTA80,tatarian maple,Acer,tataricum,NA,NA,2.52,5.04,2
+5188,ALIN2,gray alder,Alnus,incana,NA,NA,2.28,4.56,1.95
+5260,BAHA,eastern baccharis,Baccharis,halimifolia,NA,NA,2.96,5.92,2
+5261,BAGA2,peach palm,Bactris,gasipaes,NA,NA,2.96,5.92,1.76
+5279,BEPE3,European white birch,Betula,pendula,NA,NA,2.73,5.46,2
+5363,CAJA9,camellia,Camellia,japonica,NA,NA,2.96,5.92,2
+5378,CABE8,European hornbeam,Carpinus,betulus,NA,NA,2.96,5.92,2
+5420,CEAT4,Atlas cedar,Cedrus,atlantica,NA,NA,2.42,4.84,2
+5421,CELI6,cedar of Lebanon,Cedrus,libani,NA,NA,2.29,4.58,2
+5423,CEDE2,Deodar cedar,Cedrus,deodara,NA,NA,2.29,4.58,2
+5491,FRBE,Berlandier ash,Fraxinus,berlandieriana,NA,NA,2.73,5.46,1.64
+5493,FROX,Caucasian ash,Fraxinus,oxycarpa,NA,NA,2.72,5.44,2
+5591,COKO2,kousa dogwood,Cornus,kousa,NA,NA,2.88,5.76,2
+5600,COCO30,Turkish hazelnut,Corylus,colurna,NA,NA,2.9,5.8,2
+5603,COCO10,European smoketree,Cotinus,coggygria,NA,NA,2.96,5.92,1.76
+5800,CULE2,Leyland cypress,Cupressocyparis,leylandii,NA,NA,2.29,4.58,2
+5818,CYOB2,quince,Cydonia,oblonga,NA,NA,2.96,5.92,2
+6001,ACAN4,blackbrush wattle,Acacia,anegadensis,NA,NA,2.96,5.92,1.76
+6002,ACAN10,mulga,Acacia,aneura,NA,NA,2.76,5.52,1.76
+6003,ACAU,auri,Acacia,auriculiformis,NA,NA,1.91,3.82,1.76
+6004,ACCO,small Philippine acacia,Acacia,confusa,NA,NA,2,4,1.76
+6006,ACKO,koa,Acacia,koa,NA,NA,1.55,3.1,1.76
+6007,ACKO2,koaoha,Acacia,koaia,NA,NA,2.16,4.32,1.76
+6008,ACMA,porknut,Acacia,macracantha,NA,NA,2.96,5.92,1.76
+6009,ACMA12,black wattle,Acacia,mangium,NA,NA,2.96,5.92,1.76
+6010,ACME80,black wattle,Acacia,mearnsii,NA,NA,1.83,3.66,1.76
+6011,ACME,blackwood,Acacia,melanoxylon,NA,NA,1.56,3.12,1.76
+6012,ACMU,spineless wattle,Acacia,muricata,NA,NA,2.96,5.92,1.76
+6013,ACNI2,gum arabic tree,Acacia,nilotica,NA,NA,2.96,5.92,1.76
+6014,ACPA81,South Wales wattle,Acacia,parramattensis,NA,NA,2.16,4.32,1.76
+6015,ACPO3,Acacia polyacantha,Acacia,polyacantha,NA,NA,2.96,5.92,1.76
+6018,ACTO,poponax,Acacia,tortuosa,NA,NA,2.96,5.92,1.76
+6019,ACLO,Sydney golden wattle,Acacia,longifolia,NA,NA,2.96,5.92,1.76
+6021,ACAR,hollowheart,Acnistus,arborescens,NA,NA,2.96,5.92,1.76
+6023,ACME2,grugru palm,Acrocomia,media,NA,NA,2.96,5.92,1.76
+6025,ADDI3,baobab,Adansonia,digitata,NA,NA,2.96,5.92,1.76
+6026,ADRI,wild lime,Adelia,ricinella,NA,NA,2.96,5.92,1.76
+6028,ADPA,red beadtree,Adenanthera,pavonina,NA,NA,2.96,5.92,1.76
+6029,ADENA,beadtree,Adenanthera,spp.,NA,NA,1.91,3.82,1.76
+6032,AEMA,Caribbean spiritweed,Aegiphila,martinicensis,NA,NA,2.96,5.92,1.76
+6034,AFFA,yellowwood,Afrocarpus,falcatus,NA,NA,2.96,5.92,1.76
+6035,AFGR,East African yellowwood,Afrocarpus,gracilior,NA,NA,2.96,5.92,1.76
+6036,AGAU4,kauri,Agathis,australis,NA,NA,2.96,5.92,1.76
+6037,AGRO6,Queensland kauri,Agathis,robusta,NA,NA,2.96,5.92,1.76
+6042,AGMA14,Titimel,Aglaia,mariannensis,NA,NA,1.85,3.7,1.76
+6043,AGPA19,mesecheues,Aglaia,palauensis,NA,NA,1.85,3.7,1.76
+6044,AGPO4,"karasyu, marasau",Aglaia,ponapensis,NA,NA,1.85,3.7,1.76
+6046,AGSA9,laga ali,Aglaia,samoensis,NA,NA,1.85,3.7,1.76
+6047,AGLAI,Aglaia,Aglaia,spp.,NA,NA,1.85,3.7,1.76
+6048,AICO2,Olomea,Aidia,cochinchinensis,NA,NA,1.86,3.72,1.76
+6049,AIRA2,Aidia racemosa,Aidia,racemosa,NA,NA,2.16,4.32,1.76
+6051,AILAN,ailanthus,Ailanthus,spp.,NA,NA,1.05,2.1,1.76
+6053,AIMI,Aiphanes minima,Aiphanes,minima,NA,NA,2.96,5.92,1.76
+6055,ALAD,cream albizia,Albizia,adinocephala,NA,NA,2.96,5.92,1.76
+6056,ALCA8,naked albizia,Albizia,carbonaria,NA,NA,2.96,5.92,1.76
+6057,ALCH2,Chinese albizia,Albizia,chinensis,NA,NA,0.84,1.68,1.76
+6058,ALFA5,ukall ra ngebard,Albizia,falcataria,NA,NA,0.8,1.6,1.76
+6059,ALLE,woman's tongue,Albizia,lebbeck,NA,NA,2.96,5.92,1.76
+6060,ALPR,tall albizia,Albizia,procera,NA,NA,2.96,5.92,1.76
+6061,ALRE,ukall ra ngebard,Albizia,retusa,NA,NA,1.29,2.58,1.76
+6062,ALSA10,whiteflower albizia,Albizia,saponaria,NA,NA,1.6,3.2,1.76
+6063,ALBIZ,albizia,Albizia,spp.,NA,NA,1.51,3.02,1.76
+6064,ALLA,achiotillo,Alchornea,latifolia,NA,NA,2.96,5.92,1.76
+6066,ALFL3,palo de gallina,Alchorneopsis,floribunda,NA,NA,2.96,5.92,1.76
+6069,ALMA,Hawaii alectryon,Alectryon,macrococcus,NA,NA,2.64,5.28,1.76
+6073,ALECT,alectryon,Alectryon,spp.,NA,NA,2.64,5.28,1.76
+6075,ALMO2,Indian walnut,Aleurites,moluccana,NA,NA,2.96,5.92,1.76
+6077,ALEUR,aleurites,Aleurites,spp.,NA,NA,1.04,2.08,1.76
+6078,ALTR11,lumbang,Aleurites,trisperma,NA,NA,1.21,2.42,1.76
+6080,ALCR9,palo blanco,Allophylus,crassinervis,NA,NA,2.96,5.92,1.76
+6082,ALRA,palo de caja,Allophylus,racemosus,NA,NA,2.96,5.92,1.76
+6083,ALLOP,Allophylus,Allophylus,spp.,NA,NA,1.43,2.86,1.76
+6084,ALTE13,chebeludes,Allophylus,ternatus,NA,NA,1.43,2.86,1.76
+6085,ALTI2,"ebeludes, chebeludes",Allophylus,timorensis,NA,NA,1.43,2.86,1.76
+6086,ALNE2,Nepal alder,Alnus,nepalensis,NA,NA,1.08,2.16,1.76
+6088,ALCA21,"chelebiob, elebiong",Alphitonia,carolinensis,NA,NA,1.4,2.8,1.76
+6089,ALPO3,Hawaii kauilatree,Alphitonia,ponderosa,NA,NA,1.4,2.8,1.76
+6090,ALPHI,Alphitonia,Alphitonia,spp.,NA,NA,1.4,2.8,1.76
+6091,ALZI,toi,Alphitonia,zizyphoides,NA,NA,1.12,2.24,1.76
+6092,ALBR4,helecho gigante de la sierra,Alsophila,bryophila,NA,NA,2.96,5.92,1.76
+6093,ALPO7,Alsophila portoricensis,Alsophila,portoricensis,NA,NA,2.96,5.92,1.76
+6095,ALMA16,deviltree,Alstonia,macrophylla,NA,NA,1.57,3.14,1.76
+6096,ALPA22,Alstonia pacifica,Alstonia,pacifica,NA,NA,1.09,2.18,1.76
+6097,ALSTO,alstonia,Alstonia,spp.,NA,NA,1.09,2.18,1.76
+6101,AMLA4,black calabash,Amphitecna,latifolia,NA,NA,2.96,5.92,1.76
+6103,AMBA2,balsam torchwood,Amyris,balsamifera,NA,NA,2.96,5.92,1.76
+6106,ANACA,anacardium,Anacardium,spp.,NA,NA,2.96,5.92,1.76
+6107,ANOC,cashew,Anacardium,occidentale,NA,NA,2.96,5.92,1.76
+6108,ANGL5,Anacolosa glochidiiformis,Anacolosa,glochidiiformis,NA,NA,2.16,4.32,1.76
+6109,ANIN13,Anacolosa insularis,Anacolosa,insularis,NA,NA,2.15,4.3,1.76
+6111,ANPE13,Anadenanthera peregrina,Anadenanthera,peregrina,NA,NA,2.96,5.92,1.76
+6114,ANIN,cabbagebark tree,Andira,inermis,NA,NA,2.96,5.92,1.76
+6118,ANEV,dermarm,Angiopteris,evecta,NA,NA,1.4,2.8,1.76
+6120,ANBR7,canelillo,Aniba,bracteata,NA,NA,2.96,5.92,1.76
+6124,ANCH9,Annona cherimola,Annona,cherimola,NA,NA,2.96,5.92,1.76
+6125,ANDI11,ilama,Annona,diversifolia,NA,NA,2.96,5.92,1.76
+6127,ANMO,mountain soursop,Annona,montana,NA,NA,2.96,5.92,1.76
+6128,ANMU2,soursop,Annona,muricata,NA,NA,2.96,5.92,1.76
+6129,ANRE,custard apple,Annona,reticulata,NA,NA,2.96,5.92,1.76
+6130,ANNON,Annona,Annona,spp.,NA,NA,1.4,2.8,1.76
+6131,ANSQ,sugar apple,Annona,squamosa,NA,NA,2.96,5.92,1.76
+6135,ANKA,Kapua china laurel,Antidesma,kapuae,NA,NA,1.88,3.76,1.76
+6137,ANBU3,Antidesma bunius,Antidesma,bunius,NA,NA,2.96,5.92,1.76
+6138,ANKU3,Antidesma kusaiense,Antidesma,kusaiense,NA,NA,1.75,3.5,1.76
+6139,ANPL2,ha a,Antidesma,platyphyllum,NA,NA,1.88,3.76,1.76
+6142,ANPO8,Antidesma ponapense,Antidesma,ponapense,NA,NA,1.75,3.5,1.76
+6143,ANPU2,hame,Antidesma,pulvinatum,NA,NA,1.75,3.5,1.76
+6144,ANSP14,Antidesma sphaerocarpum,Antidesma,sphaerocarpum,NA,NA,1.75,3.5,1.76
+6145,ANTID,chinalaurel,Antidesma,spp.,NA,NA,1.75,3.5,1.76
+6146,ANAC4,placa chiquitu,Antirhea,acutata,NA,NA,2.96,5.92,1.76
+6147,ANCO3,pegwood,Antirhea,coriacea,NA,NA,2.96,5.92,1.76
+6148,ANIN2,Antirhea inconspicua,Antirhea,inconspicua,NA,NA,1.83,3.66,1.76
+6149,ANLU3,palo iloron,Antirhea,lucida,NA,NA,2.96,5.92,1.76
+6150,ANOB2,quina roja,Antirhea,obtusifolia,NA,NA,2.96,5.92,1.76
+6151,ANPO3,Puerto Rico quina,Antirhea,portoricensis,NA,NA,2.96,5.92,1.76
+6152,ANSI,Sintenis' quina,Antirhea,sintenisii,NA,NA,2.96,5.92,1.76
+6154,ARAN15,parana pine,Araucaria,angustifolia,NA,NA,2.96,5.92,1.76
+6155,ARCO32,New Caledonia pine,Araucaria,columnaris,NA,NA,2.29,4.58,1.76
+6156,AREX4,Norfolk Island Pine,Araucaria,excelsa,NA,NA,2.29,4.58,1.74
+6157,ARHE12,Norfolk Island pine,Araucaria,heterophylla,NA,NA,2.96,5.92,1.76
+6158,ARAUC2,Araucaria,Araucaria,spp.,NA,NA,1.25,2.5,1.76
+6159,ARAL,Alexandra palm,Archontophoenix,alexandrae,NA,NA,2.32,4.64,1.76
+6160,ARCU2,Bangalow palm,Archontophoenix,cunninghamiana,NA,NA,2.96,5.92,1.76
+6161,AREL4,shoebutton,Ardisia,elliptica,NA,NA,1.74,3.48,1.76
+6162,ARGL11,ausubon,Ardisia,glauciflora,NA,NA,2.96,5.92,1.76
+6163,ARLU3,mountain marlberry,Ardisia,luquillensis,NA,NA,2.96,5.92,1.76
+6164,AROB2,Guadeloupe marlberry,Ardisia,obovata,NA,NA,2.96,5.92,1.76
+6165,ARSO,China-shrub,Ardisia,solanacea,NA,NA,2.96,5.92,1.76
+6166,ARDIS,marlberry,Ardisia,spp.,NA,NA,1.74,3.48,1.76
+6167,ARCA41,betelnut,Areca,catechu,NA,NA,1.35,2.7,1.76
+6169,ARPI6,cabo-negro,Arenga,pinnata,NA,NA,1.35,2.7,1.76
+6171,ARAL7,breadfruit,Artocarpus,altilis,NA,NA,2.96,5.92,1.76
+6173,ARHE2,Artocarpus heterophyllus,Artocarpus,heterophyllus,NA,NA,2.96,5.92,1.76
+6175,ARMA28,"dugdug, Marianas breadfruit",Artocarpus,mariannensis,NA,NA,1.36,2.72,1.76
+6176,ARNO,Artocarpus nobilis,Artocarpus,nobilis,NA,NA,1.36,2.72,1.76
+6177,AROD2,Marang,Artocarpus,odoratissimus,NA,NA,1.55,3.1,1.76
+6178,ARTOC,meduu,Artocarpus,spp.,NA,NA,1.36,2.72,1.76
+6179,ARBR11,taputoi,Arytera,brackenridgei,NA,NA,1.78,3.56,1.76
+6181,ASDI14,afia,Ascarina,diffusa,NA,NA,1.26,2.52,1.76
+6184,ASKU2,Astronidium kusaianum,Astronidium,kusaianum,NA,NA,1.92,3.84,1.76
+6185,ASNA10,Astronidium navigatorum,Astronidium,navigatorum,NA,NA,1.91,3.82,1.76
+6186,ASPA37,mesekui,Astronidium,palauense,NA,NA,1.91,3.82,1.76
+6187,ASPI11,Astronidium pickeringii,Astronidium,pickeringii,NA,NA,1.91,3.82,1.76
+6188,ASSA23,Astronidium samoense,Astronidium,samoense,NA,NA,1.91,3.82,1.76
+6189,ASTRO4,Astronidium,Astronidium,spp.,NA,NA,1.91,3.82,1.76
+6190,ASSU31,Astronidium subcordata,Astronidium,subcordata,NA,NA,1.91,3.82,1.76
+6193,ATRA2,ifi ifi,Atuna,racemosa,NA,NA,1.83,3.66,1.76
+6197,AVBI,Bilimbi,Averrhoa,bilimbi,NA,NA,1.18,2.36,1.76
+6198,AVCA,carambola,Averrhoa,carambola,NA,NA,2.96,5.92,1.76
+6199,AVERR,Averrhoa,Averrhoa,spp.,NA,NA,1.57,3.14,1.76
+6200,AVAL,biut,Avicennia,alba,NA,NA,1.49,2.98,1.76
+6203,AVMA3,Avicennia marina,Avicennia,marina,NA,NA,1.83,3.66,1.76
+6205,AVICE,Avicennia,Avicennia,spp.,NA,NA,1.83,3.66,1.76
+6206,AZIN2,neem,Azadirachta,indica,NA,NA,2.96,5.92,1.76
+6208,BATA,Saitamu,Baccaurea,taitensis,NA,NA,1.63,3.26,1.76
+6213,BAPA8,ralm,Badusa,palauensis,NA,NA,1.83,3.66,1.76
+6215,BAMBU,bamboo,Bambusa,spp.,NA,NA,1.4,2.8,1.76
+6216,BAVU2,common bamboo,Bambusa,vulgaris,NA,NA,2.96,5.92,1.76
+6217,BAPO,Puerto Rico palo de ramon,Banara,portoricensis,NA,NA,2.96,5.92,1.76
+6218,BERE4,bottle-palm,Beaucarnea,recurvata,NA,NA,2.96,5.92,1.76
+6219,BAVA2,Vanderbilt's palo de ramon,Banara,vanderbiltii,NA,NA,2.96,5.92,1.76
+6220,BAAS3,sea putat,Barringtonia,asiatica,NA,NA,2.96,5.92,1.76
+6221,BARA5,langaasag,Barringtonia,racemosa,NA,NA,1.21,2.42,1.76
+6222,BASA9,falaga,Barringtonia,samoensis,NA,NA,1.32,2.64,1.76
+6223,BARRI,Barringtonia,Barringtonia,spp.,NA,NA,1.32,2.64,1.76
+6224,BAEG6,Bastardiopsis eggersii,Bastardiopsis,eggersii,NA,NA,2.96,5.92,1.76
+6225,BABI6,Bauhinia binata,Bauhinia,binata,NA,NA,1.94,3.88,1.76
+6226,BAMO2,Napoleon's plume,Bauhinia,monandra,NA,NA,2.96,5.92,1.76
+6227,BAMU3,petite flamboyant bauhinia,Bauhinia,multinervia,NA,NA,2.96,5.92,1.76
+6228,BAPA3,railroadfence,Bauhinia,pauletia,NA,NA,2.96,5.92,1.76
+6229,BAPU,butterfly tree,Bauhinia,purpurea,NA,NA,2.96,5.92,1.76
+6230,BAUHI,bauhinia,Bauhinia,spp.,NA,NA,1.94,3.88,1.76
+6231,BATO,St. Thomas tree,Bauhinia,tomentosa,NA,NA,2.96,5.92,1.76
+6232,BAVA,mountain ebony,Bauhinia,variegata,NA,NA,2.96,5.92,1.76
+6233,BEPE,slugwood,Beilschmiedia,pendula,NA,NA,2.96,5.92,1.76
+6235,BEDI2,Caribbean myrtlecroton,Bernardia,dichotoma,NA,NA,2.96,5.92,1.76
+6236,BIJA,Javanese bishopwood,Bischofia,javanica,NA,NA,1.66,3.32,1.76
+6237,BISCH,bishopwood,Bischofia,spp.,NA,NA,1.62,3.24,1.76
+6238,BIOR,lipsticktree,Bixa,orellana,NA,NA,2.96,5.92,1.76
+6239,BIXA,bixa,Bixa,spp.,NA,NA,0.9,1.8,1.76
+6240,BLSA2,akee,Blighia,sapida,NA,NA,2.96,5.92,1.76
+6242,BOBR3,akupa,Bobea,brevipes,NA,NA,1.83,3.66,1.76
+6243,BOEL3,ahakea lau nui,Bobea,elatior,NA,NA,1.83,3.66,1.76
+6244,BOSA2,Hawaii dogweed,Bobea,sandwicensis,NA,NA,1.83,3.66,1.76
+6245,BOBEA,ahakea,Bobea,spp.,NA,NA,1.83,3.66,1.76
+6246,BOTI,ahakea,Bobea,timonioides,NA,NA,1.83,3.66,1.76
+6247,BOFR2,parrotweed,Bocconia,frutescens,NA,NA,2.96,5.92,1.76
+6248,BOCCO,bocconia,Bocconia,spp.,NA,NA,1.4,2.8,1.76
+6250,BOVI7,virgata,Boehmeria,virgata,NA,NA,1.02,2.04,1.76
+6251,BODA,white alling,Bontia,daphnoides,NA,NA,2.96,5.92,1.76
+6252,BABL,bauhinia,Bauhinia,x blakeana,NA,NA,2.96,5.92,1.76
+6253,BORA2,Bourreria radula,Bourreria,radula,NA,NA,2.96,5.92,1.76
+6255,BOSU2,bodywood,Bourreria,succulenta,NA,NA,2.96,5.92,1.76
+6257,BOVI2,roble de guayo,Bourreria,virgata,NA,NA,2.96,5.92,1.76
+6258,BRDI6,pink flame tree,Brachychiton,discolor,NA,NA,2.96,5.92,1.76
+6259,BRPO6,whiteflower kurrajong,Brachychiton,populneum,NA,NA,2.96,5.92,1.76
+6260,BRAR6,kanawao,Broussaisia,arguta,NA,NA,0.59,1.18,1.76
+6262,BRPA4,paper mulberry,Broussonetia,papyrifera,NA,NA,0.94,1.88,1.76
+6264,BRCA12,angels-trumpet,Brugmansia,candida,NA,NA,1.24,2.48,1.76
+6266,BRGY3,Oriental mangrove,Bruguiera,gymnorhiza,NA,NA,2.08,4.16,1.76
+6267,BRPA15,smallflower bruguiera,Bruguiera,parviflora,NA,NA,2.08,4.16,1.76
+6268,BRSE11,Oriental mangrove,Bruguiera,sexangula,NA,NA,2.08,4.16,1.76
+6269,BRUGU,bruguiera,Bruguiera,spp.,NA,NA,2.14,4.28,1.76
+6270,BRCO6,West Indian sumac,Brunellia,comocladiifolia,NA,NA,2.96,5.92,1.76
+6272,BRAM4,American brunfelsia,Brunfelsia,americana,NA,NA,2.96,5.92,1.76
+6273,BRDE4,Serpentine Hill raintree,Brunfelsia,densifolia,NA,NA,2.96,5.92,1.76
+6274,BRLA5,vega blanca,Brunfelsia,lactea,NA,NA,2.96,5.92,1.76
+6275,BRPO3,Puerto Rico raintree,Brunfelsia,portoricensis,NA,NA,2.96,5.92,1.76
+6277,BUEN,omail,Buchanania,engleriana,NA,NA,1.15,2.3,1.76
+6278,BUME4,gasu,Buchanania,merrillii,NA,NA,1.15,2.3,1.76
+6279,BUPA16,"omail, deuachel",Buchanania,palawensis,NA,NA,1.15,2.3,1.76
+6280,BUCHA,Buchanania,Buchanania,spp.,NA,NA,1.15,2.3,1.76
+6283,BUTE4,fourleaf buchenavia,Buchenavia,tetraphylla,NA,NA,2.96,5.92,1.76
+6284,BUBU,gregorywood,Bucida,buceras,NA,NA,2.96,5.92,1.76
+6286,BUAS,dogtail,Buddleja,asiatica,NA,NA,0.79,1.58,1.76
+6294,BUGL2,cafe falso,Bunchosia,glandulifera,NA,NA,2.96,5.92,1.76
+6295,BUGL,cafe forastero,Bunchosia,glandulosa,NA,NA,2.96,5.92,1.76
+6297,BUPO5,Bunchosia polystachia,Bunchosia,polystachia,NA,NA,2.96,5.92,1.76
+6299,BURI3,Burckella richii,Burckella,richii,NA,NA,1.4,2.8,1.76
+6303,BULA10,Buxus laevigata,Buxus,laevigata,NA,NA,2.96,5.92,1.76
+6304,BUPO,Puerto Rico box,Buxus,portoricensis,NA,NA,2.96,5.92,1.76
+6306,BUVA,Vahl's box,Buxus,vahlii,NA,NA,2.96,5.92,1.76
+6308,BYCR,maricao cimun,Byrsonima,crassifolia,NA,NA,2.96,5.92,1.76
+6311,BYLU,Long Key locustberry,Byrsonima,lucida,NA,NA,2.96,5.92,1.76
+6313,BYSP,doncella,Byrsonima,spicata,NA,NA,2.96,5.92,1.76
+6315,BYWA,almendrillo,Byrsonima,wadsworthii,NA,NA,2.96,5.92,1.76
+6316,CAESA,nicker,Caesalpinia,spp.,NA,NA,2.96,5.92,1.76
+6317,CACO28,divi divi,Caesalpinia,coriaria,NA,NA,2.96,5.92,1.76
+6318,CAKA5,uhiuhi,Caesalpinia,kavaiensis,NA,NA,2.71,5.42,1.76
+6319,CAPU13,pride-of-Barbados,Caesalpinia,pulcherrima,NA,NA,2.96,5.92,1.76
+6320,CASA28,sappanwood,Caesalpinia,sappan,NA,NA,2.96,5.92,1.76
+6325,CASU33,Surinamese stickpea,Calliandra,surinamensis,NA,NA,2.96,5.92,1.76
+6326,CAAM14,caparosa,Callicarpa,ampla,NA,NA,2.96,5.92,1.76
+6328,CACI15,crimson bottlebrush,Callistemon,citrinus,NA,NA,2.96,5.92,1.76
+6329,CAVI23,weeping bottlebrush,Callistemon,viminalis,NA,NA,2.96,5.92,1.76
+6331,CACO2,Callitris columellaris,Callitris,columellaris,NA,NA,2.29,4.58,1.74
+6337,CAEC2,Caloncoba echinata,Caloncoba,echinata,NA,NA,2.96,5.92,1.76
+6338,CAAN22,Antilles calophyllum,Calophyllum,antillanum,NA,NA,2.96,5.92,1.76
+6341,CAIN4,Alexandrian laurel,Calophyllum,inophyllum,NA,NA,2.96,5.92,1.76
+6342,CANE31,tamanu,Calophyllum,neo-ebudicum,NA,NA,1.4,2.8,1.76
+6343,CAPE15,chesemolech,Calophyllum,pelewense,NA,NA,1.6,3.2,1.76
+6344,CASO12,"olebtaches, chesemolech",Calophyllum,soulattri,NA,NA,1.21,2.42,1.76
+6345,CALOP,calophyllum,Calophyllum,spp.,NA,NA,1.6,3.2,1.76
+6346,CAPR,roostertree,Calotropis,procera,NA,NA,2.96,5.92,1.76
+6347,CALOT,calotropis,Calotropis,spp.,NA,NA,1.4,2.8,1.76
+6350,CACA73,degame,Calycophyllum,candidissimum,NA,NA,2.96,5.92,1.76
+6351,CAKI,Kiaerskov's lidflower,Calyptranthes,kiaerskovii,NA,NA,2.96,5.92,1.76
+6352,CAKR,limoncillo,Calyptranthes,krugii,NA,NA,2.96,5.92,1.76
+6353,CALU12,Luquillo forest lidflower,Calyptranthes,luquillensis,NA,NA,2.96,5.92,1.76
+6354,CAPA8,pale lidflower,Calyptranthes,pallens,NA,NA,2.96,5.92,1.76
+6355,CAPO9,Puerto Rico lidflower,Calyptranthes,portoricensis,NA,NA,2.96,5.92,1.76
+6356,CASI8,limoncillo de monte,Calyptranthes,sintenisii,NA,NA,2.96,5.92,1.76
+6358,CATH3,Thomas' lidflower,Calyptranthes,thomasiana,NA,NA,2.96,5.92,1.76
+6359,CAZU,myrtle of the river,Calyptranthes,zuzygium,NA,NA,2.96,5.92,1.76
+6360,CARI3,Puerto Rico manac,Calyptronoma,rivalis,NA,NA,2.96,5.92,1.76
+6366,CABR18,"kelela charm, kiu",Campnosperma,brevipetiolatum,NA,NA,1.04,2.08,1.76
+6367,CABR42,Campnosperma brevipetiolata,Campnosperma,brevipetiolata,NA,NA,1.04,2.08,1.76
+6370,CAOD,ilang-ilang,Cananga,odorata,NA,NA,2.96,5.92,1.76
+6372,CAHA39,mafoa,Canarium,mafoa,NA,NA,1.38,2.76,1.76
+6373,CAHI14,mesecheues,Canarium,hirsutum,NA,NA,1.38,2.76,1.76
+6374,CAIN42,lukerr,Canarium,indicum,NA,NA,1.57,3.14,1.76
+6375,CAOV7,Pili Nut,Canarium,ovatum,NA,NA,1.38,2.76,1.76
+6377,CANAR2,Canarium,Canarium,spp.,NA,NA,1.38,2.76,1.76
+6378,CAVI26,maali,Canarium,vitiense,NA,NA,1.52,3.04,1.76
+6379,CAVU9,Canarium vulgare,Canarium,vulgare,NA,NA,1.24,2.48,2
+6380,CAWI,wild cinnamon,Canella,winterana,NA,NA,2.96,5.92,1.76
+6381,CAME35,Olasina,Psydrax,merrillii,NA,NA,2.03,4.06,1.76
+6383,CAAM13,burro blanco,Capparis,amplissima,NA,NA,2.96,5.92,1.76
+6384,CABA2,caper,Capparis,baducca,NA,NA,2.96,5.92,1.76
+6386,CACY,Jamaican caper,Capparis,cynophallophora,NA,NA,2.96,5.92,1.76
+6387,CAFL2,falseteeth,Capparis,flexuosa,NA,NA,2.96,5.92,1.76
+6389,CAHA9,broadleaf caper,Capparis,hastata,NA,NA,2.96,5.92,1.76
+6390,CAIN5,linguam,Capparis,indica,NA,NA,2.96,5.92,1.76
+6393,CAGU6,crabwood,Carapa,guianensis,NA,NA,2.96,5.92,1.76
+6395,CAPA23,papaya,Carica,papaya,NA,NA,2.96,5.92,1.76
+6396,CARIC,papaya,Carica,spp.,NA,NA,0.45,0.9,1.76
+6397,CARE22,scorpionbush,Carmona,retusa,NA,NA,1.4,2.8,1.76
+6398,CARMO,scorpionbush,Carmona,spp.,NA,NA,1.4,2.8,1.76
+6399,CAMI36,fish tail palm,Caryota,mitis,NA,NA,1.35,2.7,1.76
+6400,CARYO,Caryota,Caryota,spp.,NA,NA,1.35,2.7,1.76
+6401,CAUR3,fishtail palm,Caryota,urens,NA,NA,1.35,2.7,1.76
+6402,CAAC3,rabo de ranton,Casearia,aculeata,NA,NA,2.96,5.92,1.76
+6403,CAAR8,gia verde,Casearia,arborea,NA,NA,2.96,5.92,1.76
+6405,CACA28,keuert,Casearia,cauliflora,NA,NA,1.74,3.48,1.76
+6406,CADE11,wild honeytree,Casearia,decandra,NA,NA,2.96,5.92,1.76
+6407,CAGU2,Guyanese wild coffee,Casearia,guianensis,NA,NA,2.96,5.92,1.76
+6408,CASEA,Casearia,Casearia,spp.,NA,NA,1.74,3.48,1.76
+6410,CASY2,crackopen,Casearia,sylvestris,NA,NA,2.96,5.92,1.76
+6415,CAFI3,golden shower,Cassia,fistula,NA,NA,2.96,5.92,1.76
+6417,CAGR11,pink shower,Cassia,grandis,NA,NA,2.96,5.92,1.76
+6418,CAJA3,apple blossom,Cassia,javanica,NA,NA,2.96,5.92,1.76
+6419,CALE49,gold medallion tree,Cassia,leptophylla,NA,NA,2.96,5.92,1.76
+6420,CASI4,kassod tree,Cassia,siamea,NA,NA,1.69,3.38,1.76
+6422,CASSI,Cassia,Cassia,spp.,NA,NA,1.99,3.98,1.76
+6425,CAXY,marbletree,Cassine,xylocarpa,NA,NA,2.96,5.92,1.76
+6427,CAGU3,goatwood,Cassipourea,guianensis,NA,NA,2.96,5.92,1.76
+6429,CAER3,goatbush,Castela,erecta,NA,NA,2.96,5.92,1.76
+6430,CAEL5,Panama rubbertree,Castilla,elastica,NA,NA,2.96,5.92,1.76
+6433,CACU8,river sheoak,Casuarina,cunninghamiana,NA,NA,2.96,5.92,1.76
+6434,CAEQ,beach sheoak,Casuarina,equisetifolia,NA,NA,2.96,5.92,1.76
+6437,CALI8,"gagu,australian pine",Casuarina,litorea,NA,NA,2.32,4.64,1.76
+6439,CALO8,Haitian catalpa,Catalpa,longissima,NA,NA,2.96,5.92,1.76
+6441,CEOB,trumpet tree,Cecropia,obtusifolia,NA,NA,0.65,1.3,1.76
+6443,CESC9,pumpwood,Cecropia,schreberiana,NA,NA,2.96,5.92,1.76
+6444,CECRO,pumpwood,Cecropia,spp.,NA,NA,0.92,1.84,1.76
+6445,CEOD,Spanish cedar,Cedrela,odorata,NA,NA,2.96,5.92,1.76
+6447,CEAC4,pochote,Ceiba,acuminata,NA,NA,2.96,5.92,1.76
+6448,CEAE2,pochote,Ceiba,aesculifolia,NA,NA,2.96,5.92,1.76
+6449,CEPE2,kapoktree,Ceiba,pentandra,NA,NA,2.96,5.92,1.76
+6452,CEPA6,Celtis paniculata,Celtis,paniculata,NA,NA,1.4,2.8,1.76
+6454,CETR3,almex,Celtis,trinervia,NA,NA,2.96,5.92,1.76
+6457,CESI3,St. John's bread,Ceratonia,siliqua,NA,NA,2.96,5.92,1.76
+6458,CESI8,Chinese hackberry,Celtis,sinensis,NA,NA,2.65,5.3,1.67
+6459,CEDI12,chuti,Cerbera,dilatata,NA,NA,1.07,2.14,1.76
+6460,CEFL2,emeridech,Cerbera,floribunda,NA,NA,1.09,2.18,1.76
+6461,CEMA20,leva,Cerbera,manghas,NA,NA,1.07,2.14,1.76
+6462,CEOD2,chiute,Cerbera,odollam,NA,NA,0.79,1.58,1.76
+6463,CERBE,Cerbera spp.,Cerbera,spp.,NA,NA,1.07,2.14,1.76
+6468,CEHE3,lady of the night cactus,Cereus,hexagonus,NA,NA,2.96,5.92,1.76
+6469,CEHI3,Cereus hildmannianus,Cereus,hildmannianus,NA,NA,2.96,5.92,1.76
+6470,CEREU,sweetpotato cactus,Cereus,spp.,NA,NA,1.52,3.04,1.76
+6472,CETA2,biut,Ceriops,tagal,NA,NA,2.19,4.38,1.76
+6473,CEAU2,orange jessamine,Cestrum,aurantiacum,NA,NA,1.24,2.48,1.76
+6474,CEDI6,day jessamine,Cestrum,diurnum,NA,NA,2.96,5.92,1.76
+6475,CELA2,galen del monte,Cestrum,laurifolium,NA,NA,2.96,5.92,1.76
+6477,CENO,night jessamine,Cestrum,nocturnum,NA,NA,2.96,5.92,1.76
+6478,CESTR,jessamine,Cestrum,spp.,NA,NA,1.24,2.48,1.76
+6480,CHHU7,European fan palm,Chamaerops,humilis,NA,NA,2.96,5.92,1.76
+6481,CHAR8,jointed sandmat,Chamaesyce,articulata,NA,NA,2.96,5.92,1.76
+6482,CHAT2,koko,Chamaesyce,atrococca,NA,NA,1.35,2.7,1.76
+6483,CHCE,ekoko,Chamaesyce,celastroides,NA,NA,1.35,2.7,1.76
+6492,CHHE3,Herbsts sandmat,Chamaesyce,herbstii,NA,NA,1.35,2.7,1.76
+6493,CHKU,kokomalei,Chamaesyce,kuwaleana,NA,NA,1.35,2.7,1.76
+6494,CHOL3,alpine sandmat,Chamaesyce,olowaluana,NA,NA,1.35,2.7,1.76
+6495,CHRO2,Koolau Range sandmat,Chamaesyce,rockii,NA,NA,1.35,2.7,1.76
+6496,CHAMA15,sandmat,Chamaesyce,spp.,NA,NA,1.35,2.7,1.76
+6497,CHDE3,Napali coast papala,Charpentiera,densiflora,NA,NA,1.35,2.7,1.76
+6498,CHEL,ellipticleaf papala,Charpentiera,elliptica,NA,NA,1.35,2.7,1.76
+6499,CHOB2,broadleaf papala,Charpentiera,obovata,NA,NA,1.35,2.7,1.76
+6500,CHOV2,Koolau Range papala,Charpentiera,ovata,NA,NA,1.35,2.7,1.76
+6503,CHARP,papala,Charpentiera,spp.,NA,NA,1.35,2.7,1.76
+6504,CHTO3,Waianae Range papala,Charpentiera,tomentosa,NA,NA,1.35,2.7,1.76
+6507,CHDO3,Domins club,Cheirodendron,dominii,NA,NA,1.32,2.64,1.76
+6508,CHFA,Fauries club,Cheirodendron,fauriei,NA,NA,1.32,2.64,1.76
+6509,CHFO4,olapa,Cheirodendron,forbesii,NA,NA,1.32,2.64,1.76
+6510,CHPL,lapalapa,Cheirodendron,platyphyllum,NA,NA,1.32,2.64,1.76
+6511,PEPA37,swamp bay,Persea,palustris,NA,NA,2.96,5.92,2
+6513,CHEIR,cheirodendron,Cheirodendron,spp.,NA,NA,1.32,2.64,1.76
+6514,CHTR2,olapalapa,Cheirodendron,trigynum,NA,NA,1.32,2.64,1.76
+6517,CHOA,alaweo,Chenopodium,oahuense,NA,NA,1.4,2.8,1.76
+6518,CHENO,goosefoot,Chenopodium,spp.,NA,NA,1.4,2.8,1.76
+6519,CHAX2,hueso,Chionanthus,axilliflorus,NA,NA,2.96,5.92,1.76
+6520,CHCO12,bridgotree,Chionanthus,compactus,NA,NA,2.96,5.92,1.76
+6521,CHDO4,white rosewood,Chionanthus,domingensis,NA,NA,2.96,5.92,1.76
+6522,CHHO4,hueso prieto,Chionanthus,holdridgei,NA,NA,2.96,5.92,1.76
+6523,CHLI6,cabra blanca,Chionanthus,ligustrinus,NA,NA,2.96,5.92,1.76
+6524,CHRE9,Chinese fringetree,Chionanthus,retusus,NA,NA,2.96,5.92,1.76
+6525,CHVI22,vitiensis,Chionanthus,vitiensis,NA,NA,1.88,3.76,1.76
+6526,CHSE5,puntaj jayuya,Chione,seminervis,NA,NA,2.96,5.92,1.76
+6528,CHVE4,fatpork,Chione,venosa,NA,NA,2.96,5.92,1.76
+6529,CHEX5,african teak,Chlorophora,excelsa,NA,NA,2.96,5.92,1.76
+6532,CHSP13,silk-floss tree,Chorisia,speciosa,NA,NA,2.96,5.92,1.76
+6535,CHIC,icaco coco plum,Chrysobalanus,icaco,NA,NA,2.96,5.92,1.76
+6539,CHAR6,bastard redwood,Chrysophyllum,argenteum,NA,NA,2.96,5.92,1.76
+6541,CHCA10,star apple,Chrysophyllum,cainito,NA,NA,2.96,5.92,1.76
+6542,CHOL,satinleaf,Chrysophyllum,oliviforme,NA,NA,2.96,5.92,1.76
+6543,CHPA31,camito de perro,Chrysophyllum,pauciflorum,NA,NA,2.96,5.92,1.76
+6545,CIHE7,Hawaiian tree fern,Cibotium,x heleniae,NA,NA,0.59,1.18,1.76
+6546,CICH,Chamissos manfern,Cibotium,chamissoi,NA,NA,0.53,1.06,1.76
+6547,CIGL,hapuu,Cibotium,glaucum,NA,NA,0.62,1.24,1.76
+6548,CIME8,hapuu li,Cibotium,menziesii,NA,NA,0.59,1.18,1.76
+6549,CIBOT,manfern,Cibotium,spp.,NA,NA,0.59,1.18,1.76
+6552,CIPU,quinine,Cinchona,pubescens,NA,NA,1.52,3.04,1.76
+6553,CINCH,cinchona,Cinchona,spp.,NA,NA,1.52,3.04,1.76
+6554,CIAR8,cassia,Cinnamomum,aromaticum,NA,NA,2.96,5.92,1.76
+6555,CIBU2,Padang cassia,Cinnamomum,burmannii,NA,NA,1.29,2.58,1.76
+6557,CICA2,ochod,Cinnamomum,carolinense,NA,NA,1.32,2.64,1.76
+6559,CIEL2,laurel avispillo,Cinnamomum,elongatum,NA,NA,2.96,5.92,1.76
+6560,CIMO3,avispillo,Cinnamomum,montanum,NA,NA,2.96,5.92,1.76
+6561,CIPE6,ochod,Cinnamomum,pedatinervium,NA,NA,1.32,2.64,1.76
+6562,CISE2,matieu,Cinnamomum,sessilifolium,NA,NA,1.32,2.64,1.76
+6563,CINNA2,cinnamon,Cinnamomum,spp.,NA,NA,1.32,2.64,1.76
+6564,CIVE2,cinnamon,Cinnamomum,verum,NA,NA,2.96,5.92,1.76
+6565,CICA8,juniper berry,Citharexylum,caudatum,NA,NA,2.96,5.92,1.76
+6567,CISP3,spiny fiddlewood,Citharexylum,spinosum,NA,NA,2.96,5.92,1.76
+6568,CITHA,fiddlewood,Citharexylum,spp.,NA,NA,1.83,3.66,1.76
+6569,CITR7,threespike fiddlewood,Citharexylum,tristachyum,NA,NA,2.96,5.92,1.76
+6570,CISA2,samoensis,Citronella,samoensis,NA,NA,1.63,3.26,1.76
+6572,CIAU,Lime (Tipolo),Citrus,aurantifolia,NA,NA,1.97,3.94,1.76
+6573,CIAU7,key lime,Citrus,x aurantiifolia,NA,NA,2.96,5.92,2
+6574,CIAU8,sour orange,Citrus,x aurantium,NA,NA,2.96,5.92,1.76
+6575,CILI5,lemon,Citrus,x limon,NA,NA,2.96,5.92,1.76
+6576,CIPA3,grapefruit,Citrus,x paradisi,NA,NA,2.96,5.92,1.76
+6577,CISI3,sweet orange,Citrus,x sinensis,NA,NA,2.96,5.92,1.76
+6578,CIGR,"grapefruit, kahet magas",Citrus,grandis,NA,NA,1.97,3.94,1.76
+6579,CIHY2,limon china,Citrus,hystrix,NA,NA,1.97,3.94,1.76
+6580,CIMA10,"kahet, wild orange",Citrus,macroptera,NA,NA,1.97,3.94,1.76
+6581,CIMA5,Citrus maxima,Citrus,maxima,NA,NA,2.96,5.92,1.76
+6582,CIME3,Citrus medica,Citrus,medica,NA,NA,2.96,5.92,1.76
+6583,CIMI3,"calamondin, kingkang",Citrus,mitis,NA,NA,1.97,3.94,1.76
+6584,CIRE3,Citrus reticulata,Citrus,reticulata,NA,NA,2.96,5.92,1.76
+6586,CLCA15,koee,Claoxylon,carolinianum,NA,NA,0.98,1.96,1.76
+6588,CLFA6,Claoxylon fallax,Claoxylon,fallax,NA,NA,0.98,1.96,1.76
+6589,CLLO5,Claoxylon longiracemosum,Claoxylon,longiracemosum,NA,NA,0.98,1.96,1.76
+6590,CLMA25,"katteknau, katot",Claoxylon,marianum,NA,NA,0.98,1.96,1.76
+6591,CLSA,poola,Claoxylon,sandwicense,NA,NA,0.98,1.96,1.76
+6592,CLAOX,claoxylon,Claoxylon,spp.,NA,NA,0.98,1.96,1.76
+6593,CLCA18,Cleistanthus carolinianus,Cleistanthus,carolinianus,NA,NA,1.63,3.26,1.76
+6594,CLIN8,Cleistanthus insularis,Cleistanthus,insularis,NA,NA,1.63,3.26,1.76
+6595,CLEIS5,Cleistanthus,Cleistanthus,spp.,NA,NA,1.63,3.26,1.76
+6596,CLLE3,oha wai nui Clermontia,Clermontia,x leptoclada,NA,NA,1.4,2.8,1.76
+6597,CLAR4,oha wai nui,Clermontia,arborescens,NA,NA,1.4,2.8,1.76
+6601,CLCL,Kauai clermontia,Clermontia,clermontioides,NA,NA,1.4,2.8,1.76
+6604,CLDR2,Kohala Mountain clermontia,Clermontia,drepanomorpha,NA,NA,1.4,2.8,1.76
+6605,CLFA,haha aiakamanu,Clermontia,fauriei,NA,NA,1.4,2.8,1.76
+6606,CLGR3,bog clermontia,Clermontia,grandiflora,NA,NA,1.4,2.8,1.76
+6610,CLHA4,oha kepau,Clermontia,hawaiiensis,NA,NA,1.4,2.8,1.76
+6611,CLKA,forest clermontia,Clermontia,kakeana,NA,NA,1.4,2.8,1.76
+6612,CLKO,Waipio Valley clermontia,Clermontia,kohalae,NA,NA,1.4,2.8,1.76
+6613,CLLI3,hillside clermontia,Clermontia,lindseyana,NA,NA,1.4,2.8,1.76
+6614,CLMI3,Maui clermontia,Clermontia,micrantha,NA,NA,1.4,2.8,1.76
+6615,CLMO5,Mauna Loa clermontia,Clermontia,montis-loa,NA,NA,1.4,2.8,1.76
+6616,CLOB2,Oahu clermontia,Clermontia,oblongifolia,NA,NA,1.4,2.8,1.76
+6620,CLPA6,Wailai Pali clermontia,Clermontia,pallida,NA,NA,1.4,2.8,1.76
+6621,CLPA8,smallflower clermontia,Clermontia,parviflora,NA,NA,1.4,2.8,1.76
+6622,CLPE2,pele clermontia,Clermontia,peleana,NA,NA,1.4,2.8,1.76
+6625,CLPE3,Waioiani clermontia,Clermontia,persicifolia,NA,NA,1.4,2.8,1.76
+6626,CLPY2,Hamakua clermontia,Clermontia,pyrularia,NA,NA,1.4,2.8,1.76
+6627,CLSI3,Clermontia singuliflora,Clermontia,singuliflora,NA,NA,1.4,2.8,1.76
+6628,CLERM,clermontia,Clermontia,spp.,NA,NA,1.4,2.8,1.76
+6629,CLTU2,Haleakala clermontia,Clermontia,tuberculata,NA,NA,1.4,2.8,1.76
+6630,CLWA2,swampforest clermontia,Clermontia,waimeae,NA,NA,1.4,2.8,1.76
+6631,CLAC2,haggarbush,Clerodendrum,aculeatum,NA,NA,2.96,5.92,1.76
+6632,CLCH4,stickbush,Clerodendrum,chinense,NA,NA,1.52,3.04,1.76
+6633,CLGL2,Natal glorybower,Clerodendrum,glabrum,NA,NA,1.71,3.42,1.76
+6634,CLIN,turks turbin,Clerodendrum,indicum,NA,NA,1.52,3.04,1.76
+6635,CLMA24,velvetleaf glorybower,Clerodendrum,macrostegium,NA,NA,1.52,3.04,1.76
+6636,CLERO2,glorybower,Clerodendrum,spp.,NA,NA,1.52,3.04,1.76
+6637,CLAL4,teta prieta,Cleyera,albopunctata,NA,NA,2.96,5.92,1.76
+6639,CLER,jackass breadnut,Clibadium,erosum,NA,NA,2.96,5.92,1.76
+6641,CLCY5,Clidemia cymosa,Clidemia,cymosa,NA,NA,2.96,5.92,1.76
+6642,CLHI3,soapbush,Clidemia,hirta,NA,NA,2.96,5.92,1.76
+6644,CLFA5,Philippine pigeonwings,Clitoria,fairchildiana,NA,NA,2.96,5.92,1.76
+6645,CLCA21,"kiniyaw, ochop",Clinostigma,carolinense,NA,NA,2.96,5.92,1.76
+6646,CLCL2,cupeillo,Clusia,clusioides,NA,NA,2.96,5.92,1.76
+6648,CLGU,Grundlach's attorney,Clusia,gundlachii,NA,NA,2.96,5.92,1.76
+6650,CLMI2,cupey de monte,Clusia,minor,NA,NA,2.96,5.92,1.76
+6651,CLRO,Scotch attorney,Clusia,rosea,NA,NA,2.96,5.92,1.76
+6652,CLUSI,attorney,Clusia,spp.,NA,NA,1.57,3.14,1.76
+6653,CNHO,deepwoods fern,Cnemidaria,horrida,NA,NA,2.96,5.92,1.76
+6655,CNAC,treadsoftly,Cnidoscolus,aconitifolius,NA,NA,2.96,5.92,1.76
+6658,COCO8,uvilla,Coccoloba,costata,NA,NA,2.96,5.92,1.76
+6660,COKR,whitewood,Coccoloba,krugii,NA,NA,2.96,5.92,1.76
+6661,COMI,puckhout,Coccoloba,microstachya,NA,NA,2.96,5.92,1.76
+6662,COPA24,pale seagrape,Coccoloba,pallida,NA,NA,2.96,5.92,1.76
+6663,COPU,grandleaf seagrape,Coccoloba,pubescens,NA,NA,2.96,5.92,1.76
+6664,COPY,uvera,Coccoloba,pyrifolia,NA,NA,2.96,5.92,1.76
+6665,CORU4,ortegon,Coccoloba,rugosa,NA,NA,2.96,5.92,1.76
+6666,COSI2,uvero de monte,Coccoloba,sintenisii,NA,NA,2.96,5.92,1.76
+6668,COSW,Swartz's pigeonplum,Coccoloba,swartzii,NA,NA,2.96,5.92,1.76
+6669,COTE9,Bahama pigeonplum,Coccoloba,tenuifolia,NA,NA,2.96,5.92,1.76
+6670,COUV,seagrape,Coccoloba,uvifera,NA,NA,2.96,5.92,1.76
+6671,COVE,false chiggergrape,Coccoloba,venosa,NA,NA,2.96,5.92,1.76
+6673,COBA3,Coccothrinax barbadensis,Coccothrinax,barbadensis,NA,NA,2.96,5.92,1.76
+6679,COVI,silk cottontree,Cochlospermum,vitifolium,NA,NA,2.96,5.92,1.76
+6681,COCOS,coconut palm,Cocos,spp.,NA,NA,1.35,2.7,1.76
+6683,COVA3,garden croton,Codiaeum,variegatum,NA,NA,2.96,5.92,1.76
+6684,COAR2,Arabian coffee,Coffea,arabica,NA,NA,2.96,5.92,1.76
+6685,CORO8,robusta coffee,Coffea,robusta,NA,NA,2.96,5.92,1.76
+6686,COLI8,Coffea liberica,Coffea,liberica,NA,NA,2.96,5.92,1.76
+6687,COFFE,coffee,Coffea,spp.,NA,NA,1.74,3.48,1.76
+6688,COAR9,Cojoba arborea,Cojoba,arborea,NA,NA,2.96,5.92,1.76
+6689,COAC4,abata cola,Cola,acuminata,NA,NA,2.96,5.92,1.76
+6691,COSC13,"uab, chuchab",Colona,scabra,NA,NA,0.96,1.92,1.76
+6693,COAR3,"greenheart, common snakebark",Colubrina,arborescens,NA,NA,2.96,5.92,1.76
+6694,COAS3,Asian nakedwood,Colubrina,asiatica,NA,NA,1.97,3.94,1.76
+6696,PRLA5,cherry laurel,Prunus,laurocerasus,NA,NA,1.49,2.98,1.76
+6697,COOP,kauila,Colubrina,oppositifolia,NA,NA,1.97,3.94,1.76
+6699,COLUB,nakedwood,Colubrina,spp.,NA,NA,1.97,3.94,1.76
+6700,COVE6,Urban's nakedwood,Colubrina,verrucosa,NA,NA,2.96,5.92,1.76
+6702,COTE15,ochaol,Combretum,tetralophum,NA,NA,2.25,4.5,1.76
+6703,COBA17,Mao,Commersonia,bartramia,NA,NA,0.96,1.92,1.76
+6705,CODO,poison ash,Comocladia,dodonaea,NA,NA,2.96,5.92,1.76
+6706,COGL4,carrasco,Comocladia,glabra,NA,NA,2.96,5.92,1.76
+6707,PRSE3,Japanese flowering cherry,Prunus,serrulata,NA,NA,2.25,4.5,1.76
+6708,PRME,Mexican plum,Prunus,mexicana,NA,NA,2.25,4.5,2
+6709,CONOC,mangrove,Conocarpus,spp.,NA,NA,1.94,3.88,1.76
+6710,CORU17,Luquillo Mountain snailwood,Conostegia,rufescens,NA,NA,2.96,5.92,1.76
+6711,COMO8,Consolea moniliformis,Consolea,moniliformis,NA,NA,2.96,5.92,1.76
+6712,CORU8,Consolea rubescens,Consolea,rubescens,NA,NA,2.96,5.92,1.76
+6714,COOF2,copaiba,Copaifera,officinalis,NA,NA,2.96,5.92,1.76
+6716,COFO2,forest mirrorplant,Coprosma,foliosa,NA,NA,1.35,2.7,1.76
+6717,COKA,koi,Coprosma,kauensis,NA,NA,2.02,4.04,1.76
+6718,COLO4,Oahu mirrorplant,Coprosma,longifolia,NA,NA,2.02,4.04,1.76
+6719,COMO3,alpine mirrorplant,Coprosma,montana,NA,NA,2.02,4.04,1.76
+6720,COOC3,Maui mirrorplant,Coprosma,ochracea,NA,NA,2.02,4.04,1.76
+6721,COPU8,pubescent mirrorplant,Coprosma,pubens,NA,NA,1.35,2.7,1.76
+6722,CORH,woodland mirrorplant,Coprosma,rhynchocarpa,NA,NA,1.35,2.7,1.76
+6724,COPRO,mirrorplant,Coprosma,spp.,NA,NA,1.35,2.7,1.76
+6726,COWA4,olena,Coprosma,waimeae,NA,NA,2.02,4.04,1.76
+6728,COAL,Spanish elm,Cordia,alliodora,NA,NA,2.96,5.92,1.76
+6729,COAS6,Tou,Cordia,aspera,NA,NA,1.33,2.66,1.76
+6730,COBO3,muneco,Cordia,borinquensis,NA,NA,2.96,5.92,1.76
+6731,COCO5,red manjack,Cordia,collococca,NA,NA,2.96,5.92,1.76
+6733,CODI18,fragrant manjack,Cordia,dichotoma,NA,NA,1.07,2.14,1.76
+6735,COLA12,smooth manjack,Cordia,laevigata,NA,NA,2.96,5.92,1.76
+6736,COMI6,Cordia micronesica,Cordia,micronesica,NA,NA,1.33,2.66,1.76
+6737,COOB3,clammy cherry,Cordia,obliqua,NA,NA,2.96,5.92,1.76
+6738,CORI,San Bartolome,Cordia,rickseckeri,NA,NA,2.96,5.92,1.76
+6739,CORU5,Puerto Rico manjack,Cordia,rupicola,NA,NA,2.96,5.92,1.76
+6741,CORDI,cordia,Cordia,spp.,NA,NA,1.33,2.66,1.76
+6742,COSU2,kou,Cordia,subcordata,NA,NA,1.35,2.7,1.76
+6743,COSU3,mucilage manjack,Cordia,sulcata,NA,NA,2.96,5.92,1.76
+6744,COFR2,tiplant,Cordyline,fruticosa,NA,NA,1.4,2.8,1.76
+6745,CORDY2,cordyline,Cordyline,spp.,NA,NA,1.4,2.8,1.76
+6746,COOB4,nigua,Cornutia,obovata,NA,NA,2.96,5.92,1.76
+6747,COPY2,azulejo,Cornutia,pyramidata,NA,NA,2.96,5.92,1.76
+6748,CODR,roughleaf dogwood,Cornus,drummondii,NA,NA,1.97,3.94,1.76
+6749,COCA48,redgum,Corymbia,calophylla,NA,NA,2.38,4.76,1.76
+6750,COCI4,Corymbia citriodora,Corymbia,citriodora,NA,NA,2.96,5.92,1.76
+6751,COFI7,redflower gum,Corymbia,ficifolia,NA,NA,2.38,4.76,1.76
+6752,COGU4,red bloodwood,Corymbia,gummifera,NA,NA,2.02,4.04,1.76
+6754,COLA6,karaka nut,Corynocarpus,laevigatus,NA,NA,1.67,3.34,1.76
+6755,CORYN2,corynocarpus,Corynocarpus,spp.,NA,NA,1.67,3.34,1.76
+6756,COGU3,cannonball tree,Couroupita,guianensis,NA,NA,2.96,5.92,1.76
+6758,CRRE12,sacred garlic pear,Crateva,religiosa,NA,NA,1.21,2.42,1.76
+6760,CRAL11,"houka, calabash",Crescentia,alata,NA,NA,1.99,3.98,2
+6761,CRCU,common calabash tree,Crescentia,cujete,NA,NA,2.96,5.92,1.76
+6762,CRLI5,higuerito,Crescentia,linearifolia,NA,NA,2.96,5.92,1.76
+6763,CRPO6,higuero de sierra,Crescentia,portoricensis,NA,NA,2.96,5.92,1.76
+6765,CRPO7,Critonia portoricensis,Critonia,portoricensis,NA,NA,2.96,5.92,1.76
+6767,CRRH,maidenberry,Crossopetalum,rhacoma,NA,NA,2.96,5.92,1.76
+6769,CRBI9,Saitamu,Crossostylis,biflora,NA,NA,2.14,4.28,1.76
+6771,CRLO3,longbeak rattlebox,Crotalaria,longirostrata,NA,NA,1.89,3.78,1.76
+6772,CROTO,croton spp.,Croton,spp.,NA,NA,2.96,5.92,1.76
+6773,CRAS3,wild marrow,Croton,astroites,NA,NA,2.96,5.92,1.76
+6774,CRFL23,Croton flavens,Croton,flavens,NA,NA,2.96,5.92,1.76
+6775,CRPO4,sabinon,Croton,poecilanthus,NA,NA,2.96,5.92,1.76
+6778,CROR5,Cryptocarya oreophila,Cryptocarya,oreophila,NA,NA,1.62,3.24,1.76
+6779,CREL8,laulilii,Cryptocarya,elegans,NA,NA,1.62,3.24,1.76
+6781,CRMA8,holio,Cryptocarya,mannii,NA,NA,1.62,3.24,1.76
+6783,CRYPT2,cryptocarya,Cryptocarya,spp.,NA,NA,1.62,3.24,1.76
+6784,CRTU4,laulilii,Cryptocarya,turbinata,NA,NA,1.62,3.24,1.76
+6786,CRJA3,Japanese cedar,Cryptomeria,japonica,NA,NA,2.29,4.58,1.74
+6787,CRYPT4,Japanese cedar,Cryptomeria,spp.,NA,NA,0.87,1.74,1.76
+6788,CULA,Chinese fir,Cunninghamia,lanceolata,NA,NA,2.29,4.58,1.74
+6790,CUAM,wild ackee,Cupania,americana,NA,NA,2.96,5.92,1.76
+6791,QUMY,myrtle oak,Quercus,myrtifolia,NA,NA,1.66,3.32,2
+6792,CUTR,guara blanca,Cupania,triquetra,NA,NA,2.96,5.92,1.76
+6795,CULU2,cedar-of-Goa,Cupressus,lusitanica,NA,NA,2.29,4.58,1.74
+6796,CUSE2,Italian cypress,Cupressus,sempervirens,NA,NA,2.29,4.58,1.74
+6797,QURO2,English oak,Quercus,robur,NA,NA,3.49,6.98,2
+6799,QUSI,bastard oak,Quercus,sinuata,NA,NA,2.01,4.02,1.76
+6800,CYAC4,Haleakala cyanea,Cyanea,aculeatiflora,NA,NA,1.4,2.8,1.76
+6801,CYAR10,palmtree cyanea,Cyanea,arborea,NA,NA,1.4,2.8,1.76
+6802,CYFI6,Kauai cyanea,Cyanea,fissa,NA,NA,1.4,2.8,1.76
+6805,CYFL4,Degeners cyanea,Cyanea,floribunda,NA,NA,1.4,2.8,1.76
+6806,CYGI5,Kilauea Mauna cyanea,Cyanea,giffardii,NA,NA,1.4,2.8,1.76
+6807,CYHA6,wetforest cyanea,Cyanea,hamatiflora,NA,NA,1.4,2.8,1.76
+6810,CYHA7,Oahu cyanea,Cyanea,hardyi,NA,NA,1.4,2.8,1.76
+6811,CYHO6,prickly cyanea,Cyanea,horrida,NA,NA,1.4,2.8,1.76
+6812,CYKU3,Limahuli Valley cyanea,Cyanea,kuhihewa,NA,NA,1.4,2.8,1.76
+6813,CYKU,Kunths cyanea,Cyanea,kunthiana,NA,NA,1.4,2.8,1.76
+6814,CYLE5,giant kokee cyanea,Cyanea,leptostegia,NA,NA,1.4,2.8,1.76
+6815,CYMA10,purple cyanea,Cyanea,macrostegia,NA,NA,1.4,2.8,1.76
+6818,CYMA14,Marks cyanea,Cyanea,marksii,NA,NA,1.4,2.8,1.76
+6819,CYPI4,hairy cyanea,Cyanea,pilosa,NA,NA,1.4,2.8,1.76
+6822,CYPO5,pohaku cyanea,Cyanea,pohaku,NA,NA,1.4,2.8,1.76
+6823,CYPR8,Molokai cyanea,Cyanea,procera,NA,NA,1.4,2.8,1.76
+6824,CYPY,manyfruit cyanea,Cyanea,pycnocarpa,NA,NA,1.4,2.8,1.76
+6825,CYQU,oakleaf cyanea,Cyanea,quercifolia,NA,NA,1.4,2.8,1.76
+6826,CYRI4,plateau delissea,Cyanea,rivularis,NA,NA,1.4,2.8,1.76
+6827,CYSO2,pua kala,Cyanea,solenocalyx,NA,NA,1.4,2.8,1.76
+6828,CYANE,cyanea,Cyanea,spp.,NA,NA,1.4,2.8,1.76
+6829,CYST5,Kaiholena cyanea,Cyanea,stictophylla,NA,NA,1.4,2.8,1.76
+6830,CYSU8,Mt. Kaala cyanea,Cyanea,superba,NA,NA,1.4,2.8,1.76
+6833,CYTR6,aku aku,Cyanea,tritomantha,NA,NA,1.4,2.8,1.76
+6834,CYAN,parrotfeather treefern,Cyathea,andina,NA,NA,2.96,5.92,1.76
+6835,CYAR,West Indian treefern,Cyathea,arborea,NA,NA,2.96,5.92,1.76
+6837,CYCO18,Coopers cyathea,Cyathea,cooperi,NA,NA,1.4,2.8,1.76
+6838,CYDE16,olioli,Cyathea,decurrens,NA,NA,1.4,2.8,1.76
+6839,CYFU,Jamaican treefern,Cyathea,furfuracea,NA,NA,2.96,5.92,1.76
+6840,CYLU5,olioli,Cyathea,lunulata,NA,NA,1.4,2.8,1.76
+6841,CYME12,olioli,Cyathea,medullaris,NA,NA,1.4,2.8,1.76
+6842,CYNI7,kattar,Cyathea,nigricans,NA,NA,1.4,2.8,1.76
+6843,CYPA7,small treefern,Cyathea,parvula,NA,NA,2.96,5.92,1.76
+6844,CYPO11,kattar,Cyathea,ponapeana,NA,NA,1.4,2.8,1.76
+6847,CYATH,treefern,Cyathea,spp.,NA,NA,1.4,2.8,1.76
+6848,CYTE10,helecho gigante,Cyathea,tenera,NA,NA,2.96,5.92,1.76
+6849,CYTR11,olioli,Cyathea,truncata,NA,NA,1.4,2.8,1.76
+6850,CYSI,Cybianthus sintenisii,Cybianthus,sintenisii,NA,NA,2.96,5.92,1.76
+6852,CYCI3,queen sago,Cycas,circinalis,NA,NA,2.96,5.92,1.76
+6853,CYRE11,remiang,Cycas,revoluta,NA,NA,1.4,2.8,1.76
+6854,CYCAS,Cycas,Cycas,spp.,NA,NA,1.4,2.8,1.76
+6855,CYBA7,ola,Cyclophyllum,barbatum,NA,NA,1.83,3.66,1.76
+6857,CYPO2,oreganillo falso,Cynometra,portoricensis,NA,NA,2.96,5.92,1.76
+6858,CYRA8,gulos,Cynometra,ramiflora,NA,NA,2.05,4.1,1.76
+6859,CYYO,"eeme, aapwo",Cynometra,yokotae,NA,NA,2.96,5.92,1.76
+6860,CYBE3,tree-tomato,Cyphomandra,betacea,NA,NA,1.24,2.48,1.76
+6862,CYRA,swamp titi,Cyrilla,racemiflora,NA,NA,2.96,5.92,1.76
+6863,CYPU13,cyrtandra,Cyrtandra,pulchella,NA,NA,1.4,2.8,1.76
+6864,CYRA3,Cyrtandra,Cyrtandra,ramosissima,NA,NA,1.4,2.8,1.76
+6865,CYGI3,forest cyrtandra,Cyrtandra,giffardii,NA,NA,1.4,2.8,1.76
+6866,CYRTA,cyrtandra,Cyrtandra,spp.,NA,NA,1.4,2.8,1.76
+6867,DAEX,candletree,Dacryodes,excelsa,NA,NA,2.96,5.92,1.76
+6868,DARE6,cocobolo,Dalbergia,retusa,NA,NA,2.96,5.92,1.76
+6869,DASI,Indian rosewood,Dalbergia,sissoo,NA,NA,2.96,5.92,1.76
+6870,DATU,cocobolo,Dalbergia,tucurensis,NA,NA,2.96,5.92,1.76
+6871,DAAM2,burn nose,Daphnopsis,americana,NA,NA,2.96,5.92,1.76
+6872,DAHE2,Heller's cieneguillo,Daphnopsis,helleriana,NA,NA,2.96,5.92,1.76
+6873,DAPH,emajagua de sierra,Daphnopsis,philippiana,NA,NA,2.96,5.92,1.76
+6875,DEFA,Hawaii delissea,Delissea,fallax,NA,NA,1.4,2.8,1.76
+6876,DELA4,cutleaf delissea,Delissea,laciniata,NA,NA,1.4,2.8,1.76
+6877,DENI,Niihau delissea,Delissea,niihauensis,NA,NA,1.4,2.8,1.76
+6880,DEPA9,smallflower delissea,Delissea,parviflora,NA,NA,1.4,2.8,1.76
+6881,DELIS,delissea,Delissea,spp.,NA,NA,1.4,2.8,1.76
+6882,DEUN2,leechleaf delissea,Delissea,undulata,NA,NA,1.4,2.8,1.76
+6883,DERE,royal poinciana,Delonix,regia,NA,NA,2.96,5.92,1.76
+6884,DELON,delonix,Delonix,spp.,NA,NA,1.26,2.52,1.76
+6885,DEHA5,salato,Dendrocnide,harveyi,NA,NA,0.58,1.16,1.76
+6886,DELA13,kahtat,Dendrocnide,latifolia,NA,NA,0.58,1.16,1.76
+6887,DENDR16,Dendrocnide,Dendrocnide,spp.,NA,NA,0.58,1.16,1.76
+6888,DEAR,angelica tree,Dendropanax,arboreus,NA,NA,2.96,5.92,1.76
+6889,DELA3,palo de vaca,Dendropanax,laurifolius,NA,NA,2.96,5.92,1.76
+6891,DIAL13,redpalm,Dictyosperma,album,NA,NA,1.35,2.7,1.76
+6896,DIIN6,chulta,Dillenia,indica,NA,NA,2.96,5.92,1.76
+6898,DISU11,shrubby dillenia,Dillenia,suffruticosa,NA,NA,1.26,2.52,1.76
+6899,DILO7,Dimocarpus longan,Dimocarpus,longan,NA,NA,2.96,5.92,1.76
+6900,DIBL3,mabolo,Diospyros,blancoi,NA,NA,2.47,4.94,1.76
+6902,DIDI9,Mabolo,Diospyros,discolor,NA,NA,2.08,4.16,1.76
+6903,DIEB,Black sapote,Diospyros,ebenaster,NA,NA,1.97,3.94,1.76
+6904,DIEL3,anume,Diospyros,elliptica,NA,NA,1.97,3.94,1.76
+6905,DIFE5,Diospyros ferrea,Diospyros,ferrea,NA,NA,2.75,5.5,1.76
+6906,DIHI4,elama,Diospyros,hillebrandii,NA,NA,1.97,3.94,1.76
+6907,DIKA2,persimmon,Diospyros,kaki,NA,NA,3.35,6.7,1.61
+6909,DIRE6,black apple,Diospyros,revoluta,NA,NA,2.96,5.92,1.76
+6910,DISA16,auauli,Diospyros,samoensis,NA,NA,3.35,6.7,1.61
+6911,DISA10,lama,Diospyros,sandwicensis,NA,NA,2.08,4.16,1.76
+6912,DISI3,Chinese persimmon,Diospyros,sintenisii,NA,NA,2.96,5.92,1.76
+6918,RHCA3,common buckthorn,Rhamnus,cathartica,NA,NA,2.96,5.92,2
+6921,DIPO,otot,Discocalyx,ponapensis,NA,NA,1.81,3.62,1.76
+6923,DIMY,jaboncillo,Ditta,myricoides,NA,NA,2.96,5.92,1.76
+6927,DOVI,Florida hopbush,Dodonaea,viscosa,NA,NA,2.96,5.92,1.76
+6928,DOSP3,rru,Dolichandrone,spathacea,NA,NA,0.9,1.8,1.76
+6930,DOHE2,Ceylon gooseberry,Dovyalis,hebecarpa,NA,NA,2.96,5.92,1.76
+6932,DRFR2,fragrant dracaena,Dracaena,fragrans,NA,NA,2.96,5.92,1.76
+6933,DRMU2,Dracaena multiflora,Dracaena,multiflora,NA,NA,1.16,2.32,1.76
+6934,DRRE6,song of India,Dracaena,reflexa,NA,NA,2.96,5.92,1.76
+6935,DRCA18,Drypetes carolinensis,Drypetes,carolinensis,NA,NA,2.01,4.02,1.76
+6936,DRDO3,Drypetes dolichocarpa,Drypetes,dolichocarpa,NA,NA,2.01,4.02,1.76
+6937,DRAL5,cafeillo,Drypetes,alba,NA,NA,2.96,5.92,1.76
+6938,DRGL2,varital,Drypetes,glauca,NA,NA,2.96,5.92,1.76
+6939,DRIL,rosewood,Drypetes,ilicifolia,NA,NA,2.96,5.92,1.76
+6940,DRLA3,guiana plum,Drypetes,lateriflora,NA,NA,2.96,5.92,1.76
+6941,DRNI3,kevert,Drypetes,nitida,NA,NA,2.01,4.02,1.76
+6942,DRYPE,Drypetes,Drypetes,spp.,NA,NA,2.01,4.02,1.76
+6943,DRVI5,none,Drypetes,vitiensis,NA,NA,2.01,4.02,1.76
+6944,DUDE,Dubautia,Dubautia,demissifolia,NA,NA,1.83,3.66,1.76
+6945,DUFA2,Dubautia,Dubautia,x fallax,NA,NA,1.83,3.66,1.76
+6946,DUMO2,Dubautia,Dubautia,montana,NA,NA,1.83,3.66,1.76
+6947,DUAR,Mauna Kea dubautia,Dubautia,arborea,NA,NA,1.83,3.66,1.76
+6948,DUKN,forest dubautia,Dubautia,knudsenii,NA,NA,1.83,3.66,1.76
+6949,DRYA,Drypetes yapensis,Drypetes,yapensis,NA,NA,2.01,4.02,1.76
+6952,DUMI,Kauai dubautia,Dubautia,microcephala,NA,NA,1.83,3.66,1.76
+6953,DUPL,plantainleaf dubautia,Dubautia,plantaginea,NA,NA,1.83,3.66,1.76
+6957,DURE2,netvein dubautia,Dubautia,reticulata,NA,NA,1.83,3.66,1.76
+6958,DUBAU,dubautia,Dubautia,spp.,NA,NA,1.83,3.66,1.76
+6961,DUER,golden dewdrops,Duranta,erecta,NA,NA,2.96,5.92,1.76
+6965,DUZI,Durian,Durio,zibethinus,NA,NA,1.35,2.7,1.76
+6966,DYLU,yellow butterfly palm,Dypsis,lutescens,NA,NA,2.96,5.92,2
+6968,DYHU2,maota mea,Dysoxylum,huntii,NA,NA,1.63,3.26,1.76
+6969,DYMA,maota,Dysoxylum,maota,NA,NA,1.63,3.26,1.76
+6970,DYSA,mamala,Dysoxylum,samoense,NA,NA,1.48,2.96,1.76
+6971,DYSOX,Dysoxylum,Dysoxylum,spp.,NA,NA,1.63,3.26,1.76
+6972,DYMOM,Dysoxylum mollissimum ssp. Molle,Dysoxylum,mollissimum,NA,NA,1.53,3.06,1.76
+6973,ELGU,oil nut palm,Elaeis,guineensis,NA,NA,1.35,2.7,1.76
+6974,ELKU2,Kosrae elaeocarpus,Elaeocarpus,kusaiensis,NA,NA,1.35,2.7,1.76
+6975,ELBI,kalia,Elaeocarpus,bifidus,NA,NA,1.35,2.7,1.76
+6976,ELCA20,syatak,Elaeocarpus,carolinensis,NA,NA,1.35,2.7,1.76
+6977,ELFL6,`a`mati`e,Elaeocarpus,floridanus,NA,NA,1.35,2.7,1.76
+6978,ELGR,Elaeocarpus graeffei,Elaeocarpus,graeffei,NA,NA,1.35,2.7,1.76
+6979,ELGR6,sapatua,Elaeocarpus,grandis,NA,NA,1.35,2.7,1.76
+6980,ELJO,joga,Elaeocarpus,joga,NA,NA,1.35,2.7,1.76
+6981,ELKE,Elaeocarpus kerstingianus,Elaeocarpus,kerstingianus,NA,NA,1.35,2.7,1.76
+6982,ELKU,"maratte, opop",Elaeocarpus,kusanoi,NA,NA,1.35,2.7,1.76
+6983,ELAEO,Elaeocarpus,Elaeocarpus,spp.,NA,NA,1.35,2.7,1.76
+6984,ELTO4,aamatie,Elaeocarpus,tonganus,NA,NA,1.35,2.7,1.76
+6985,ELUL,Elaeocarpus,Elaeocarpus,ulianus,NA,NA,1.35,2.7,1.76
+6990,ELFA3,taputoi,Elattostachys,falcata,NA,NA,1.86,3.72,1.76
+6992,ELDU3,utuutu,Eleocharis,dulcis,NA,NA,1.4,2.8,1.76
+6994,ENEL,elaeocarpa,Endiandra,elaeocarpa,NA,NA,1.81,3.62,1.76
+6996,ENCY,monkeysoap,Enterolobium,cyclocarpum,NA,NA,2.96,5.92,1.76
+6997,ERDE16,bronze loquat,Eriobotrya,deflexa,NA,NA,2.96,5.92,1.76
+6998,ERJA3,loquat,Eriobotrya,japonica,NA,NA,2.96,5.92,1.76
+6999,ERIOB,loquat,Eriobotrya,spp.,NA,NA,2.96,5.92,1.76
+7000,ERFR4,blacktorch,Erithalis,fruticosa,NA,NA,2.96,5.92,1.76
+7003,ERCO,naked coral tree,Erythrina,coralloides,NA,NA,2.96,5.92,1.76
+7004,ERBE3,machete,Erythrina,berteriana,NA,NA,2.96,5.92,1.76
+7005,ERCO22,coral erythrina,Erythrina,corallodendron,NA,NA,2.96,5.92,1.76
+7006,ERCR6,crybabytree,Erythrina,crista-galli,NA,NA,2.96,5.92,1.76
+7007,EREG,cock's spur,Erythrina,eggersii,NA,NA,2.96,5.92,1.76
+7008,ERFU2,bucayo,Erythrina,fusca,NA,NA,2.96,5.92,1.76
+7011,ERPO5,mountain immortelle,Erythrina,poeppigiana,NA,NA,2.96,5.92,1.76
+7012,ERSA11,wili wili,Erythrina,sandwicensis,NA,NA,0.72,1.44,1.76
+7013,ERYTH,erythrina,Erythrina,spp.,NA,NA,0.72,1.44,1.76
+7014,ERSU15,gatae palagi,Erythrina,subumbrans,NA,NA,0.65,1.3,1.76
+7015,ERVA7,tiger's claw,Erythrina,variegata,NA,NA,2.96,5.92,1.76
+7016,ERVAO,tiger's claw,Erythrina,variegata,orientalis,NA,2.96,5.92,1.76
+7017,ERAC10,acuminatissimum,Erythrospermum,acuminatissimum,NA,NA,1.18,2.36,1.76
+7019,ERAR17,swamp-redwood,Erythroxylum,areolatum,NA,NA,2.96,5.92,1.76
+7021,ERRO3,ratwood,Erythroxylum,rotundifolium,NA,NA,2.96,5.92,1.76
+7022,ERRU4,rufous false cocaine,Erythroxylum,rufum,NA,NA,2.96,5.92,1.76
+7024,ERUR4,Urban's false cocaine,Erythroxylum,urbanii,NA,NA,2.96,5.92,1.76
+7025,EUBO2,southern mahogany,Eucalyptus,botryoides,NA,NA,1.8,3.6,1.76
+7026,EUBR2,applebox,Eucalyptus,bridgesiana,NA,NA,2.26,4.52,1.76
+7028,EUCI80,argyle apple,Eucalyptus,cinerea,NA,NA,1.85,3.7,1.76
+7030,EUCL,sugargum,Eucalyptus,cladocalyx,NA,NA,2.96,5.92,1.76
+7031,EUCO3,yate,Eucalyptus,cornuta,NA,NA,2.55,5.1,1.76
+7032,EUCR,narrowleaf red ironbark,Eucalyptus,crebra,NA,NA,2.6,5.2,1.76
+7033,EUDE,roundleaf gum,Eucalyptus,deanei,NA,NA,1.71,3.42,1.76
+7034,EUDE2,Indonesian gum,Eucalyptus,deglupta,NA,NA,2.96,5.92,1.76
+7036,EULE13,white ironbark,Eucalyptus,leucoxylon,NA,NA,2.96,5.92,1.76
+7038,EUGO,tuart,Eucalyptus,gomphocephala,NA,NA,2.44,4.88,1.76
+7039,EUGO2,mountain graygum,Eucalyptus,goniocalyx,NA,NA,2.07,4.14,1.76
+7040,EUPO,redbox,Eucalyptus,polyanthemos,NA,NA,2.96,5.92,1.76
+7041,EUHE12,white box,Eucalyptus,hemiphloia,NA,NA,2.32,4.64,1.76
+7043,EUMA23,spotted gum,Eucalyptus,maculata,NA,NA,2.96,5.92,1.76
+7044,EUMA4,jarrah,Eucalyptus,marginata,NA,NA,1.98,3.96,1.76
+7045,EUMI,Australian tallowwood,Eucalyptus,microcorys,NA,NA,2.33,4.66,1.76
+7046,EUPA,gray ironbark,Eucalyptus,paniculata,NA,NA,2.96,5.92,1.76
+7047,EUPI,blackbutt,Eucalyptus,pilularis,NA,NA,2.05,4.1,1.76
+7048,EURA4,black ironbox,Eucalyptus,raveretiana,NA,NA,2.64,5.28,1.76
+7049,EURE2,redmahogany,Eucalyptus,resinifera,NA,NA,2.96,5.92,1.76
+7051,EURU2,Western Australian floodedgum,Eucalyptus,rudis,NA,NA,2.96,5.92,1.76
+7052,EUSA17,black peppermint,Eucalyptus,salicifolia,NA,NA,2.32,4.64,1.76
+7053,EUSA,Sydney bluegum,Eucalyptus,saligna,NA,NA,2.96,5.92,1.76
+7054,EUSI2,red ironbark,Eucalyptus,sideroxylon,NA,NA,2.96,5.92,1.76
+7056,EUTE,forest redgum,Eucalyptus,tereticornis,NA,NA,2.32,4.64,1.76
+7057,EUVI,manna gum,Eucalyptus,viminalis,NA,NA,1.68,3.36,1.76
+7059,EUAQ,"edebsachel, chedebsachel",Eugenia,aquea,NA,NA,2.05,4.1,1.76
+7060,EUAX,white stopper,Eugenia,axillaris,NA,NA,2.96,5.92,1.76
+7061,EUBI,blackrodwood,Eugenia,biflora,NA,NA,2.96,5.92,1.76
+7062,EUBO3,Sierra de Cayey stopper,Eugenia,boqueronensis,NA,NA,2.96,5.92,1.76
+7063,EUBO4,guayabota de sierra,Eugenia,borinquensis,NA,NA,2.96,5.92,1.76
+7065,EUCA16,cloves,Eugenia,caryophyllus,NA,NA,2.05,4.1,1.76
+7066,EUCO4,redberry stopper,Eugenia,confusa,NA,NA,2.96,5.92,1.76
+7067,EUCO5,lathberry,Eugenia,cordata,NA,NA,2.96,5.92,1.76
+7068,EUCOS,lathberry,Eugenia,cordata,sintenisii,NA,2.96,5.92,1.76
+7069,EUCO13,sperry guava,Eugenia,corozalensis,NA,NA,2.96,5.92,1.76
+7071,EUDO,serrette guave,Eugenia,domingensis,NA,NA,2.96,5.92,1.76
+7072,EUEG,guasabara,Eugenia,eggersii,NA,NA,2.96,5.92,1.76
+7075,EUGL6,smooth rodwood,Eugenia,glabrata,NA,NA,2.96,5.92,1.76
+7076,EUHA4,Luquillo Mountain stopper,Eugenia,haematocarpa,NA,NA,2.96,5.92,1.76
+7078,EUJA4,"macupa, wax apple",Eugenia,javanica,NA,NA,2.05,4.1,1.76
+7079,EUKO,nioi,Eugenia,koolauensis,NA,NA,2.05,4.1,1.76
+7081,EULI,privet stopper,Eugenia,ligustrina,NA,NA,2.96,5.92,1.76
+7082,EUMA5,"makupa, malay apple",Eugenia,malaccensis,NA,NA,2.05,4.1,1.76
+7083,STGR4,bigleaf snowbell,Styrax,grandifolius,NA,NA,1.46,2.92,2
+7084,EUMO,birdcherry,Eugenia,monticola,NA,NA,2.96,5.92,1.76
+7086,EUNI2,Eugenia nitida,Eugenia,nitida,NA,NA,2.05,4.1,1.76
+7087,EUPA3,orenged,Eugenia,palauensis,NA,NA,2.05,4.1,1.76
+7088,EUPA28,agatelang,Eugenia,palumbis,NA,NA,2.05,4.1,1.76
+7089,EUPR4,rockmyrtle,Eugenia,procera,NA,NA,2.96,5.92,1.76
+7090,EUPS,Christmas cherry,Eugenia,pseudopsidium,NA,NA,2.96,5.92,1.76
+7091,EURE7,mountain stopper,Eugenia,reinwardtiana,NA,NA,2.05,4.1,1.76
+7093,EUSE9,serrasuela,Eugenia,serrasuela,NA,NA,2.96,5.92,1.76
+7094,EUSE10,sessileleaf stopper,Eugenia,sessiliflora,NA,NA,2.96,5.92,1.76
+7096,EUGEN,stopper,Eugenia,spp.,NA,NA,2.05,4.1,1.76
+7098,EUST3,Stahl's stopper,Eugenia,stahlii,NA,NA,2.96,5.92,1.76
+7099,EUST24,luluhut,Eugenia,stelechantha,NA,NA,2.05,4.1,1.76
+7100,EUST6,Stewardson's stopper,Eugenia,stewardsonii,NA,NA,2.96,5.92,1.76
+7101,EUSU9,rebotel,Eugenia,suzukii,NA,NA,2.05,4.1,1.76
+7102,EUTH4,atoto,Eugenia,thompsonii,NA,NA,2.05,4.1,1.76
+7103,EUUN,Underwood's stopper,Eugenia,underwoodii,NA,NA,2.96,5.92,1.76
+7104,EUUN2,Surinam cherry,Eugenia,uniflora,NA,NA,2.96,5.92,1.76
+7105,EUXE,aridland stopper,Eugenia,xerophytica,NA,NA,2.96,5.92,1.76
+7109,EUCO24,Mexican shrubby spurge,Euphorbia,cotinifolia,NA,NA,2.96,5.92,1.76
+7110,EUHA2,Kauai spurge,Euphorbia,haeleeleana,NA,NA,1.26,2.52,1.76
+7111,EULA8,mottled spurge,Euphorbia,lactea,NA,NA,2.96,5.92,1.76
+7112,EUNE4,Indian spurgetree,Euphorbia,neriifolia,NA,NA,2.96,5.92,1.76
+7113,EUPE8,manchineel berry,Euphorbia,petiolaris,NA,NA,2.96,5.92,1.76
+7114,EUPU9,poinsettia,Euphorbia,pulcherrima,NA,NA,1.26,2.52,1.76
+7115,EUPHO,spurge,Euphorbia,spp.,NA,NA,1.26,2.52,1.76
+7116,EUTI,Indiantree spurge,Euphorbia,tirucalli,NA,NA,2.96,5.92,1.76
+7117,EULO7,Longan,Euphoria,longana,NA,NA,1.94,3.88,1.76
+7119,EUSA6,anini,Eurya,sandwicensis,NA,NA,1.4,2.8,1.76
+7120,EURYA,eurya,Eurya,spp.,NA,NA,1.4,2.8,1.76
+7123,EUHO5,Euodia hortensis,Euodia,hortensis,NA,NA,1.1,2.2,1.76
+7124,EUNI8,kertub,Euodia,nitida,NA,NA,1.1,2.2,1.76
+7125,EUPA29,beror,Euodia,palawensis,NA,NA,1.1,2.2,1.76
+7126,EUPO15,Euodia ponapensis,Euodia,ponapensis,NA,NA,1.1,2.2,1.76
+7127,EUODI,Euodia,Euodia,spp.,NA,NA,1.1,2.2,1.76
+7128,EUTR13,Euodia trichantha,Euodia,trichantha,NA,NA,1.1,2.2,1.76
+7129,EXAG,blinding tree,Excoecaria,agallocha,NA,NA,1.07,2.14,1.76
+7131,EXGA,hulumoa,Exocarpos,gaudichaudii,NA,NA,2.02,4.04,1.76
+7132,EXOCA,exocarpos,Exocarpos,spp.,NA,NA,2.02,4.04,1.76
+7133,EXPO2,kotop,Exorrhiza,ponapensis,NA,NA,1.35,2.7,1.76
+7135,EXCA,Caribbean princewood,Exostema,caribaeum,NA,NA,2.96,5.92,1.76
+7136,EXEL,plateado,Exostema,ellipticum,NA,NA,2.96,5.92,1.76
+7137,EXSA2,Exostema sanctae-luciae,Exostema,sanctae-luciae,NA,NA,2.96,5.92,1.76
+7141,FABE,pualulu,Fagraea,berteroana,NA,NA,2.32,4.64,1.76
+7142,FAKS,ksid,Fagraea,ksid,NA,NA,2.08,4.16,1.76
+7143,FAGRA,Fagraea,Fagraea,spp.,NA,NA,2.08,4.16,1.76
+7144,FAMO,peacocksplume,Falcataria,moluccana,NA,NA,1.21,2.42,1.76
+7145,FALCA2,peacocksplume,Falcataria,spp.,NA,NA,1.21,2.42,1.76
+7146,FAOC,false coffee,Faramea,occidentalis,NA,NA,2.96,5.92,1.76
+7147,FESE2,feijoa,Feijoa,sellowiana,NA,NA,2.96,5.92,1.76
+7148,FIAM,Jamaican cherry fig,Ficus,americana,NA,NA,2.96,5.92,1.76
+7149,FIBE2,Indian banyan,Ficus,benghalensis,NA,NA,2.96,5.92,1.76
+7150,FIBE,weeping fig,Ficus,benjamina,NA,NA,2.96,5.92,1.76
+7151,FICA,edible fig,Ficus,carica,NA,NA,2.96,5.92,1.76
+7152,FICO2,Ficus copiosa,Ficus,copiosa,NA,NA,1.24,2.48,1.76
+7153,FIAU3,Roxburgh fig,Ficus,auriculata,NA,NA,2.96,5.92,1.76
+7154,FIDR3,brown-woolly fig,Ficus,drupacea,NA,NA,2.96,5.92,1.76
+7155,FIEL,Indian rubberplant,Ficus,elastica,NA,NA,2.96,5.92,1.76
+7156,FIGO,mati,Ficus,godeffroyi,NA,NA,1.12,2.24,1.76
+7158,FILU,Ficus lutea,Ficus,lutea,NA,NA,2.96,5.92,1.76
+7159,FILY,fiddleleaf fig,Ficus,lyrata,NA,NA,2.96,5.92,1.76
+7160,FIMI2,Chinese banyan,Ficus,microcarpa,NA,NA,2.96,5.92,1.76
+7162,FINO3,tibig,Ficus,nota,NA,NA,2.96,5.92,1.76
+7163,FIOB3,aoa,Ficus,obliqua,NA,NA,1.39,2.78,1.76
+7164,FIOB,amate,Ficus,obtusifolia,NA,NA,2.96,5.92,1.76
+7165,FIPR2,aoa,Ficus,prolixa,NA,NA,1.12,2.24,1.76
+7166,FIRE3,peepul tree,Ficus,religiosa,NA,NA,2.96,5.92,1.76
+7167,FIRU4,Port Jackson fig,Ficus,rubiginosa,NA,NA,1.21,2.42,1.76
+7168,FISA,"lulk, banyan",Ficus,saffordii,NA,NA,1.12,2.24,1.76
+7169,FISC3,mati vao,Ficus,scabra,NA,NA,1.12,2.24,1.76
+7171,FICUS,fig,Ficus,spp.,NA,NA,1.12,2.24,1.76
+7173,FIST,jaguey,Ficus,stahlii,NA,NA,2.96,5.92,1.76
+7174,FISY2,sycamore fig,Ficus,sycomorus,NA,NA,2.96,5.92,1.76
+7175,FITH2,Chinese banyan,Ficus,thonningii,NA,NA,1.2,2.4,1.76
+7176,FITI2,mati,Ficus,tinctoria,NA,NA,1.12,2.24,1.76
+7177,FITR,jaguey blanco,Ficus,trigonata,NA,NA,2.96,5.92,1.76
+7178,FIUN,mati,Ficus,uniauriculata,NA,NA,1.12,2.24,1.76
+7179,FIVI3,higo,Ficus,virens,NA,NA,0.97,1.94,1.76
+7180,FICH,Finschia chloroxantha,Finschia,chloroxantha,NA,NA,1.67,3.34,1.76
+7181,FISI2,Chinese parasoltree,Firmiana,simplex,NA,NA,2.96,5.92,2
+7182,FISP3,burr daisytree,Fitchia,speciosa,NA,NA,1.83,3.66,1.76
+7184,FLIN,governor's plum,Flacourtia,indica,NA,NA,2.96,5.92,1.76
+7185,FLIN3,batoko plum,Flacourtia,inermis,NA,NA,2.96,5.92,1.76
+7186,FLRU2,filimoto,Flacourtia,rukam,NA,NA,2.11,4.22,1.76
+7188,FLBR,Queensland maple,Flindersia,brayleyana,NA,NA,1.32,2.64,1.76
+7190,FLAC,Flueggea acidoton,Flueggea,acidoton,NA,NA,2.96,5.92,1.76
+7191,FLFL4,poumuli,Flueggea,flexuosa,NA,NA,1.35,2.7,1.76
+7192,FLNE,mehamehame,Flueggea,neowawraea,NA,NA,1.35,2.7,1.76
+7193,FLUEG,bushweed,Flueggea,spp.,NA,NA,1.35,2.7,1.76
+7194,FOEG,inkbush,Forestiera,eggersiana,NA,NA,2.96,5.92,1.76
+7195,FORH,caca ravet,Forestiera,rhamnifolia,NA,NA,2.96,5.92,1.76
+7196,FOSE,Florida swampprivet,Forestiera,segregata,NA,NA,2.96,5.92,1.76
+7198,FOMA2,oval kumquat,Fortunella,margarita,NA,NA,2.96,5.92,1.76
+7200,FRCA12,California buckthorn,Frangula,californica,NA,NA,1.88,3.76,1.76
+7202,FRSPL,West Indian buckthorn,Frangula,sphaerosperma,NA,NA,2.96,5.92,1.76
+7206,FRUH,shamel ash,Fraxinus,uhdei,NA,NA,2.96,5.92,1.76
+7207,FUBO,Bolivian fuchsia,Fuchsia,boliviana,NA,NA,1.96,3.92,1.76
+7208,FUPA2,shrubby fuchsia,Fuchsia,paniculata,NA,NA,1.96,3.92,1.76
+7209,FUCHS,fuchsia,Fuchsia,spp.,NA,NA,1.96,3.92,1.76
+7210,FUEL,silkrubber,Funtumia,elastica,NA,NA,2.96,5.92,1.76
+7211,PEAM3,avocado,Persea,americana,NA,NA,2.96,5.92,1.76
+7212,GADU3,Gourka,Garcinia,dulcis,NA,NA,2.96,5.92,1.76
+7213,GAHE5,lemon saptree,Garcinia,hessii,NA,NA,2.96,5.92,1.76
+7214,GAMA10,mangosteen,Garcinia,mangostana,NA,NA,2.96,5.92,1.76
+7215,GAMA8,tilol,Garcinia,matsudai,NA,NA,2.05,4.1,1.76
+7216,GAMY,garcinia,Garcinia,myrtifolia,NA,NA,2.11,4.22,1.76
+7217,GAPO4,konpuil,Garcinia,ponapensis,NA,NA,2.05,4.1,1.76
+7218,GAPO2,palo de cruz,Garcinia,portoricensis,NA,NA,2.96,5.92,1.76
+7219,GARU3,tilol,Garcinia,rumiyo,NA,NA,2.05,4.1,1.76
+7220,GAQU2,Garcinia quadrilocularis,Garcinia,quadrilocularis,NA,NA,2.05,4.1,1.76
+7221,GARCI,Garcinia,Garcinia,spp.,NA,NA,2.05,4.1,1.76
+7223,GAXA,Garcinia xanthochymus,Garcinia,xanthochymus,NA,NA,2.96,5.92,1.76
+7224,GABR,forest gardenia,Gardenia,brighamii,NA,NA,1.86,3.72,1.76
+7225,GAMA6,Oahu gardenia,Gardenia,mannii,NA,NA,1.86,3.72,1.76
+7226,GARE,Remys gardenia,Gardenia,remyi,NA,NA,1.86,3.72,1.76
+7227,GARDE,gardenia,Gardenia,spp.,NA,NA,1.86,3.72,1.76
+7228,GATA,Tahitian gardenia,Gardenia,taitensis,NA,NA,1.86,3.72,1.76
+7229,GAFL8,manuai vivao,Garuga,floribunda,NA,NA,1.46,2.92,1.76
+7231,GAAT,llume,Gaussia,attenuata,NA,NA,2.96,5.92,1.76
+7233,GERU3,taipoipo,Geniostoma,rupestre,NA,NA,1.81,3.62,1.76
+7235,GEAM,jagua,Genipa,americana,NA,NA,2.96,5.92,1.76
+7237,GEPE4,arbol de Navidad,Gesneria,pedunculosa,NA,NA,2.96,5.92,1.76
+7239,GIRO,bastard gregre,Ginoria,rohrii,NA,NA,2.96,5.92,1.76
+7241,GICE2,Gironniera celtidifolia,Gironniera,celtidifolia,NA,NA,1.26,2.52,1.76
+7245,GLSE2,quickstick,Gliricidia,sepium,NA,NA,2.96,5.92,1.76
+7247,GLCU,masame,Glochidion,cuspidatum,NA,NA,1.57,3.14,1.76
+7248,GLMA9,Glochidion marianum,Glochidion,marianum,NA,NA,1.57,3.14,1.76
+7249,GLRA4,masame,Glochidion,ramiflorum,NA,NA,1.57,3.14,1.76
+7250,GLOCH,Glochidion,Glochidion,spp.,NA,NA,1.57,3.14,1.76
+7251,GMEL,belau,Gmelina,elliptica,NA,NA,1.32,2.64,1.76
+7252,GMPA,blacheos,Gmelina,palawensis,NA,NA,1.38,2.76,1.76
+7253,GMELI,Gmelina,Gmelina,spp.,NA,NA,1.32,2.64,1.76
+7254,GNGN,Gnetum gnemon,Gnetum,gnemon,NA,NA,1.71,3.42,1.76
+7256,GOEL,mata buey,Goetzea,elegans,NA,NA,2.96,5.92,1.76
+7257,GLKA,Glochidion kanehirae,Glochidion,kanehirae,NA,NA,1.57,3.14,1.76
+7258,GOLI,grand merisier,Gomidesia,lindeniana,NA,NA,2.96,5.92,1.76
+7260,GOCA2,Goniothalamus carolinensis,Goniothalamus,carolinensis,NA,NA,1.07,2.14,1.76
+7262,GOBA,Creole cotton,Gossypium,barbadense,NA,NA,2.96,5.92,1.76
+7264,GOHIH2,Gossypium hirsutum,Gossypium,hirsutum,NA,NA,2.96,5.92,1.76
+7268,GROT,Graffenrieda ottoschulzii,Graffenrieda,ottoschulzii,NA,NA,2.96,5.92,1.76
+7272,GRBA,kahiliflower,Grevillea,banksii,NA,NA,1.56,3.12,1.76
+7273,GRRO,silkoak,Grevillea,robusta,NA,NA,2.96,5.92,1.76
+7274,GREVI,grevillea,Grevillea,spp.,NA,NA,1.56,3.12,1.76
+7275,GRCR4,fau ui,Grewia,crenata,NA,NA,1.29,2.58,1.76
+7279,GUOF,lignum-vitae,Guaiacum,officinale,NA,NA,2.96,5.92,1.76
+7280,GUSA,holywood,Guaiacum,sanctum,NA,NA,2.96,5.92,1.76
+7282,GUMA4,paipai,Guamia,mariannae,NA,NA,1.58,3.16,1.76
+7285,GUFR,black mampoo,Guapira,fragrans,NA,NA,2.96,5.92,1.76
+7286,GUOB,corcho prieto,Guapira,obtusata,NA,NA,2.96,5.92,1.76
+7288,GUGL3,alligatorwood,Guarea,glabra,NA,NA,2.96,5.92,1.76
+7290,GUGU,American muskwood,Guarea,guidonia,NA,NA,2.96,5.92,1.76
+7294,GUBL,haya minga,Guatteria,blainii,NA,NA,2.96,5.92,1.76
+7295,GUCA2,haya blanca,Guatteria,caribaea,NA,NA,2.96,5.92,1.76
+7298,GUUL,bastardcedar,Guazuma,ulmifolia,NA,NA,2.96,5.92,1.76
+7299,GUEL,hammock velvetseed,Guettarda,elliptica,NA,NA,2.96,5.92,1.76
+7300,GUKR,frogwood,Guettarda,krugii,NA,NA,2.96,5.92,1.76
+7302,GUOD,cucubano de vieques,Guettarda,odorata,NA,NA,2.96,5.92,1.76
+7303,GUOV,cucubano,Guettarda,ovalifolia,NA,NA,2.96,5.92,1.76
+7305,GUPU,roseta,Guettarda,pungens,NA,NA,2.96,5.92,1.76
+7306,GUSC,wild guave,Guettarda,scabra,NA,NA,2.96,5.92,1.76
+7307,GUSP3,puapua,Guettarda,speciosa,NA,NA,1.66,3.32,1.76
+7309,GUVA,cucubano de monte,Guettarda,valenzuelana,NA,NA,2.96,5.92,1.76
+7311,GURH,rhoifolia,Guioa,rhoifolia,NA,NA,1.51,3.02,1.76
+7312,GUIOA,Guioa,Guioa,spp.,NA,NA,1.51,3.02,1.76
+7313,GUPA,"bochela uchererak, uch",Gulubia,palauensis,NA,NA,1.35,2.7,1.76
+7315,GYLA,West Indian false box,Gyminda,latifolia,NA,NA,2.96,5.92,1.76
+7317,GYLU,oysterwood,Gymnanthes,lucida,NA,NA,2.96,5.92,1.76
+7319,GYAM2,vilivili,Gyrocarpus,americanus,NA,NA,0.67,1.34,1.76
+7321,HACA2,bloodwoodtree,Haematoxylum,campechianum,NA,NA,2.96,5.92,1.76
+7327,HASAO,palo de hueso,Haenianthus,salicifolius,NA,NA,2.96,5.92,1.76
+7328,HATE3,mountain silverbell,Halesia,tetraptera,NA,NA,1.18,2.36,2
+7330,HAPA3,scarletbush,Hamelia,patens,NA,NA,2.96,5.92,1.76
+7332,HAFL,Haplolobus floribundus,Haplolobus,floribundus,NA,NA,1.99,3.98,1.76
+7333,HACA10,South African wild plum,Harpephyllum,caffrum,NA,NA,2.96,5.92,1.76
+7334,HAAR4,fa`aili,Harpullia,arborea,NA,NA,1.38,2.76,1.76
+7336,HECU10,false locust,Hebestigma,cubense,NA,NA,2.96,5.92,1.76
+7338,HEDE14,denticulata,Hedycarya,denticulata,NA,NA,1.67,3.34,1.76
+7340,HEDYC2,Hedycarya,Hedycarya,spp.,NA,NA,1.67,3.34,1.76
+7341,HEAR,cigarbush,Hedyosmum,arborescens,NA,NA,2.96,5.92,1.76
+7343,HEFO5,Fosbergs starviolet,Hedyotis,fosbergii,NA,NA,1.07,2.14,1.76
+7344,HEHI8,manono,Hedyotis,hillebrandii,NA,NA,1.07,2.14,1.76
+7345,HEDYO2,starviolet,Hedyotis,spp.,NA,NA,1.07,2.14,1.76
+7346,HETE21,variable starviolet,Hedyotis,terminalis,NA,NA,1.07,2.14,1.76
+7347,HEJA,screwtree,Helicteres,jamaicensis,NA,NA,2.96,5.92,1.76
+7349,HEPO4,white moho,Heliocarpus,popayanensis,NA,NA,0.67,1.34,1.76
+7350,HELIO,heliocarpus,Heliocarpus,spp.,NA,NA,0.53,1.06,1.76
+7353,HEFA5,camasey peludo,Henriettea,fascicularis,NA,NA,2.96,5.92,1.76
+7354,HEMA11,MacFadyen's camasey,Henriettea,macfadyenii,NA,NA,2.96,5.92,1.76
+7355,HEME5,thinleaf camasey,Henriettea,membranifolia,NA,NA,2.96,5.92,1.76
+7357,HESQ,jusillo,Henriettea,squamulosum,NA,NA,2.96,5.92,1.76
+7359,HELI9,ufa,Heritiera,littoralis,NA,NA,2.16,4.32,1.76
+7360,HELO12,ufa halemtano,Heritiera,longipetiolata,NA,NA,1.83,3.66,1.76
+7362,HERIT2,Heritiera,Heritiera,spp.,NA,NA,1.83,3.66,1.76
+7363,HEMO13,pipi,Hernandia,moerenhoutiana,NA,NA,0.79,1.58,1.76
+7364,HENY,"pua, Chinese lantern tree",Hernandia,nymphaeifolia,NA,NA,0.79,1.58,1.76
+7365,HEOV4,Hernandia ovigera,Hernandia,ovigera,NA,NA,0.7,1.4,1.76
+7366,HESO,mago,Hernandia,sonora,NA,NA,2.96,5.92,1.76
+7367,HERNA,Hernandia,Hernandia,spp.,NA,NA,0.79,1.58,1.76
+7368,HELA27,Hernandia labyrinthica,Hernandia,labyrinthica,NA,NA,0.79,1.58,1.76
+7370,HEAR9,Lanai island-aster,Hesperomannia,arborescens,NA,NA,1.83,3.66,1.76
+7371,HEAR10,Maui island-aster,Hesperomannia,arbuscula,NA,NA,1.83,3.66,1.76
+7372,HELY,Kauai island-aster,Hesperomannia,lydgatei,NA,NA,1.83,3.66,1.76
+7373,HESPE8,island-aster,Hesperomannia,spp.,NA,NA,1.83,3.66,1.76
+7374,HEAR5,toyon,Heteromeles,arbutifolia,NA,NA,1.71,3.42,1.76
+7376,HETER5,toyon,Heteromeles,spp.,NA,NA,1.71,3.42,1.76
+7377,HEEL9,palma brava,Heterospathe,elata,NA,NA,1.35,2.7,1.76
+7381,HEBR8,para rubber tree,Hevea,brasiliensis,NA,NA,1.38,2.76,1.76
+7384,HIBO2,hau kuahiwi,Hibiscadelphus,bombycinus,NA,NA,1.36,2.72,1.76
+7385,HICR,lava hau kuahiwi,Hibiscadelphus,crucibracteatus,NA,NA,1.36,2.72,1.76
+7386,HIDI,Kauai hau kuahiwi,Hibiscadelphus,distans,NA,NA,1.36,2.72,1.76
+7387,HIGI,Kilauea hau kuahiwi,Hibiscadelphus,giffardianus,NA,NA,1.36,2.72,1.76
+7388,HIHU,Hualalai hau kuahiwi,Hibiscadelphus,hualalaiensis,NA,NA,1.36,2.72,1.76
+7389,HIPU2,hau kuahiwi,Hibiscadelphus,x puakuahiwi,NA,NA,1.36,2.72,1.76
+7390,HIBIS,hibiscadelphus,Hibiscadelphus,spp.,NA,NA,1.36,2.72,1.76
+7391,HIWI,Maui hau kuahiwi,Hibiscadelphus,wilderianus,NA,NA,1.36,2.72,1.76
+7392,HIWO,Woods hau kuahiwi,Hibiscadelphus,woodii,NA,NA,1.36,2.72,1.76
+7393,HIAR,white rosemallow,Hibiscus,arnottianus,NA,NA,1.2,2.4,1.76
+7397,HIBR,Brackenridges rosemallow,Hibiscus,brackenridgei,NA,NA,1.2,2.4,1.76
+7401,HICA6,lemonyellow rosemallow,Hibiscus,calyphyllus,NA,NA,1.2,2.4,1.76
+7402,HICL,red Kauai rosemallow,Hibiscus,clayi,NA,NA,1.2,2.4,1.76
+7403,HIEL,mahoe,Hibiscus,elatus,NA,NA,2.96,5.92,1.76
+7404,HIKO,red rosemallow,Hibiscus,kokio,NA,NA,1.2,2.4,1.76
+7407,HIMA5,largeleaf rosemallow,Hibiscus,macrophyllus,NA,NA,0.9,1.8,1.76
+7408,HIMU3,Dixie rosemallow,Hibiscus,mutabilis,NA,NA,1.2,2.4,1.76
+7409,HIPE3,seaside mahoe,Hibiscus,pernambucensis,NA,NA,2.96,5.92,1.76
+7410,HIRO3,shoeblackplant,Hibiscus,rosa-sinensis,NA,NA,2.96,5.92,1.76
+7411,HIBIS2,rosemallow,Hibiscus,spp.,NA,NA,1.2,2.4,1.76
+7412,HITI,sea hibiscus,Hibiscus,tiliaceus,NA,NA,2.96,5.92,1.76
+7413,HIWA,white Kauai rosemallow,Hibiscus,waimeae,NA,NA,1.2,2.4,1.76
+7418,HIRU2,teta de burra cinarron,Hirtella,rugosa,NA,NA,2.96,5.92,1.76
+7420,HITR3,pigeonberry,Hirtella,triandra,NA,NA,2.96,5.92,1.76
+7422,HORA,white cogwood,Homalium,racemosum,NA,NA,2.96,5.92,1.76
+7424,HOWH,Homalium whitmeeanum,Homalium,whitmeeanum,NA,NA,2.04,4.08,1.76
+7427,HOAM2,"chemeklachel, eumail",Horsfieldia,amklaal,NA,NA,1.12,2.24,1.76
+7428,HONO2,ersachel,Horsfieldia,novoguineensis,NA,NA,1.12,2.24,1.76
+7429,HONU2,Horsfieldia nunu,Horsfieldia,nunu,NA,NA,1.12,2.24,1.76
+7430,HOPA10,chersachel,Horsfieldia,palauensis,NA,NA,1.12,2.24,1.76
+7431,HORSF2,Horsfieldia,Horsfieldia,spp.,NA,NA,1.12,2.24,1.76
+7433,HOFO,sentrypalm,Howeia,forsteriana,NA,NA,2.96,5.92,1.76
+7434,HUCR,sandbox tree,Hura,crepitans,NA,NA,2.96,5.92,1.76
+7438,HYCL,cedro macho,Hyeronima,clusioides,NA,NA,2.96,5.92,1.76
+7440,HYLOC,nightblooming cactus,Hylocereus,spp.,NA,NA,1.52,3.04,1.76
+7441,HYUN3,nightblooming cactus,Hylocereus,undatus,NA,NA,1.52,3.04,1.76
+7442,HYCO,stinkingtoe,Hymenaea,courbaril,NA,NA,2.96,5.92,1.76
+7445,HYTR,inkwood,Hypelate,trifoliata,NA,NA,2.96,5.92,1.76
+7446,HYLA8,limestone snakevine,Hyperbaena,laurifolia,NA,NA,2.96,5.92,1.76
+7448,HYCA11,Canary Island St. Johnswort,Hypericum,canariense,NA,NA,2.77,5.54,1.76
+7453,ILAN,Hawaii holly,Ilex,anomala,NA,NA,1.35,2.7,1.76
+7454,ILAQ80,English holly,Ilex,aquifolium,NA,NA,2.96,5.92,2
+7455,ILCA,dahoon,Ilex,cassine,NA,NA,2.96,5.92,1.76
+7456,ILCO3,te,Ilex,cookii,NA,NA,2.96,5.92,1.76
+7457,ILGU,maconcona,Ilex,guianensis,NA,NA,2.96,5.92,1.76
+7458,ILMA,Caribbean holly,Ilex,macfadyenii,NA,NA,2.96,5.92,1.76
+7459,ILNI,Puerto Rico holly,Ilex,nitida,NA,NA,2.96,5.92,1.76
+7460,ILPA3,mate,Ilex,paraguariensis,NA,NA,1.35,2.7,1.76
+7462,ILSI,gongolin,Ilex,sideroxyloides,NA,NA,2.96,5.92,1.76
+7463,ILSI2,Sintenis' holly,Ilex,sintenisii,NA,NA,2.96,5.92,1.76
+7464,ILEX,holly,Ilex,spp.,NA,NA,1.68,3.36,1.76
+7465,ILUR,Urban's holly,Ilex,urbaniana,NA,NA,2.96,5.92,1.76
+7466,ILURR,Ilex urbaniana,Ilex,urbaniana,riedlaei,NA,2.96,5.92,1.76
+7467,INGA,inga,Inga,spp.,NA,NA,2.96,5.92,1.76
+7469,ILVO,yaupon,Ilex,vomitoria,NA,NA,1.68,3.36,1.76
+7470,INLA,sacky sac bean,Inga,laurina,NA,NA,2.96,5.92,1.76
+7471,INNOQ,Inga nobilis,Inga,nobilis,NA,NA,2.96,5.92,1.76
+7472,INED,ice cream bean,Inga,edulis,NA,NA,2.96,5.92,1.76
+7474,INVE,river koko,Inga,vera,NA,NA,2.96,5.92,1.76
+7475,INFA3,ifi,Inocarpus,fagifer,NA,NA,1.24,2.48,1.76
+7477,INBI,ifilele,Intsia,bijuga,NA,NA,2.01,4.02,1.76
+7479,IXFE,palo de hierro,Ixora,ferrea,NA,NA,2.96,5.92,1.76
+7481,IXTH,white jungleflame,Ixora,thwaitesii,NA,NA,2.96,5.92,1.76
+7482,JAMI,black poui,Jacaranda,mimosifolia,NA,NA,2.96,5.92,1.76
+7483,JACAR,jacaranda,Jacaranda,spp.,NA,NA,1.1,2.2,1.76
+7485,JAAR2,braceletwood,Jacquinia,armillaris,NA,NA,2.96,5.92,1.76
+7487,JABE,bois bande,Jacquinia,berteroi,NA,NA,2.96,5.92,1.76
+7489,JUCH4,Chinese juniper,Juniperus,chinensis,NA,NA,1.97,3.94,1.39
+7490,JAUM,chirriador,Jacquinia,umbellata,NA,NA,2.96,5.92,1.76
+7491,JACU2,Barbados nut,Jatropha,curcas,NA,NA,2.96,5.92,1.76
+7492,JAHE,wild oilnut,Jatropha,hernandiifolia,NA,NA,2.96,5.92,1.76
+7493,JAMU,coralbush,Jatropha,multifida,NA,NA,2.96,5.92,1.76
+7494,JATRO,nettlespurge,Jatropha,spp.,NA,NA,0.73,1.46,1.76
+7495,JUJA,West Indian walnut,Juglans,jamaicensis,NA,NA,2.96,5.92,1.76
+7496,JURE80,English walnut,Juglans,regia,NA,NA,2.72,5.44,1.76
+7497,KAPA4,ketenguit,Kayea,pacifica,NA,NA,1.83,3.66,1.76
+7499,KHAN,Khaya anthotheca,Khaya,anthotheca,NA,NA,2.96,5.92,1.76
+7501,KHSE2,Senegal mahogany,Khaya,senegalensis,NA,NA,2.96,5.92,1.76
+7503,KIAF,Kigelia africana,Kigelia,africana,NA,NA,2.96,5.92,1.76
+7506,KLHO,guest tree,Kleinhovia,hospita,NA,NA,2.96,5.92,1.76
+7507,KOBI3,goldenrain tree,Koelreuteria,bipinnata,NA,NA,2.96,5.92,1.76
+7508,KOPO,Koanophyllon polyodon,Koanophyllon,polyodon,NA,NA,2.96,5.92,1.76
+7509,KOCO2,Molokai treecotton,Kokia,cookei,NA,NA,1.36,2.72,1.76
+7510,KODR,Hawaii treecotton,Kokia,drynarioides,NA,NA,1.36,2.72,1.76
+7511,KOKA,Kauai treecotton,Kokia,kauaiensis,NA,NA,1.36,2.72,1.76
+7512,KOLA2,Wailupe Valley treecotton,Kokia,lanceolata,NA,NA,1.36,2.72,1.76
+7513,KOKIA,treecotton,Kokia,spp.,NA,NA,1.36,2.72,1.76
+7514,KRFE,leadwood,Krugiodendron,ferreum,NA,NA,2.96,5.92,1.76
+7515,KOPA,goldenrain tree,Koelreuteria,paniculata,NA,NA,1.71,3.42,1.76
+7516,KUER,burgan,Kunzea,ericoides,NA,NA,2.17,4.34,1.76
+7517,KUNZE,Kunzea,Kunzea,spp.,NA,NA,2.17,4.34,1.76
+7518,LAFA2,summit labordia,Labordia,fagraeoidea,NA,NA,1.81,3.62,1.76
+7519,LAHE2,bog labordia,Labordia,hedyosmifolia,NA,NA,1.81,3.62,1.76
+7520,LAHI5,mountain labordia,Labordia,hirtella,NA,NA,1.81,3.62,1.76
+7521,LAKA,Waianae Range labordia,Labordia,kaalae,NA,NA,1.81,3.62,1.76
+7522,LALY2,Wahiawa Mountain labordia,Labordia,lydgatei,NA,NA,1.81,3.62,1.76
+7523,LABOR,labordia,Labordia,spp.,NA,NA,1.81,3.62,1.76
+7524,LATI2,paleflower labordia,Labordia,tinifolia,NA,NA,1.81,3.62,1.76
+7528,LATR4,Lanai labordia,Labordia,triflora,NA,NA,1.81,3.62,1.76
+7529,LAWA3,Nevada peavine,Labordia,waiolani,NA,NA,1.81,3.62,1.76
+7530,LAPR2,cuero de rana,Laetia,procera,NA,NA,2.96,5.92,1.76
+7531,LAAN2,golden chain tree,Laburnum,anagyroides,NA,NA,2.96,5.92,2
+7532,LAIN,crapemyrtle,Lagerstroemia,indica,NA,NA,2.96,5.92,1.76
+7533,LASP,pride of India,Lagerstroemia,speciosa,NA,NA,2.96,5.92,1.76
+7539,LADO2,Langsat,Lansium,domesticum,NA,NA,1.91,3.82,1.76
+7541,LAPO,nino de cota,Laplacea,portoricensis,NA,NA,2.96,5.92,1.76
+7543,LALO,bluelatan,Latania,loddigesii,NA,NA,1.35,2.7,1.76
+7550,LAIN5,henna,Lawsonia,inermis,NA,NA,2.96,5.92,1.76
+7552,LEKR,Krug's roughleaf,Leandra,krugiana,NA,NA,2.96,5.92,1.76
+7556,LEQU,pitahaya,Leptocereus,quadricostatus,NA,NA,2.96,5.92,1.76
+7558,LEMO20,large-leaf yellow teatree,Leptospermum,morrisonii,NA,NA,2.3,4.6,1.76
+7559,LEPE23,common teatree,Leptospermum,petersonii,NA,NA,2.3,4.6,1.76
+7560,LEPO22,common teatree,Leptospermum,polygalifolim,NA,NA,2.3,4.6,1.76
+7561,LESC2,broom teatree,Leptospermum,scoparium,NA,NA,2.88,5.76,1.76
+7562,LEPTO4,teatree,Leptospermum,spp.,NA,NA,2.3,4.6,1.76
+7564,LEIN31,Leucaena insularum,Leucaena,insularum,NA,NA,1.69,3.38,1.76
+7565,LELE10,white leadtree,Leucaena,leucocephala,NA,NA,2.96,5.92,1.76
+7566,LEUCA,leadtree,Leucaena,spp.,NA,NA,1.69,3.38,1.76
+7569,LIBR5,Maria laurel,Licaria,brittoniana,NA,NA,2.96,5.92,1.76
+7570,LIPA9,Puerto Rico cinnamon,Licaria,parvifolia,NA,NA,2.96,5.92,1.76
+7573,LITR,pepperleaf sweetwood,Licaria,triandra,NA,NA,2.96,5.92,1.76
+7574,LIAM,Amur privet,Ligustrum,amurense,NA,NA,2.96,5.92,1.76
+7575,LISI,Chinese privet,Ligustrum,sinense,NA,NA,1.84,3.68,1.76
+7576,LIGUS2,privet,Ligustrum,spp.,NA,NA,1.6,3.2,1.76
+7577,LIJA,Japanese privet,Ligustrum,japonicum,NA,NA,1.78,3.56,1.76
+7578,LILU2,glossy privet,Ligustrum,lucidum,NA,NA,1.78,3.56,2
+7583,LICH4,Lychee,Litchi,chinensis,NA,NA,2.3,4.6,1.76
+7586,LISA8,papaono,Litsea,samoensis,NA,NA,1.18,2.36,1.76
+7587,LITSE,Litsea,Litsea,spp.,NA,NA,1.18,2.36,1.76
+7588,LICH3,fountain palm,Livistona,chinensis,NA,NA,1.99,3.98,1.76
+7590,LODO5,geno geno,Lonchocarpus,domingensis,NA,NA,2.96,5.92,1.76
+7591,LOGL2,geno,Lonchocarpus,glaucifolius,NA,NA,2.96,5.92,1.76
+7592,LOHE7,broadleaf lancepod,Lonchocarpus,heptaphyllus,NA,NA,2.96,5.92,1.76
+7595,LOCO9,vinegartree,Lophostemon,confertus,NA,NA,2.96,5.92,1.76
+7598,LUNE4,Egg Fruit / Canistel,Lucuma,nervosa,NA,NA,1.93,3.86,1.76
+7600,LUSP11,luehea,Luehea,speciosa,NA,NA,2.96,5.92,1.76
+7602,LULI8,"bakauaine, nana",Lumnitzera,littorea,NA,NA,1.88,3.76,1.76
+7604,LUNAN,lunania,Lunania,spp.,NA,NA,2.96,5.92,1.76
+7606,LUEK,Lunania ekmanii,Lunania,ekmanii,NA,NA,2.96,5.92,1.76
+7608,LYRU2,St. Thomas staggerbush,Lyonia,rubiginosa,NA,NA,2.96,5.92,1.76
+7614,MAIN8,"macadamia nut tree, pengua",Macadamia,integrifolia,NA,NA,1.63,3.26,1.76
+7616,MACAD,Macadamia,Macadamia,spp.,NA,NA,1.63,3.26,1.76
+7617,MATE16,Macadamia Nut,Macadamia,tetraphylla,NA,NA,1.63,3.26,1.76
+7618,MACA25,bedel,Macaranga,carolinensis,NA,NA,0.93,1.86,1.76
+7619,MAGR,Macaranga grayana,Macaranga,grayana,NA,NA,0.93,1.86,1.76
+7620,MAHA9,lau pata,Macaranga,harveyana,NA,NA,0.93,1.86,1.76
+7621,MAMA28,pengua,Macaranga,mappa,NA,NA,0.76,1.52,1.76
+7623,MACAR,macaranga,Macaranga,spp.,NA,NA,0.93,1.86,1.76
+7625,MAST7,lau fatu,Macaranga,stipulosa,NA,NA,0.93,1.86,1.76
+7626,MATA3,parasol leaf tree,Macaranga,tanarius,NA,NA,1.21,2.42,1.76
+7627,MATH3,Macaranga thompsonii,Macaranga,thompsonii,NA,NA,0.93,1.86,1.76
+7628,MALU2,palo de hoz,Machaerium,lunatum,NA,NA,2.96,5.92,1.76
+7630,MAPO6,Puerto Rico alfilerillo,Machaonia,portoricensis,NA,NA,2.96,5.92,1.76
+7632,MATI3,Maclura tinctoria,Maclura,tinctoria,NA,NA,2.96,5.92,1.76
+7633,MAEM2,umbrella-tree,Maesopsis,eminii,NA,NA,2.96,5.92,1.76
+7635,MAPO2,Puerto Rico magnolia,Magnolia,portoricensis,NA,NA,2.96,5.92,1.76
+7636,MASP,laurel magnolia,Magnolia,splendens,NA,NA,2.96,5.92,1.76
+7638,MAPA6,Mallotus palauensis,Mallotus,palauensis,NA,NA,1.38,2.76,1.76
+7639,MAPH4,kamala tree,Mallotus,philippensis,NA,NA,1.57,3.14,1.76
+7641,MALLO,mallotus,Mallotus,spp.,NA,NA,1.38,2.76,1.76
+7642,MATI4,Mallotus tiliifolius,Mallotus,tiliifolius,NA,NA,1.38,2.76,1.76
+7643,MACO11,Singapore holly,Malpighia,coccigera,NA,NA,2.96,5.92,1.76
+7644,MAEM,Barbados cherry,Malpighia,emarginata,NA,NA,2.96,5.92,1.76
+7645,MAFU2,palo bronco,Malpighia,fucata,NA,NA,2.96,5.92,1.76
+7646,MAGL6,wild crapemyrtle,Malpighia,glabra,NA,NA,2.96,5.92,1.76
+7647,MAIN5,cowhage cherry,Malpighia,infestissima,NA,NA,2.96,5.92,1.76
+7648,MALI2,bastard cherry,Malpighia,linearis,NA,NA,2.96,5.92,1.76
+7649,MABA,Siberian crab apple,Malus,baccata,NA,NA,3.49,6.98,1.77
+7650,MAFL80,Japanese flowering crab apple,Malus,floribunda,NA,NA,3.49,6.98,2
+7651,MAPU,paradise apple,Malus,pumila,NA,NA,3.49,6.98,2
+7652,MAAM2,mammee apple,Mammea,americana,NA,NA,2.96,5.92,1.76
+7653,MAGL12,manapau,Mammea,glauca,NA,NA,2.42,4.84,1.76
+7654,MAOD2,chopak,Mammea,odorata,NA,NA,1.81,3.62,1.76
+7655,MAMME,Mammea,Mammea,spp.,NA,NA,1.81,3.62,1.76
+7657,MAMI3,kanit,Mangifera,minor,NA,NA,1.48,2.96,1.76
+7658,MAOD,saipan mango,Mangifera,odorata,NA,NA,1.26,2.52,1.76
+7659,MANGI,mango,Mangifera,spp.,NA,NA,1.45,2.9,1.76
+7660,MAGL5,ceara rubbertree,Manihot,glaziovii,NA,NA,1.35,2.7,1.76
+7661,MANIH,manihot,Manihot,spp.,NA,NA,1.35,2.7,1.76
+7662,MABI5,bulletwood,Manilkara,bidentata,NA,NA,2.96,5.92,1.76
+7663,MABIS,Surinam bulletwood,Manilkara,bidentata,NA,surinamensis,2.96,5.92,1.76
+7664,MADI14,pani,Manilkara,dissecta,NA,NA,2.44,4.88,1.76
+7666,MAHO5,kohle,Manilkara,hoshinoi,NA,NA,2.44,4.88,1.76
+7667,MAJA2,wild dilly,Manilkara,jaimiqui,NA,NA,2.96,5.92,1.76
+7669,MAPL2,zapote de costa,Manilkara,pleeana,NA,NA,2.96,5.92,1.76
+7671,MANIL,Manilkara,Manilkara,spp.,NA,NA,2.44,4.88,1.76
+7672,MAUD,udeuid,Manilkara,udoido,NA,NA,2.44,4.88,1.76
+7673,MAVA3,nisperillo,Manilkara,valenzuela,NA,NA,2.96,5.92,1.76
+7674,MAZA,sapodilla,Manilkara,zapota,NA,NA,2.96,5.92,1.76
+7677,MARA3,palo de cana,Mappia,racemosa,NA,NA,2.96,5.92,1.76
+7679,MACO,"bkau, apgau",Maranthes,corymbosa,NA,NA,2.16,4.32,1.76
+7680,MAFR11,dermarm,Marattia,fraxinea,NA,NA,1.4,2.8,1.76
+7682,MANO,bastard hogberry,Margaritaria,nobilis,NA,NA,2.96,5.92,1.76
+7684,MASI3,beruquillo,Marlierea,sintenisii,NA,NA,2.96,5.92,1.76
+7688,MAAP5,Matayba apetala,Matayba,apetala,NA,NA,2.96,5.92,1.76
+7689,MADO2,negra lora,Matayba,domingensis,NA,NA,2.96,5.92,1.76
+7695,MACY2,Caribbean mayten,Maytenus,cymosa,NA,NA,2.96,5.92,1.76
+7697,MAEL3,Puerto Rico mayten,Maytenus,elongata,NA,NA,2.96,5.92,1.76
+7698,MALA8,white cinnamon,Maytenus,laevigata,NA,NA,2.96,5.92,1.76
+7699,MAPO5,ponce mayten,Maytenus,ponceana,NA,NA,2.96,5.92,1.76
+7700,MATH4,luluhut,Maytenus,thompsonii,NA,NA,2.11,4.22,1.76
+7702,MELA7,Mecranium latifolium,Mecranium,latifolium,NA,NA,2.96,5.92,1.76
+7704,MECA21,Medusanthera carolinensis,Medusanthera,carolinensis,NA,NA,1.1,2.2,1.76
+7705,MESA11,matamo,Medusanthera,samoensis,NA,NA,1.1,2.2,1.76
+7706,MEDUS2,Medusanthera,Medusanthera,spp.,NA,NA,1.1,2.2,1.76
+7709,MELAL,melaleuca,Melaleuca,spp.,NA,NA,1.87,3.74,1.76
+7710,MEMU10,alom,Melanolepis,multiglandulosa,NA,NA,0.96,1.92,1.76
+7712,MECA9,Melastoma candidum,Melastoma,candidum,NA,NA,1.29,2.58,1.76
+7713,MESA3,Melastoma sanguineum,Melastoma,sanguineum,NA,NA,1.29,2.58,1.76
+7716,MELIA,melia,Melia,spp.,NA,NA,1.18,2.36,1.76
+7717,MEBI,Spanish lime,Melicoccus,bijugatus,NA,NA,2.96,5.92,1.76
+7719,MEAN3,mokihana,Melicope,anisata,NA,NA,1.28,2.56,1.76
+7720,MEBA2,Ballous melicope,Melicope,balloui,NA,NA,1.28,2.56,1.76
+7721,MEBA3,uahiapele,Melicope,barbigera,NA,NA,1.28,2.56,1.76
+7722,MECH2,Waianae Range melicope,Melicope,christophersenii,NA,NA,1.28,2.56,1.76
+7723,MECI6,manena,Melicope,cinerea,NA,NA,1.28,2.56,1.76
+7724,MECL,kukaemoa,Melicope,clusiifolia,NA,NA,1.28,2.56,1.76
+7725,MECR5,piloula,Melicope,cruciata,NA,NA,1.28,2.56,1.76
+7726,MEEL2,leiohiiaka,Melicope,elliptica,NA,NA,1.28,2.56,1.76
+7727,MEHA7,Haleakala melicope,Melicope,haleakalae,NA,NA,1.28,2.56,1.76
+7728,MEHA3,Haupa Mountain melicope,Melicope,haupuensis,NA,NA,1.28,2.56,1.76
+7729,MEHA4,mokihana kukae moa,Melicope,hawaiensis,NA,NA,1.28,2.56,1.76
+7730,MEHI6,Monoa melicope,Melicope,hiiakae,NA,NA,1.28,2.56,1.76
+7731,MEHO2,Honolulu melicope,Melicope,hosakae,NA,NA,1.28,2.56,1.76
+7732,MEKA2,Kaala melicope,Melicope,kaalaensis,NA,NA,1.28,2.56,1.76
+7733,MEKN,Olokele Valley melicope,Melicope,knudsenii,NA,NA,1.28,2.56,1.76
+7734,MEMA6,Kaholuamanu melicope,Melicope,macropus,NA,NA,1.28,2.56,1.76
+7735,MEMA7,Makaha Valley melicope,Melicope,makahae,NA,NA,1.28,2.56,1.76
+7736,MEMO6,Molokai melicope,Melicope,molokaiensis,NA,NA,1.28,2.56,1.76
+7737,MEMU4,alani,Melicope,mucronulata,NA,NA,1.28,2.56,1.76
+7738,MEOA,Oahu melicope,Melicope,oahuensis,NA,NA,1.28,2.56,1.76
+7739,MEOB4,Makawao melicope,Melicope,obovata,NA,NA,1.28,2.56,1.76
+7740,MEOR4,Honokahua melicope,Melicope,orbicularis,NA,NA,1.28,2.56,1.76
+7741,MEOV,Hana melicope,Melicope,ovalis,NA,NA,1.28,2.56,1.76
+7742,MEOV2,eggshape melicope,Melicope,ovata,NA,NA,1.28,2.56,1.76
+7743,MEPA6,pale melicope,Melicope,pallida,NA,NA,1.28,2.56,1.76
+7744,MEPA7,Lihue melicope,Melicope,paniculata,NA,NA,1.28,2.56,1.76
+7745,MEPE9,boxfruit alani,Melicope,peduncularis,NA,NA,1.28,2.56,1.76
+7746,MEPS,Kohala Summit melicope,Melicope,pseudoanisata,NA,NA,1.28,2.56,1.76
+7747,MEPU4,hairy melicope,Melicope,puberula,NA,NA,1.28,2.56,1.76
+7748,MEQU3,fourangle melicope,Melicope,quadrangularis,NA,NA,1.28,2.56,1.76
+7749,MERA2,kapu melicope,Melicope,radiata,NA,NA,1.28,2.56,1.76
+7750,MERE8,soopini,Melicope,latifolia,NA,NA,1.12,2.24,1.76
+7751,MERO3,roundleaf melicope,Melicope,rotundifolia,NA,NA,1.28,2.56,1.76
+7752,MESA4,St. Johns melicope,Melicope,saint-johnii,NA,NA,1.28,2.56,1.76
+7753,MESA5,Mt. Kaala melicope,Melicope,sandwicensis,NA,NA,1.28,2.56,1.76
+7754,MELIC3,melicope,Melicope,spp.,NA,NA,1.28,2.56,1.76
+7755,MEVO,volcanic melicope,Melicope,volcanica,NA,NA,1.28,2.56,1.76
+7756,MEWA2,alani wai,Melicope,waialealae,NA,NA,1.28,2.56,1.76
+7757,MEWA4,Monoa melicope,Melicope,wawraeana,NA,NA,1.28,2.56,1.76
+7758,MEZA,kipuka piaula,Melicope,zahlbruckneri,NA,NA,1.28,2.56,1.76
+7759,MESA9,samoensis,Melicytus,samoensis,NA,NA,1.64,3.28,1.76
+7763,MEHE,aguacatillo,Meliosma,herbertii,NA,NA,2.96,5.92,1.76
+7764,MEOB2,cacaillo,Meliosma,obtusifolia,NA,NA,2.96,5.92,1.76
+7766,MEAR16,mao,Melochia,aristata,NA,NA,0.9,1.8,1.76
+7767,MELOC,melochia,Melochia,spp.,NA,NA,0.9,1.8,1.76
+7768,METO4,teabush,Melochia,tomentosa,NA,NA,2.96,5.92,1.76
+7769,MEUM3,hierba del soldado,Melochia,umbellata,NA,NA,0.9,1.8,1.76
+7770,MEVIC4,sayafe spp.,Melochia,villosissima,compacta,NA,0.9,1.8,1.76
+7771,MEVIV,sayafe,Melochia,villosissima,villosissima,NA,1.24,2.48,1.76
+7774,MEME12,faniok,Merrilliodendron,megacarpum,NA,NA,1.58,3.16,1.76
+7776,MEMA16,fagufagu,Meryta,macrophylla,NA,NA,1.15,2.3,1.76
+7777,MESE11,omechidel,Meryta,senfftiana,NA,NA,1.15,2.3,1.76
+7778,MERYT,Meryta,Meryta,spp.,NA,NA,1.15,2.3,1.76
+7781,MEPOP2,collina,Metrosideros,collina,NA,NA,2.14,4.28,1.76
+7782,MEMA4,ohia,Metrosideros,macropus,NA,NA,1.94,3.88,1.76
+7783,MEPO5,ohia lehua,Metrosideros,polymorpha,NA,NA,1.94,3.88,1.76
+7792,MERU2,lehua papa,Metrosideros,rugosa,NA,NA,2.02,4.04,1.76
+7793,METRO,lehua,Metrosideros,spp.,NA,NA,2.02,4.04,1.76
+7794,METR5,lehua ahihi,Metrosideros,tremuloides,NA,NA,2.02,4.04,1.76
+7795,MEWA,Kauai bottlebrush,Metrosideros,waialealae,NA,NA,2.02,4.04,1.76
+7798,MEAM4,ivory-nut palm,Metroxylon,amicarum,NA,NA,1.35,2.7,1.76
+7799,MESA7,sago palm,Metroxylon,sagu,NA,NA,1.35,2.7,1.76
+7800,METRO2,Metroxylon,Metroxylon,spp.,NA,NA,1.35,2.7,1.76
+7801,MICH4,Orange Champak,Michelia,champaca,NA,NA,1.26,2.52,1.76
+7803,MILA10,hairy johnnyberry,Miconia,lanata,NA,NA,2.96,5.92,1.76
+7804,MIAF,saquiyac,Miconia,affinis,NA,NA,2.96,5.92,1.76
+7805,MICA20,velvet tree,Miconia,calvescens,NA,NA,1.12,2.24,1.76
+7806,MIFO,Puerto Rico johnnyberry,Miconia,foveolata,NA,NA,2.96,5.92,1.76
+7807,MIIM,camasey de costilla,Miconia,impetiolaris,NA,NA,2.96,5.92,1.76
+7808,MILA8,smooth johnnyberry,Miconia,laevigata,NA,NA,2.96,5.92,1.76
+7810,MIMI3,camasey cuatrocanales,Miconia,mirabilis,NA,NA,2.96,5.92,1.76
+7812,MIPA7,camasey racimoso,Miconia,pachyphylla,NA,NA,2.96,5.92,1.76
+7813,MIPR3,granadillo bobo,Miconia,prasina,NA,NA,2.96,5.92,1.76
+7814,MIPU9,auquey,Miconia,punctata,NA,NA,2.96,5.92,1.76
+7815,MIPY2,ridge johnnyberry,Miconia,pycnoneura,NA,NA,2.96,5.92,1.76
+7816,MIRA2,camasey felpa,Miconia,racemosa,NA,NA,2.96,5.92,1.76
+7817,MIRU4,peralejo,Miconia,rubiginosa,NA,NA,2.96,5.92,1.76
+7818,MISE2,jau jau,Miconia,serrulata,NA,NA,2.96,5.92,1.76
+7819,MISI2,mountain johnnyberry,Miconia,sintenisii,NA,NA,2.96,5.92,1.76
+7821,MISU3,forest johnnyberry,Miconia,subcorymbosa,NA,NA,2.96,5.92,1.76
+7822,MITE4,rajador,Miconia,tetrandra,NA,NA,2.96,5.92,1.76
+7823,MITH,camasey tomaso,Miconia,thomasiana,NA,NA,2.96,5.92,1.76
+7824,MIMI23,talafulu,Micromelum,minutum,NA,NA,1.85,3.7,1.76
+7828,MIGA,caimitillo verde,Micropholis,garciniifolia,NA,NA,2.96,5.92,1.76
+7829,MIGU2,Micropholis guyanensis,Micropholis,guyanensis,NA,NA,2.96,5.92,1.76
+7831,MIPI9,pinnata,Millettia,pinnata,NA,NA,2.04,4.08,1.76
+7833,MIAR4,elegant mimosa,Mimosa,arenosa,NA,NA,2.96,5.92,1.76
+7835,MIEL4,"bulletwood, elengi",Mimusops,elengi,NA,NA,2.3,4.6,1.76
+7839,MONOD,monodora,Monodora,spp.,NA,NA,2.96,5.92,1.76
+7841,MOHI,treedaisy,Montanoa,hibiscifolia,NA,NA,1.83,3.66,1.76
+7842,MONTA,montanoa,Montanoa,spp.,NA,NA,1.83,3.66,1.76
+7845,MOCE2,Morella cerifera,Morella,cerifera,NA,NA,2.96,5.92,2
+7846,MOFA,firetree,Morella,faya,NA,NA,1.52,3.04,1.76
+7847,MOHO3,Morella holdridgeana,Morella,holdridgeana,NA,NA,2.96,5.92,1.76
+7848,MOREL2,bayberry,Morella,spp.,NA,NA,1.52,3.04,1.76
+7849,MOCI3,Indian mulberry,Morinda,citrifolia,NA,NA,2.96,5.92,1.76
+7850,MOLA12,kesengelngel,Morinda,latibractea,NA,NA,1.38,2.76,1.76
+7851,MOPE2,Morinda pedunculata,Morinda,pedunculata,NA,NA,1.38,2.76,1.76
+7852,MORIN,morinda,Morinda,spp.,NA,NA,1.38,2.76,1.76
+7853,MOTR,noni kuahiwi,Morinda,trimera,NA,NA,1.38,2.76,1.76
+7855,MOOL,horseradishtree,Moringa,oleifera,NA,NA,2.96,5.92,1.76
+7857,MOAM,ratapple,Morisonia,americana,NA,NA,2.96,5.92,1.76
+7861,MYLA5,ngaio tree,Myoporum,laetum,NA,NA,2.96,5.92,1.76
+7862,MODO2,murta,Mouriri,domingensis,NA,NA,2.96,5.92,1.76
+7863,MOHE,mameyuelo,Mouriri,helleri,NA,NA,2.96,5.92,1.76
+7865,MURA3,falseohe,Munroidendron,racemosum,NA,NA,1.15,2.3,1.76
+7867,MUCA4,strawberrytree,Muntingia,calabura,NA,NA,2.96,5.92,1.76
+7868,MUNTI,muntingia,Muntingia,spp.,NA,NA,0.84,1.68,1.76
+7869,MUEX2,Murraya exotica,Murraya,exotica,NA,NA,2.96,5.92,1.76
+7870,MUKO,Murraya koenigii,Murraya,koenigii,NA,NA,1.79,3.58,1.76
+7872,MUPA3,French plantain,Musa,x paradisiaca,NA,NA,1.4,2.8,1.76
+7873,MUCO8,bungeltuu,Musa,coccinea,NA,NA,1.4,2.8,1.76
+7874,MUNA,tama,Musa,nana,NA,NA,1.4,2.8,1.76
+7875,MUSA,tuu banana,Musa,sapientum,NA,NA,1.4,2.8,1.76
+7876,MUSA2,meia,Musa,spp.,NA,NA,1.4,2.8,1.76
+7877,MUTE6,blantalos,Musa,textilis,NA,NA,1.4,2.8,1.76
+7878,MUTI,tikap,Musa,tikap,NA,NA,1.4,2.8,1.76
+7879,MUTR2,fei banana,Musa,troglodytarum,NA,NA,1.4,2.8,1.76
+7880,MUFR3,Mussaenda frondosa,Mussaenda,frondosa,NA,NA,1.83,3.66,1.76
+7881,MURA5,aloalo vao,Mussaenda,raiateensis,NA,NA,1.83,3.66,1.76
+7882,MUSSA,Mussaenda,Mussaenda,spp.,NA,NA,1.83,3.66,1.76
+7883,MYSA,naio,Myoporum,sandwicense,NA,NA,2.47,4.94,1.76
+7884,MYOPO,myoporum,Myoporum,spp.,NA,NA,2.47,4.94,1.76
+7886,MYCI,red rodwood,Myrcia,citrifolia,NA,NA,2.96,5.92,1.76
+7887,MYDE,cieneguillo,Myrcia,deflexa,NA,NA,2.96,5.92,1.76
+7888,MYFA3,curame,Myrcia,fallax,NA,NA,2.96,5.92,1.76
+7889,MYLE,guayabacon,Myrcia,leptoclada,NA,NA,2.96,5.92,1.76
+7890,MYPA,ausu,Myrcia,paganii,NA,NA,2.96,5.92,1.76
+7891,MYSP,punchberry,Myrcia,splendens,NA,NA,2.96,5.92,1.76
+7892,MYRCI,rodwood,Myrcia,spp.,NA,NA,2.3,4.6,1.76
+7893,MYFR,twinberry,Myrcianthes,fragrans,NA,NA,2.96,5.92,1.76
+7894,MYCA9,jaboticaba,Myrciaria,cauliflora,NA,NA,2.96,5.92,1.76
+7895,MYFL,guavaberry,Myrciaria,floribunda,NA,NA,2.96,5.92,1.76
+7899,MYRU3,"yamamomo, strawberry tree",Myrica,rubra,NA,NA,1.95,3.9,1.76
+7900,MYRIC,sweetgale,Myrica,spp.,NA,NA,1.52,3.04,1.76
+7902,MYHY2,atoneulu,Myristica,hypargyraea,NA,NA,1.24,2.48,1.76
+7903,MYIN3,adepurot,Myristica,insularis,NA,NA,1.24,2.48,1.76
+7904,MYRIS,Myristica,Myristica,spp.,NA,NA,1.24,2.48,1.76
+7905,MYFR2,cercipo,Myrospermum,frutescens,NA,NA,2.96,5.92,1.76
+7906,MYIN4,Myristica inutilis,Myristica,inutilis,NA,NA,1.24,2.48,1.76
+7907,MYBA3,balsam of Tolu,Myroxylon,balsamum,NA,NA,2.96,5.92,1.76
+7910,MYAL4,forest colicwood,Myrsine,alyxifolia,NA,NA,1.49,2.98,1.76
+7911,MYCO2,leathery colicwood,Myrsine,coriacea,NA,NA,2.96,5.92,1.76
+7912,MYCU2,Myrsine cubana,Myrsine,cubana,NA,NA,2.96,5.92,1.76
+7913,MYDE2,summit colicwood,Myrsine,degeneri,NA,NA,2.11,4.22,1.76
+7914,MYEM,mountain colicwood,Myrsine,emarginata,NA,NA,2.11,4.22,1.76
+7915,MYFE,streambank colicwood,Myrsine,fernseei,NA,NA,2.11,4.22,1.76
+7916,MYFO,Koolau Range colicwood,Myrsine,fosbergii,NA,NA,2.11,4.22,1.76
+7918,MYHE3,Wahiawa Bog colicwood,Myrsine,helleri,NA,NA,2.11,4.22,1.76
+7919,MYKA,Kauai colicwood,Myrsine,kauaiensis,NA,NA,2.11,4.22,1.76
+7920,MYKN,Kokee colicwood,Myrsine,knudsenii,NA,NA,2.11,4.22,1.76
+7921,MYLA3,Lanai colicwood,Myrsine,lanaiensis,NA,NA,1.49,2.98,1.76
+7922,MYLE2,kolea lau nui,Myrsine,lessertiana,NA,NA,1.49,2.98,1.76
+7923,MYME2,Hanapepe River colicwood,Myrsine,mezii,NA,NA,2.11,4.22,1.76
+7924,MYPE3,swamp colicwood,Myrsine,petiolata,NA,NA,2.11,4.22,1.76
+7925,MYPU2,Molokai colicwood,Myrsine,pukooensis,NA,NA,2.11,4.22,1.76
+7926,MYSA2,kokea lau lii,Myrsine,sandwicensis,NA,NA,1.49,2.98,1.76
+7927,MYRSI,colicwood,Myrsine,spp.,NA,NA,1.49,2.98,1.76
+7928,MYWA,Mt. Kahili colicwood,Myrsine,wawraea,NA,NA,2.11,4.22,1.76
+7929,MYPA7,Myrsine palauensis,Myrsine,palauensis,NA,NA,2.22,4.44,1.76
+7932,NECO,Nectandra coriacea,Nectandra,coriacea,NA,NA,2.96,5.92,1.76
+7933,NEHI2,shinglewood,Nectandra,hihua,NA,NA,2.96,5.92,1.76
+7934,NEKR,Nectandra krugii,Nectandra,krugii,NA,NA,2.96,5.92,1.76
+7935,NEME3,Nectandra membranacea,Nectandra,membranacea,NA,NA,2.96,5.92,1.76
+7936,NEPA4,Nectandra patens,Nectandra,patens,NA,NA,2.96,5.92,1.76
+7939,NETU,Nectandra turbacensis,Nectandra,turbacensis,NA,NA,2.96,5.92,1.76
+7940,NEBU,saltwood,Neea,buxifolia,NA,NA,2.96,5.92,1.76
+7942,NEOP,fao,Neisosperma,oppositifolia,NA,NA,1.49,2.98,1.76
+7944,NECA7,kadam,Neolamarckia,cadamba,NA,NA,2.96,5.92,1.76
+7946,NERE2,aquilon,Neolaugeria,resinosa,NA,NA,2.96,5.92,1.76
+7948,NEFO2,afa,Neonauclea,forsteri,NA,NA,1.88,3.76,1.76
+7952,NELA7,Rambutan,Nephelium,lappaceum,NA,NA,1.73,3.46,1.76
+7953,NERA3,pulasan,Nephelium,ramboutan-ake,NA,NA,2.96,5.92,1.76
+7954,NEME5,maaloa,Neraudia,melastomifolia,NA,NA,0.96,1.92,1.76
+7956,NEOL,oleander,Nerium,oleander,NA,NA,2.96,5.92,1.76
+7958,NEPO,keahi,Nesoluma,polynesicum,NA,NA,1.93,3.86,1.76
+7960,NESA2,Hawaii olive,Nestegis,sandwicensis,NA,NA,1.86,3.72,1.76
+7961,NESTE,nestegis,Nestegis,spp.,NA,NA,1.86,3.72,1.76
+7962,NECE,"kalm, aralm",Neuburgia,celebica,NA,NA,0.96,1.92,1.76
+7964,NIGL,tree tobacco,Nicotiana,glauca,NA,NA,1.24,2.48,1.76
+7965,NICOT,tobacco,Nicotiana,spp.,NA,NA,1.24,2.48,1.76
+7966,NOBR2,smallflower aiea,Nothocestrum,breviflorum,NA,NA,1.24,2.48,1.76
+7967,NOLA,broadleaf aiea,Nothocestrum,latifolium,NA,NA,1.24,2.48,1.76
+7968,NOLO,longleaf aiea,Nothocestrum,longifolium,NA,NA,1.24,2.48,1.76
+7969,NOPE,Oahu aiea,Nothocestrum,peltatum,NA,NA,1.24,2.48,1.76
+7970,NOTHO3,aiea,Nothocestrum,spp.,NA,NA,1.24,2.48,1.76
+7971,NOHU,kaala rockwort,Nototrichium,humile,NA,NA,1.35,2.7,1.76
+7972,NOSA,Hawaii rockwort,Nototrichium,sandwicense,NA,NA,1.35,2.7,1.76
+7974,NYFR2,"toechel, teuechel",Nypa,fruticans,NA,NA,1.35,2.7,1.76
+7976,OCMO4,African bird's-eye bush,Ochna,mossambicensis,NA,NA,2.96,5.92,1.76
+7977,OCHNA,ochna,Ochna,spp.,NA,NA,2.09,4.18,1.76
+7978,OCTH,Thomas birds-eye bush,Ochna,thomasiana,NA,NA,2.09,4.18,1.76
+7980,OCPY,Ochroma pyramidale,Ochroma,pyramidale,NA,NA,2.96,5.92,1.76
+7982,OCCO,holei,Ochrosia,compta,NA,NA,1.29,2.58,1.76
+7983,OCHA,island yellowwood,Ochrosia,haleakalae,NA,NA,1.29,2.58,1.76
+7984,OCKA,Kauai yellowwood,Ochrosia,kauaiensis,NA,NA,1.29,2.58,1.76
+7985,OCKI,Hawaii yellowwood,Ochrosia,kilaueaensis,NA,NA,1.29,2.58,1.76
+7986,OCHRO2,yellowwood,Ochrosia,spp.,NA,NA,1.29,2.58,1.76
+7987,OCMA2,langiti,Ochrosia,mariannensis,NA,NA,1.29,2.58,1.76
+7990,OCFL,laurel espada,Ocotea,floribunda,NA,NA,2.96,5.92,1.76
+7991,OCFO,black sweetwood,Ocotea,foeniculacea,NA,NA,2.96,5.92,1.76
+7994,OCLE,loblolly sweetwood,Ocotea,leucoxylon,NA,NA,2.96,5.92,1.76
+7996,OCMO,nemoca,Ocotea,moschata,NA,NA,2.96,5.92,1.76
+7997,OCNE,laurel sassafras,Ocotea,nemodaphne,NA,NA,2.96,5.92,1.76
+7999,OCPO,laurel de paloma,Ocotea,portoricensis,NA,NA,2.96,5.92,1.76
+8000,OLNE,oleandra fern,Oleandra,neriiformis,NA,NA,1.4,2.8,1.76
+8001,OCSP,nemoca cimarrona,Ocotea,spathulata,NA,NA,2.96,5.92,1.76
+8003,OCWR,Wright's laurel canelon,Ocotea,wrightii,NA,NA,2.96,5.92,1.76
+8004,OLEU,olive,Olea,europaea,NA,NA,2.96,5.92,1.76
+8007,OLEA,olive,Olea,spp.,NA,NA,2.11,4.22,1.76
+8008,HOAC4,fanuamamala,Homalanthus,acuminatus,NA,NA,0.77,1.54,1.76
+8009,HONU3,fanuamamala,Homalanthus,nutans,NA,NA,0.77,1.54,1.76
+8010,HOMAL6,Homalanthus,Homalanthus,spp.,NA,NA,0.77,1.54,1.76
+8011,OPPA4,Ophiorrhiza palauensis,Ophiorrhiza,palauensis,NA,NA,1.24,2.48,1.76
+8013,OPCO4,cochineal nopal cactus,Opuntia,cochenillifera,NA,NA,1.52,3.04,1.76
+8014,OPFI,tuna cactus,Opuntia,ficus-indica,NA,NA,1.52,3.04,1.76
+8015,OPMO5,common pricklypear,Opuntia,monacantha,NA,NA,1.52,3.04,1.76
+8018,OPUNT,pricklypear,Opuntia,spp.,NA,NA,1.52,3.04,1.76
+8019,ORCA12,"amansis, edebsungelked, necklace bead tree",Ormosia,calavensis,NA,NA,1.21,2.42,1.76
+8020,ORKR,peronia,Ormosia,krugii,NA,NA,2.96,5.92,1.76
+8022,OSOL,kesiamel,Osmoxylon,oliveri,NA,NA,1.04,2.08,1.76
+8023,OSPA,kesiamel,Osmoxylon,pachyphyllum,NA,NA,1.04,2.08,1.76
+8024,OSMOX,Osmoxylon,Osmoxylon,spp.,NA,NA,1.04,2.08,1.76
+8027,OTRH,pincho palo de rosa,Ottoschulzia,rhodoxylon,NA,NA,2.96,5.92,1.76
+8029,OUIL,chicharron amarillo,Ouratea,ilicifolia,NA,NA,2.96,5.92,1.76
+8030,OULI,abey amarillo,Ouratea,littoralis,NA,NA,2.96,5.92,1.76
+8032,OUST,guanabanilla,Ouratea,striata,NA,NA,2.96,5.92,1.76
+8033,OXLA4,blacklancewood,Oxandra,lanceolata,NA,NA,2.96,5.92,1.76
+8034,OXLA5,haya,Oxandra,laurifolia,NA,NA,2.96,5.92,1.76
+8036,PAAQ2,"miich era ngebard, guiana chestnut",Pachira,aquatica,NA,NA,1.04,2.08,1.76
+8037,PAIN7,wild chestnut,Pachira,insignis,NA,NA,2.96,5.92,1.76
+8044,PAST24,gasu,Palaquium,stehlinii,NA,NA,1.21,2.42,1.76
+8045,PAAL9,tafetan,Palicourea,alpina,NA,NA,2.96,5.92,1.76
+8047,PACR3,red cappel,Palicourea,crocea,NA,NA,2.96,5.92,1.76
+8049,PACR18,Palicourea croceoides,Palicourea,croceoides,NA,NA,2.96,5.92,1.76
+8051,PAGU,showy cappel,Palicourea,guianensis,NA,NA,2.96,5.92,1.76
+8053,PAJA2,Pandanus japensis,Pandanus,japensis,NA,NA,0.93,1.86,1.76
+8054,PAAI,chertochet,Pandanus,aimiriikensis,NA,NA,0.93,1.86,1.76
+8055,PACO51,matal,Pandanus,cominsii,NA,NA,0.93,1.86,1.76
+8056,PACO3,ongor,Pandanus,compressus,NA,NA,0.93,1.86,1.76
+8057,PACY10,silaue,Pandanus,cylindricus,NA,NA,0.93,1.86,1.76
+8058,PADI2,kienpel,Pandanus,dilatatus,NA,NA,0.93,1.86,1.76
+8059,PADI29,ongor,Pandanus,divergens,NA,NA,0.93,1.86,1.76
+8060,PADU3,pahong,Pandanus,dubius,NA,NA,0.93,1.86,1.76
+8061,PADU4,ongor,Pandanus,duriocarpus,NA,NA,0.93,1.86,1.76
+8062,PAEN,moak,Pandanus,enchabiensis,NA,NA,0.93,1.86,1.76
+8063,PAFI,hara,Pandanus,fischerianus,NA,NA,0.93,1.86,1.76
+8064,PAFR7,aggag,Pandanus,fragrans,NA,NA,0.93,1.86,1.76
+8065,PAHO6,nenketak,Pandanus,hosinoi,NA,NA,0.93,1.86,1.76
+8066,PAJA3,pacheren,Pandanus,jaluitensis,NA,NA,0.93,1.86,1.76
+8067,PAKA2,buuk,Pandanus,kanehirae,NA,NA,0.93,1.86,1.76
+8068,PAKO2,siu,Pandanus,korrensis,NA,NA,0.93,1.86,1.76
+8069,PALA3,lakatwa,Pandanus,lakatwa,NA,NA,0.93,1.86,1.76
+8070,PALA4,"erwan, jonmouia",Pandanus,laticanaliculatus,NA,NA,0.93,1.86,1.76
+8071,PAMA3,"intekul, pasyure",Pandanus,macrocephalus,NA,NA,0.93,1.86,1.76
+8072,PAMA32,"ongor, ertochet",Pandanus,macrojeanneretia,NA,NA,0.93,1.86,1.76
+8073,PAME18,menne,Pandanus,menne,NA,NA,0.93,1.86,1.76
+8074,PAKA,Palaquium karrak,Palaquium,karrak,NA,NA,1.55,3.1,1.76
+8075,PAOD2,Pandanus odontoides,Pandanus,odontoides,NA,NA,0.93,1.86,1.76
+8076,PAPA38,"ongor, ertochet",Pandanus,palawensis,NA,NA,0.93,1.86,1.76
+8077,PAPA39,peet,Pandanus,patina,NA,NA,0.93,1.86,1.76
+8078,PAPE,ongor,Pandanus,peliliuensis,NA,NA,0.93,1.86,1.76
+8079,PAPO2,"alwan, kipal, taip",Pandanus,ponapensis,NA,NA,0.93,1.86,1.76
+8080,PAPU18,"deipw, jomineia",Pandanus,pulposus,NA,NA,0.93,1.86,1.76
+8081,PARE2,pathaplip,Pandanus,rectangulatus,NA,NA,0.93,1.86,1.76
+8082,PARE19,fasa,Pandanus,reineckei,NA,NA,0.93,1.86,1.76
+8083,PARO2,magojokojok,Pandanus,rotundatus,NA,NA,0.93,1.86,1.76
+8084,PANDA,screwpine,Pandanus,spp.,NA,NA,0.93,1.86,1.76
+8085,PATE2,Tahitian screwpine,Pandanus,tectorius,NA,NA,0.93,1.86,1.76
+8086,PATO6,kiparenwel,Pandanus,tolotomensis,NA,NA,0.93,1.86,1.76
+8087,PATR,mojel,Pandanus,trukensis,NA,NA,0.93,1.86,1.76
+8088,PAUT,common screwpine,Pandanus,utilis,NA,NA,2.96,5.92,1.76
+8090,PAVA4,berrakelongor,Pandanus,variegatus,NA,NA,0.93,1.86,1.76
+8091,PAED4,rauel,Pangium,edule,NA,NA,1.32,2.64,1.76
+8092,PAOB7,"lonlin, lajokorer",Pandanus,obliquus,NA,NA,0.93,1.86,1.76
+8099,PACR2,scratchthroat,Parathesis,crenulata,NA,NA,2.96,5.92,1.76
+8103,PAIN20,sea,Parinari,insularum,NA,NA,1.83,3.66,1.76
+8104,PALA5,ais,Parinari,laurina,NA,NA,1.94,3.88,1.76
+8105,PARIN,Parinari,Parinari,spp.,NA,NA,1.94,3.88,1.76
+8106,PARKI3,parkia,Parkia,spp.,NA,NA,2.96,5.92,1.76
+8107,PAKO5,Parkia korom,Parkia,korom,NA,NA,1.15,2.3,1.76
+8108,PAPA2,kmekumer,Parkia,parvifoliola,NA,NA,1.15,2.3,1.76
+8110,PATI5,Parkia timoriana,Parkia,timoriana,NA,NA,2.96,5.92,1.76
+8111,PAAC3,Jerusalem thorn,Parkinsonia,aculeata,NA,NA,2.96,5.92,1.76
+8112,PARKI2,paloverde,Parkinsonia,spp.,NA,NA,1.69,3.38,1.76
+8113,PAAC13,cuachilote,Parmentiera,aculeata,NA,NA,2.96,5.92,1.76
+8114,PACE8,candle tree,Parmentiera,cereifera,NA,NA,2.96,5.92,1.76
+8121,PEPT3,Peltophorum pterocarpum,Peltophorum,pterocarpum,NA,NA,2.96,5.92,1.76
+8123,PEAC6,ngis,Pemphis,acidula,NA,NA,2.64,5.28,1.76
+8125,PEBU4,butter tree,Pentadesma,butyracea,NA,NA,2.96,5.92,1.76
+8127,PEBU2,jiqi,Pera,bumeliifolia,NA,NA,2.96,5.92,1.76
+8129,PEMO13,Pericopsis mooniana,Pericopsis,mooniana,NA,NA,1.96,3.92,1.76
+8131,PESA3,olomea,Perrottetia,sandwicensis,NA,NA,1.15,2.3,1.76
+8134,PEKR,canela,Persea,krugii,NA,NA,2.96,5.92,1.76
+8138,PEUR2,aquacatillo,Persea,urbaniana,NA,NA,2.96,5.92,1.76
+8141,PEDO,bastard stopper,Petitia,domingensis,NA,NA,2.96,5.92,1.76
+8143,PHGR11,aquilon prieto,Phialanthus,grandifolius,NA,NA,2.96,5.92,1.76
+8144,PHMY,candlewood,Phialanthus,myrtilloides,NA,NA,2.96,5.92,1.76
+8146,PHNI11,Phaleria nisidai,Phaleria,nisidai,NA,NA,1.46,2.92,1.76
+8150,PHRO6,pygmy date palm,Phoenix,roebelenii,NA,NA,2.73,5.46,1.76
+8151,PHCA13,Canary Island date palm,Phoenix,canariensis,NA,NA,2.73,5.46,2
+8152,PHDA4,date palm,Phoenix,dactylifera,NA,NA,1.55,3.1,1.76
+8153,PHOEN2,date palm,Phoenix,spp.,NA,NA,1.35,2.7,1.76
+8154,PHSY3,date palm,Phoenix,sylvestris,NA,NA,2.96,5.92,2
+8155,PHDA5,Chinese photinia,Photinia,davidiana,NA,NA,1.97,3.94,1.76
+8157,PHAC3,Tahitian gooseberry tree,Phyllanthus,acidus,NA,NA,2.96,5.92,1.76
+8159,PHDI10,pamakani mahu,Phyllanthus,distichus,NA,NA,1.63,3.26,1.76
+8160,PHJU2,gamo de costa,Phyllanthus,juglandifolius,NA,NA,2.96,5.92,1.76
+8162,PHOR10,Phyllanthus orbicularis,Phyllanthus,orbicularis,NA,NA,2.96,5.92,1.76
+8164,PIPE,Florida bitterbush,Picramnia,pentandra,NA,NA,2.96,5.92,1.76
+8167,PIEX,bitterwood,Picrasma,excelsa,NA,NA,2.96,5.92,1.76
+8169,PIAC,fustic,Pictetia,aculeata,NA,NA,2.96,5.92,1.76
+8171,PIRA3,aceitillo,Pilocarpus,racemosus,NA,NA,2.96,5.92,1.76
+8173,PIRO6,Royen's tree cactus,Pilosocereus,royenii,NA,NA,2.96,5.92,1.76
+8175,PIDI2,allspice,Pimenta,dioica,NA,NA,2.96,5.92,1.76
+8177,PIRA,bayrumtree,Pimenta,racemosa,NA,NA,2.96,5.92,1.76
+8178,PIRAG,bayrumtree,Pimenta,racemosa,grisea,NA,2.96,5.92,1.76
+8180,PIMEN,Pimenta,Pimenta,spp.,NA,NA,2.53,5.06,1.76
+8181,PIIN5,"chebouch, demailei",Pinanga,insignis,NA,NA,1.35,2.7,1.76
+8182,PIRO2,Indian longleaf pine,Pinus,roxburghii,NA,NA,2.96,5.92,1.76
+8183,PICA18,Caribbean pine,Pinus,caribaea,NA,NA,2.29,4.58,1.74
+8184,PIMA11,Chinese red pine,Pinus,massoniana,NA,NA,2.29,4.58,1.74
+8185,PIME2,Merkus pine,Pinus,merkusii,NA,NA,2.29,4.58,1.74
+8186,PIOO2,ocote chino,Pinus,oocarpa,NA,NA,2.29,4.58,1.74
+8187,PIPA13,Mexican weeping pine,Pinus,patula,NA,NA,2.29,4.58,1.74
+8188,PIPI6,maritime pine,Pinus,pinaster,NA,NA,1.15,2.3,1.76
+8189,PIDE5,Japanese red pine,Pinus,densiflora,NA,NA,2.46,4.92,2
+8190,PIAD,higuillo de hoja menuda,Piper,aduncum,NA,NA,2.96,5.92,1.76
+8191,PIAM2,higuillo de limon,Piper,amalago,NA,NA,2.96,5.92,1.76
+8192,PIBL,moth pepper,Piper,blattarum,NA,NA,2.96,5.92,1.76
+8193,PIGL3,Guyanese pepper,Piper,glabrescens,NA,NA,2.96,5.92,1.76
+8194,PIHI2,Jamaican pepper,Piper,hispidum,NA,NA,2.96,5.92,1.76
+8195,PIJA,Caracas pepper,Piper,jacquemontianum,NA,NA,2.96,5.92,1.76
+8196,PIMA4,marigold pepper,Piper,marginatum,NA,NA,2.96,5.92,1.76
+8198,PITH2,Japanese black pine,Pinus,thunbergii,NA,NA,2.46,4.92,1.75
+8199,PISW,spanish elder,Piper,swartzianum,NA,NA,2.96,5.92,1.76
+8201,PICA15,Canary Island pine,Pinus,canariensis,NA,NA,2.46,4.92,1.75
+8202,PIHA7,Aleppo pine,Pinus,halepensis,NA,NA,2.46,4.92,2
+8205,PIAL2,Waimea pipturus,Pipturus,albidus,NA,NA,0.84,1.68,1.76
+8206,PIAR8,soga,Pipturus,argenteus,NA,NA,0.84,1.68,1.76
+8207,PIPTU,pipturus,Pipturus,spp.,NA,NA,0.93,1.86,1.76
+8208,PICA5,stinkwood,Piscidia,carthagenensis,NA,NA,2.96,5.92,1.76
+8210,PISCI,piscidia,Piscidia,spp.,NA,NA,1.66,3.32,1.76
+8211,PIAL3,corcho bobo,Pisonia,albida,NA,NA,2.96,5.92,1.76
+8212,PIBR3,Australasian catchbirdtree,Pisonia,brunoniana,NA,NA,0.85,1.7,1.76
+8213,PIGR6,grand devils-claws,Pisonia,grandis,NA,NA,0.85,1.7,1.76
+8214,PISA5,aulu,Pisonia,sandwicensis,NA,NA,0.85,1.7,1.76
+8215,PISON,catchbirdtree,Pisonia,spp.,NA,NA,0.85,1.7,1.76
+8216,PISU,water mampoo,Pisonia,subcordata,NA,NA,2.96,5.92,1.76
+8217,PIUM2,umbrella catchbirdtree,Pisonia,umbellifera,NA,NA,0.67,1.34,1.76
+8218,PIWA2,Kauai catchbirdtree,Pisonia,wagneriana,NA,NA,0.85,1.7,1.76
+8219,PICH4,Chinese pistache,Pistacia,chinensis,NA,NA,1.71,3.42,1.76
+8220,PIDU,monkeypod,Pithecellobium,dulce,NA,NA,2.96,5.92,1.76
+8222,PITO2,Japanese cheesewood,Pittosporum,tobira,NA,NA,3.24,6.48,1.76
+8223,PIUN,catclaw blackbead,Pithecellobium,unguis-cati,NA,NA,2.96,5.92,1.76
+8224,PIMO4,"Mona cheesewood, Pittosporum",Pittosporum,monae,NA,NA,1.6,3.2,1.76
+8225,PIFE3,kamal,Pittosporum,ferrugineum,NA,NA,1.6,3.2,1.76
+8226,PIAR4,Hawaii poisonberry tree,Pittosporum,argentifolium,NA,NA,1.6,3.2,1.76
+8227,PICO4,hoawa,Pittosporum,confertiflorum,NA,NA,1.6,3.2,1.76
+8228,PIFL4,Waianae Range cheesewood,Pittosporum,flocculosum,NA,NA,1.6,3.2,1.76
+8229,PIGA2,Waialeale cheesewood,Pittosporum,gayanum,NA,NA,1.6,3.2,1.76
+8230,PIGL4,Koolau Range cheesewood,Pittosporum,glabrum,NA,NA,1.6,3.2,1.76
+8231,PIHA3,hoawa,Pittosporum,halophilum,NA,NA,1.6,3.2,1.76
+8232,PIHA4,Hawaii cheesewood,Pittosporum,hawaiiense,NA,NA,1.6,3.2,1.76
+8233,PIHO,Kona cheesewood,Pittosporum,hosmeri,NA,NA,1.6,3.2,1.76
+8234,PIKA3,Kauai cheesewood,Pittosporum,kauaiense,NA,NA,1.6,3.2,1.76
+8235,PINA,royal cheesewood,Pittosporum,napaliense,NA,NA,1.6,3.2,1.76
+8236,PIPE8,Taiwanese cheesewood,Pittosporum,pentandrum,NA,NA,1.51,3.02,1.76
+8238,PITTO,cheesewood,Pittosporum,spp.,NA,NA,1.6,3.2,1.76
+8239,PITE5,cream cheesewood,Pittosporum,terminalioides,NA,NA,1.6,3.2,1.76
+8240,PIUN2,Australian cheesewood,Pittosporum,undulatum,NA,NA,2.09,4.18,1.76
+8241,PIVI5,cape cheesewood,Pittosporum,viridiflorum,NA,NA,1.78,3.56,1.76
+8242,PLGA2,alaa,Planchonella,garberi,NA,NA,1.93,3.86,1.76
+8243,PLGR11,alaa,Planchonella,grayana,NA,NA,1.93,3.86,1.76
+8244,PLLI6,alaa,Planchonella,linggensis,NA,NA,1.93,3.86,1.76
+8246,PLSA9,mamalava,Planchonella,samoensis,NA,NA,1.93,3.86,1.76
+8247,PLANC,Planchonella,Planchonella,spp.,NA,NA,1.93,3.86,1.76
+8248,PLTO2,mamalava,Planchonella,torricellensis,NA,NA,1.93,3.86,1.76
+8249,PLOR80,Oriental arborvitae,Platycladus,orientalis,NA,NA,2.29,4.58,1.74
+8250,PLRE4,Hawaii pilo kea,Platydesma,remyi,NA,NA,1.74,3.48,1.76
+8251,PLSP3,Maui pilo kea,Platydesma,spathulata,NA,NA,1.74,3.48,1.76
+8252,PLATY,platydesma,Platydesma,spp.,NA,NA,1.74,3.48,1.76
+8255,PLMA6,chupa gallo,Pleodendron,macranthum,NA,NA,2.96,5.92,1.76
+8256,PLME9,Mexican sycamore,Platanus,mexicana,NA,NA,1.4,2.8,1.76
+8257,PLAU2,golden hala pepe,Pleomele,aurea,NA,NA,1.4,2.8,1.76
+8258,PLAU5,Maui hala pepe,Pleomele,auwahiensis,NA,NA,1.4,2.8,1.76
+8259,PLFE,Lanai hala pepe,Pleomele,fernaldii,NA,NA,1.4,2.8,1.76
+8260,PLFO2,Waianae Range hala pepe,Pleomele,forbesii,NA,NA,1.4,2.8,1.76
+8261,PLHA3,royal hala pepe,Pleomele,halapepe,NA,NA,1.4,2.8,1.76
+8262,PLHA4,Hawaii hala pepe,Pleomele,hawaiiensis,NA,NA,1.4,2.8,1.76
+8263,PLEOM,hala pepe,Pleomele,spp.,NA,NA,1.4,2.8,1.76
+8266,PLAL,nosegaytree,Plumeria,alba,NA,NA,2.96,5.92,1.76
+8268,PLOB2,Singapore graveyard flower,Plumeria,obtusa,NA,NA,2.96,5.92,1.76
+8269,PLOBO,Plumeria obtusa,Plumeria,obtusa,obtusa,NA,2.96,5.92,1.76
+8271,PLRU2,templetree,Plumeria,rubra,NA,NA,2.96,5.92,1.76
+8272,PLUME,Plumeria,Plumeria,spp.,NA,NA,1.4,2.8,1.76
+8273,POCO3,yucca plum pine,Podocarpus,coriaceus,NA,NA,2.96,5.92,1.76
+8275,POFL20,Poitea florida,Poitea,florida,NA,NA,2.96,5.92,1.76
+8276,POPU19,Poitea punicea,Poitea,punicea,NA,NA,2.96,5.92,1.76
+8279,POCO5,violet tree,Polygala,cowellii,NA,NA,2.96,5.92,1.76
+8280,POPE13,crevajosa,Polygala,penaea,NA,NA,2.96,5.92,1.76
+8283,POGR28,bungaruau,Polyscias,grandifolia,NA,NA,0.97,1.94,1.76
+8284,POGU,geranium aralia,Polyscias,guilfoylei,NA,NA,2.96,5.92,1.76
+8285,POMA,Polyscias macgillivrayi,Polyscias,macgillivrayi,NA,NA,0.97,1.94,1.76
+8286,PONO10,bngei,Polyscias,nodosa,NA,NA,0.9,1.8,1.76
+8287,POSA27,tagitagi,Polyscias,samoensis,NA,NA,0.97,1.94,1.76
+8288,POSC10,shield aralia,Polyscias,scutellaria,NA,NA,0.97,1.94,1.76
+8289,POLYS4,Polyscias,Polyscias,spp.,NA,NA,0.97,1.94,1.76
+8290,POPI12,tava,Pometia,pinnata,NA,NA,1.67,3.34,1.76
+8292,POHO,kattai,Ponapea,hosinoi,NA,NA,1.35,2.7,1.76
+8293,POLE21,Ponapea ledermanniana,Ponapea,ledermanniana,NA,NA,1.35,2.7,1.76
+8294,PONAP,Ponapea,Ponapea,spp.,NA,NA,1.35,2.7,1.76
+8295,POPI4,kisaks,Pongamia,pinnata,NA,NA,1.63,3.26,1.76
+8296,POTR4,hardy orange,Poncirus,trifoliata,NA,NA,1.71,3.42,1.76
+8297,POCA43,Abiu,Pouteria,caimito,NA,NA,2.39,4.78,1.76
+8298,POCA6,"elangel, chelangel",Pouteria,calcarea,NA,NA,2.07,4.14,1.76
+8299,POCA23,eggfruit,Pouteria,campechiana,NA,NA,2.22,4.44,1.76
+8300,PODI5,cocuyo,Pouteria,dictyoneura,NA,NA,2.96,5.92,1.76
+8301,POHO4,redmammee,Pouteria,hotteana,NA,NA,2.96,5.92,1.76
+8302,POMU6,bullytree,Pouteria,multiflora,NA,NA,2.96,5.92,1.76
+8303,POOB8,lalahag,Pouteria,obovata,NA,NA,1.74,3.48,1.76
+8304,POSA11,alaa,Pouteria,sandwicensis,NA,NA,2.07,4.14,1.76
+8305,POSA13,mammee sapote,Pouteria,sapota,NA,NA,2.96,5.92,1.76
+8306,POUTE,pouteria,Pouteria,spp.,NA,NA,2.07,4.14,1.76
+8307,PROB,ahgao,Premna,obtusifolia,NA,NA,1.6,3.2,1.76
+8308,PRPU5,Premna pubescens,Premna,pubescens,NA,NA,1.6,3.2,1.76
+8309,PRSE6,aloalo,Premna,serratifolia,NA,NA,1.55,3.1,1.76
+8310,PREMN,Premna,Premna,spp.,NA,NA,1.6,3.2,1.76
+8311,PRACM,Prestoea acuminata,Prestoea,acuminata,NA,NA,2.96,5.92,1.76
+8315,PRAF,Hawaii pritchardia,Pritchardia,affinis,NA,NA,1.35,2.7,1.76
+8316,PRAR2,Maui pritchardia,Pritchardia,arecina,NA,NA,1.35,2.7,1.76
+8317,PRBE,Kilauea pritchardia,Pritchardia,beccariana,NA,NA,1.35,2.7,1.76
+8318,PRFO,Mt. Eke pritchardia,Pritchardia,forbesiana,NA,NA,1.35,2.7,1.76
+8319,PRHA2,Makaleha pritchardia,Pritchardia,hardyi,NA,NA,1.35,2.7,1.76
+8320,PRHI,loulu lelo,Pritchardia,hillebrandii,NA,NA,1.35,2.7,1.76
+8321,PRKA,Waianae Range pritchardia,Pritchardia,kaalae,NA,NA,1.35,2.7,1.76
+8322,PRLA3,Lanai pritchardia,Pritchardia,lanaiensis,NA,NA,1.35,2.7,1.76
+8323,PRLA4,loulu,Pritchardia,lanigera,NA,NA,1.35,2.7,1.76
+8324,PRLI2,Limahuli Valley pritchardia,Pritchardia,limahuliensis,NA,NA,1.35,2.7,1.76
+8325,PRLO2,Molokai pritchardia,Pritchardia,lowreyana,NA,NA,1.35,2.7,1.76
+8326,PRMA5,Koolau Range pritchardia,Pritchardia,martii,NA,NA,1.35,2.7,1.76
+8327,PRMI3,Alakai Swamp pritchardia,Pritchardia,minor,NA,NA,1.35,2.7,1.76
+8328,PRMU3,Kamalo pritchardia,Pritchardia,munroi,NA,NA,1.35,2.7,1.76
+8329,PRPA11,fan palm,Pritchardia,pacifica,NA,NA,1.35,2.7,1.76
+8330,PRPE7,Waioli Valley pritchardia,Pritchardia,perlmanii,NA,NA,1.35,2.7,1.76
+8331,PRRE,Nihoa pritchardia,Pritchardia,remota,NA,NA,1.35,2.7,1.76
+8336,PRSC,lands of papa pritchardia,Pritchardia,schattaueri,NA,NA,1.35,2.7,1.76
+8337,PRITC,pritchardia,Pritchardia,spp.,NA,NA,1.35,2.7,1.76
+8338,PRVI2,stickybud pritchardia,Pritchardia,viscosa,NA,NA,1.35,2.7,1.76
+8339,PRWA,poleline pritchardia,Pritchardia,waialealeana,NA,NA,1.35,2.7,1.76
+8340,PRCR2,guasimilla,Prockia,crucis,NA,NA,2.96,5.92,1.76
+8341,PRPE6,fua lole,Procris,pedunculata,NA,NA,0.96,1.92,1.76
+8342,PRCI4,jand,Prosopis,cineraria,NA,NA,2.96,5.92,1.76
+8343,PRJU,mesquite,Prosopis,juliflora,NA,NA,2.25,4.5,1.76
+8344,PRPA4,kiawe,Prosopis,pallida,NA,NA,2.96,5.92,1.76
+8345,PRCA,Carolina laurelcherry,Prunus,caroliniana,NA,NA,2.25,4.5,2
+8346,PRMY,West Indian cherry,Prunus,myrtifolia,NA,NA,2.96,5.92,1.76
+8347,PROC,western cherry laurel,Prunus,occidentalis,NA,NA,2.96,5.92,1.76
+8349,PRSEC,Prunus serotina,Prunus,serotina,NA,capuli,2.96,5.92,1.76
+8350,PRAR3,apricot,Prunus,armeniaca,NA,NA,2.96,5.92,1.76
+8352,PSSP2,false breadnut,Pseudolmedia,spuria,NA,NA,2.96,5.92,1.76
+8353,PSSA,Florida cherry palm,Pseudophoenix,sargentii,NA,NA,2.96,5.92,1.76
+8354,PSAM,mountain guava,Psidium,amplexicaule,NA,NA,2.96,5.92,1.76
+8355,PSCA,strawberry guava,Psidium,cattleianum,NA,NA,1.94,3.88,1.76
+8356,PSGU,guava,Psidium,guajava,NA,NA,2.96,5.92,1.76
+8358,PSLOO,Psidium longipes,Psidium,longipes,NA,NA,2.96,5.92,1.76
+8359,PSSI2,Sintenis' guava,Psidium,sintenisii,NA,NA,2.96,5.92,1.76
+8360,PRSA3,Japanese plum,Prunus,salicina,NA,NA,2.25,4.5,2
+8361,PSBE,cachimbo-cumun,Psychotria,berteriana,NA,NA,2.96,5.92,1.76
+8362,PSBR2,palo de cachimbo,Psychotria,brachiata,NA,NA,2.96,5.92,1.76
+8363,PSBR3,Browne's wild coffee,Psychotria,brownei,NA,NA,2.96,5.92,1.76
+8364,PSDO2,Psychotria domingensis,Psychotria,domingensis,NA,NA,2.96,5.92,1.76
+8365,PSFA,Koolau Range wild coffee,Psychotria,fauriei,NA,NA,1.52,3.04,1.76
+8366,PSGR,largeflower wild coffee,Psychotria,grandiflora,NA,NA,1.46,2.92,1.76
+8367,PSGR2,cachimbo grande,Psychotria,grandis,NA,NA,2.96,5.92,1.76
+8368,PSCA18,chimei,Psychotria,carolinensis,NA,NA,2.96,5.92,1.76
+8369,PSGR3,Kauai wild coffee,Psychotria,greenwelliae,NA,NA,1.46,2.92,1.76
+8370,PSHA2,Waianae Range wild coffee,Psychotria,hathewayi,NA,NA,1.46,2.92,1.76
+8373,PSHA3,kopikoula,Psychotria,hawaiiensis,NA,NA,1.52,3.04,1.76
+8377,PSHE2,woodland wild coffee,Psychotria,hexandra,NA,NA,1.46,2.92,1.76
+8382,PSHEO,Oahu wild coffee,Psychotria,hexandra,NA,oahuensis,1.46,2.92,1.76
+8386,PSHO,milolii kopiwai,Psychotria,hobdyi,NA,NA,1.46,2.92,1.76
+8387,PSIN10,matalafi,Psychotria,insularum,NA,NA,1.46,2.92,1.76
+8388,PSKA,kopiko kea,Psychotria,kaduana,NA,NA,1.46,2.92,1.76
+8389,PSMA4,cachimbo de gato,Psychotria,maleolens,NA,NA,2.96,5.92,1.76
+8390,PSYMAR,aplohkateng,Psychotria,mariana,NA,NA,1.46,2.92,1.76
+8391,PSMA5,cachimbo de maricao,Psychotria,maricaensis,NA,NA,2.96,5.92,1.76
+8392,PSMA6,forest wild coffee,Psychotria,mariniana,NA,NA,1.46,2.92,1.76
+8393,PSMA7,opiko,Psychotria,mauiensis,NA,NA,1.46,2.92,1.76
+8394,PSMI,thicket wild coffee,Psychotria,microdon,NA,NA,2.96,5.92,1.76
+8395,PSNU2,floating balsamo,Psychotria,nutans,NA,NA,2.96,5.92,1.76
+8397,PSPU,hairy wild coffee,Psychotria,pubescens,NA,NA,2.96,5.92,1.76
+8398,PSRH2,Psychotria rhombocarpa,Psychotria,rhombocarpa,NA,NA,1.46,2.92,1.76
+8399,PSRO2,Psychotria rotensis,Psychotria,rotensis,NA,NA,1.46,2.92,1.76
+8400,PSYCH,wild coffee,Psychotria,spp.,NA,NA,1.46,2.92,1.76
+8401,PSWA2,leatherleaf wild coffee,Psychotria,wawrae,NA,NA,1.46,2.92,1.76
+8402,PSOD,alahee,Psydrax,odorata,NA,NA,2.44,4.88,1.76
+8404,PTKA,Kauai pteralyxia,Pteralyxia,kauaiensis,NA,NA,1.49,2.98,1.76
+8405,PTMA,ridged pteralyxia,Pteralyxia,macrocarpa,NA,NA,1.49,2.98,1.76
+8406,PTERA,pteralyxia,Pteralyxia,spp.,NA,NA,1.49,2.98,1.76
+8407,PTIN2,pterocarpus,Pterocarpus,indicus,NA,NA,2.96,5.92,1.76
+8408,PTMA7,Burma padauk,Pterocarpus,macrocarpus,NA,NA,2.96,5.92,1.76
+8409,PTMA3,Malabar kino,Pterocarpus,marsupium,NA,NA,2.96,5.92,1.76
+8410,PTOF,dragonsblood tree,Pterocarpus,officinalis,NA,NA,2.96,5.92,1.76
+8412,PTLE3,Ptychococcus ledermannianus,Ptychococcus,ledermannianus,NA,NA,1.35,2.7,1.76
+8413,PSCH4,Psychotria cheathamiana,Psychotria,cheathamiana,NA,NA,1.46,2.92,1.76
+8415,PTMA8,Macarthur feather palm,Ptychosperma,macarthuri,NA,NA,1.35,2.7,1.76
+8416,PTPA,chesdbuuch,Ptychosperma,palauense,NA,NA,1.35,2.7,1.76
+8418,PTYCH4,Ptychosperma,Ptychosperma,spp.,NA,NA,1.35,2.7,1.76
+8419,PUGR2,pomegranate,Punica,granatum,NA,NA,2.96,5.92,1.76
+8421,PYCA80,Callery pear,Pyrus,calleryana,NA,NA,3.2,6.4,1.76
+8422,QUTU,swizzlestick tree,Quararibea,turbinata,NA,NA,2.96,5.92,1.76
+8423,PYCO,common pear,Pyrus,communis,NA,NA,1.82,3.64,1.76
+8424,QUSU5,cork oak,Quercus,suber,NA,NA,2.16,4.32,1.76
+8425,RAAC,white indigoberry,Randia,aculeata,NA,NA,2.96,5.92,1.76
+8430,RAMY,togo vao,Rapanea,myricifolia,NA,NA,1.81,3.62,1.76
+8431,RAVO,poison devils-pepper,Rauvolfia,vomitoria,NA,NA,1.3,2.6,1.76
+8432,RAIN8,omechidel,Rauvolfia,insularis,NA,NA,1.3,2.6,1.76
+8433,RANI2,palo amargo,Rauvolfia,nitida,NA,NA,2.96,5.92,1.76
+8434,RASA3,devils-pepper,Rauvolfia,sandwicensis,NA,NA,1.3,2.6,1.76
+8435,RAUVO,devils-pepper,Rauvolfia,spp.,NA,NA,1.3,2.6,1.76
+8436,RAMA7,traveler's tree,Ravenala,madagascariensis,NA,NA,2.96,5.92,1.76
+8438,QUFU,Texas live oak,Quercus,fusiformis,NA,NA,2.01,4.02,1.76
+8439,RAUR,tortugo prieto,Ravenia,urbanii,NA,NA,2.96,5.92,1.76
+8440,RELA,vi vao,Reynoldsia,lanutoensis,NA,NA,1.15,2.3,1.76
+8441,QUGE2,sand live oak,Quercus,geminata,NA,NA,1.66,3.32,2
+8442,RESA,ohe makai,Reynoldsia,sandwicensis,NA,NA,1.15,2.3,1.76
+8443,REYNO,reynoldsia,Reynoldsia,spp.,NA,NA,1.15,2.3,1.76
+8444,REGU,guama,Reynosia,guama,NA,NA,2.96,5.92,1.76
+8445,REKR,Krug's darlingplum,Reynosia,krugii,NA,NA,2.96,5.92,1.76
+8447,REUN,sloe,Reynosia,uncinata,NA,NA,2.96,5.92,1.76
+8449,QUHE2,Darlington oak,Quercus,hemisphaerica,NA,NA,3.62,7.24,2
+8456,RHED4,Rheeda,Rheedia,edulis,NA,NA,1.8,3.6,1.76
+8458,RHAP2,mangle,Rhizophora,apiculata,NA,NA,2.35,4.7,1.76
+8460,RHLA12,Rhizophora lamarckii,Rhizophora,lamarckii,NA,NA,2.39,4.78,1.76
+8462,RHMU,mangle hembra,Rhizophora,mucronata,NA,NA,2.16,4.32,1.76
+8463,RHIZO,mangrove,Rhizophora,spp.,NA,NA,2.39,4.78,1.76
+8464,RHST8,Rhizophora stylosa,Rhizophora,stylosa,NA,NA,2.36,4.72,1.76
+8465,RHODO2,rose myrtle,Rhodomyrtus,spp.,NA,NA,2.19,4.38,1.76
+8466,RHTO10,Rhodomyrtus tomentosus,Rhodomyrtus,tomentosa,NA,NA,2.19,4.38,1.76
+8467,RHSA2,neneleau,Rhus,sandwicensis,NA,NA,1.31,2.62,1.76
+8468,RHUS,sumac,Rhus,spp.,NA,NA,1.31,2.62,1.76
+8469,RHTA,tavai,Rhus,taitensis,NA,NA,1.04,2.08,1.76
+8472,RICO3,castorbean,Ricinus,communis,NA,NA,2.96,5.92,1.76
+8473,RICIN,ricinus,Ricinus,spp.,NA,NA,1.35,2.7,1.76
+8474,RICA16,Rinorea carolinensis,Rinorea,carolinensis,NA,NA,1.85,3.7,1.76
+8476,ROAC2,greenheart ebony,Rochefortia,acanthophora,NA,NA,2.96,5.92,1.76
+8478,ROSP8,Rochefortia spinosa,Rochefortia,spinosa,NA,NA,2.96,5.92,1.76
+8479,RHLA3,prairie sumac,Rhus,lanceolata,NA,NA,1.39,2.78,1.76
+8480,RODE5,Rollinia,Rollinia,deliciosa,NA,NA,0.9,1.8,1.76
+8481,ROMU3,wild sugar apple,Rollinia,mucosa,NA,NA,2.96,5.92,1.76
+8483,ROIN4,cordobancillo,Rondeletia,inermis,NA,NA,2.96,5.92,1.76
+8484,ROPI3,cordobancillo peludo,Rondeletia,pilosa,NA,NA,2.96,5.92,1.76
+8485,ROPO,Juan Tomas,Rondeletia,portoricensis,NA,NA,2.96,5.92,1.76
+8489,ROBO,Puerto Rico royal palm,Roystonea,borinquena,NA,NA,2.96,5.92,1.76
+8490,ROEL,Roystonea elata,Roystonea,elata,NA,NA,2.96,5.92,1.76
+8491,ROOL,royal palm,Roystonea,oleracea,NA,NA,1.35,2.7,1.76
+8494,SACA,Puerto Rico palmetto,Sabal,causiarum,NA,NA,2.96,5.92,1.76
+8499,SAUM3,white hogwood,Sagraea,umbrosa,NA,NA,2.96,5.92,1.76
+8501,SAHU,Salix humboldtiana,Salix,humboldtiana,NA,NA,2.96,5.92,1.76
+8502,SADI,pussy willow,Salix,discolor,NA,NA,2.62,5.24,2
+8503,SAIN13,"etkeam, cheskeam",Samadera,indica,NA,NA,1.07,2.14,1.76
+8504,SALA6,arroyo willow,Salix,lasiolepis,NA,NA,2.96,5.92,1.76
+8505,SASA10,raintree,Samanea,saman,NA,NA,2.96,5.92,1.76
+8506,SAMAN,raintree,Samanea,spp.,NA,NA,1.89,3.78,1.76
+8509,SANIC4,common elderberry,Sambucus,nigra,NA,NA,2.96,5.92,1.76
+8510,SAMBU,raintree,Sambucus,spp.,NA,NA,1.21,2.42,1.76
+8511,QUGR2,Graves oak,Quercus,gravesii,NA,NA,3.48,6.96,1.76
+8512,QUPO2,Mexican white oak,Quercus,polymorpha,NA,NA,3.48,6.96,1.76
+8513,QUBU2,Buckley oak,Quercus,buckleyi,NA,NA,3.48,6.96,1.76
+8514,QULA,Lacey oak,Quercus,laceyi,NA,NA,3.48,6.96,1.76
+8515,SAKO4,"santol, kechapi",Sandoricum,koetjape,NA,NA,1.1,2.2,1.76
+8516,SAEL2,coastal sandalwood,Santalum,ellipticum,NA,NA,2.13,4.26,1.76
+8517,SAFR4,forest sandalwood,Santalum,freycinetianum,NA,NA,2.13,4.26,1.76
+8518,SAAL16,sandalwood,Santalum,album,NA,NA,2.96,5.92,1.76
+8521,SAHA3,Haleakala sandalwood,Santalum,haleakalae,NA,NA,2.13,4.26,1.76
+8522,SAPA7,mountain sandalwood,Santalum,paniculatum,NA,NA,2.13,4.26,1.76
+8525,SASA8,willowleaf sandalwood,Santalum,salicifolium,NA,NA,2.13,4.26,1.76
+8526,SANTA,sandalwood,Santalum,spp.,NA,NA,2.13,4.26,1.76
+8528,SAOA3,lonomea,Sapindus,oahuense,NA,NA,1.97,3.94,1.76
+8529,SASA4,wingleaf soapberry,Sapindus,saponaria,NA,NA,2.96,5.92,1.76
+8531,SAPIN,soapberry,Sapindus,spp.,NA,NA,1.97,3.94,1.76
+8532,SAVI17,vitiensis,Sapindus,vitiensis,NA,NA,1.97,3.94,1.76
+8533,SAGL5,gumtree,Sapium,glandulosum,NA,NA,2.96,5.92,1.76
+8534,SAIN2,maskerekur,Sapium,indicum,NA,NA,1.12,2.24,1.76
+8535,SALA25,hinchahuevos,Sapium,laurifolium,NA,NA,2.96,5.92,1.76
+8536,SALA8,milktree,Sapium,laurocerasus,NA,NA,2.96,5.92,1.76
+8544,SAPA35,uunu,Sarcopygme,pacifica,NA,NA,1.83,3.66,1.76
+8546,SASE6,amansa guapo,Savia,sessiliflora,NA,NA,2.96,5.92,1.76
+8548,SCCE3,"Scaevola, naupaka",Scaevola,cerasifolia,NA,NA,1.4,2.8,1.76
+8549,SCCH3,naupaka kuahiwi,Scaevola,chamissoniana,NA,NA,1.4,2.8,1.76
+8550,SCGA2,mountain naupaka,Scaevola,gaudichaudiana,NA,NA,1.4,2.8,1.76
+8551,SCPR,forest naupaka,Scaevola,procera,NA,NA,1.4,2.8,1.76
+8552,SCAEV,naupaka,Scaevola,spp.,NA,NA,1.4,2.8,1.76
+8553,SCKR2,Schefflera kraemeri,Schefflera,kraemeri,NA,NA,1.17,2.34,1.76
+8554,SCFR,Florida boxwood,Schaefferia,frutescens,NA,NA,2.96,5.92,1.76
+8555,SCHAE,schaefferia,Schaefferia,spp.,NA,NA,1.97,3.94,1.76
+8556,SADO7,guayabilla,Samyda,dodecandra,NA,NA,2.96,5.92,1.76
+8557,SCGL6,yuquilla,Schefflera,gleasonii,NA,NA,2.96,5.92,1.76
+8558,SCMO10,matchwood,Schefflera,morototonii,NA,NA,2.96,5.92,1.76
+8559,SCSA10,samoensis,Schefflera,samoensis,NA,NA,1.16,2.32,1.76
+8560,SCTA,Toitoi,Scaevola,taccada,NA,NA,1.4,2.8,1.76
+8561,SCMO,Peruvian peppertree,Schinus,molle,NA,NA,2.96,5.92,1.76
+8563,SCTE,Brazilian peppertree,Schinus,terebinthifolius,NA,NA,2.96,5.92,1.76
+8565,SCPA23,Brazilian firetree,Schizolobium,parahybum,NA,NA,2.96,5.92,1.76
+8567,SCOL3,lac tree,Schleichera,oleosa,NA,NA,2.96,5.92,1.76
+8571,SCAR2,arana,Schoepfia,arenaria,NA,NA,2.96,5.92,1.76
+8572,SCOB,white beefwood,Schoepfia,obovata,NA,NA,2.96,5.92,1.76
+8573,SCSC3,gulf graytwig,Schoepfia,schreberi,NA,NA,2.96,5.92,1.76
+8577,SCHY5,kuat,Scyphiphora,hydrophyllacea,NA,NA,1.94,3.88,1.76
+8583,SEFL9,poumuli,Securinega,flexuosa,NA,NA,1.85,3.7,1.76
+8585,SEKR3,poison tree,Semecarpus,kraemeri,NA,NA,2.96,5.92,1.76
+8586,SEVE4,tonget,Semecarpus,venenosa,NA,NA,0.9,1.8,1.76
+8588,SEAL4,emperor's candlesticks,Senna,alata,NA,NA,2.96,5.92,1.76
+8589,SEAT3,flor de San Jose,Senna,atomaria,NA,NA,2.96,5.92,1.76
+8590,SEGA2,Gaudichauds senna,Senna,gaudichaudii,NA,NA,1.6,3.2,1.76
+8591,SEMU5,false sicklepod,Senna,multijuga,NA,NA,2.96,5.92,1.76
+8592,SEPE4,valamuerto,Senna,pendula,NA,NA,1.6,3.2,1.76
+8594,SEPO5,retama prieta,Senna,polyphylla,NA,NA,2.96,5.92,1.76
+8595,SESE13,senna,Senna,septemtrionalis,NA,NA,1.6,3.2,1.76
+8596,SESI3,Siamese cassia,Senna,siamea,NA,NA,2.96,5.92,1.76
+8597,SESP9,casia amarilla,Senna,spectabilis,NA,NA,2.96,5.92,1.76
+8598,SENNA,senna,Senna,spp.,NA,NA,1.6,3.2,1.76
+8599,SESU10,Senna sulfurea,Senna,sulfurea,NA,NA,2.96,5.92,1.76
+8600,SESU4,glossy shower,Senna,surattensis,NA,NA,2.96,5.92,1.76
+8601,SEKA2,ukall,Serianthes,kanehirae,NA,NA,0.9,1.8,1.76
+8603,SENE9,"hayun lago, trongkon guafi",Serianthes,nelsonii,NA,NA,0.9,1.8,1.76
+8605,SEGR5,vegetable hummingbird,Sesbania,grandiflora,NA,NA,2.96,5.92,1.76
+8606,SESE8,Egyptian riverhemp,Sesbania,sesban,NA,NA,1.21,2.42,1.76
+8607,SESBA,riverhemp,Sesbania,spp.,NA,NA,1.21,2.42,1.76
+8608,SHIN,Shirakiopsis indica,Shirakiopsis,indica,NA,NA,1.4,2.8,1.76
+8609,SIFA,yellow llima,Sida,fallax,NA,NA,1.36,2.72,1.76
+8610,SIDA,fanpetals,Sida,spp.,NA,NA,1.36,2.72,1.76
+8611,SICU7,espejuelo,Sideroxylon,cubense,NA,NA,2.96,5.92,1.76
+8613,SIOB,breakbill,Sideroxylon,obovatum,NA,NA,2.96,5.92,1.76
+8614,SIPO3,Puerto Rico bully,Sideroxylon,portoricense,NA,NA,2.96,5.92,1.76
+8617,SIMAR,simarouba,Simarouba,spp.,NA,NA,2.96,5.92,1.76
+8619,SITU,aceitillo falso,Simarouba,tulae,NA,NA,2.96,5.92,1.76
+8620,SIDE6,hoja menuda,Siphoneugena,densiflora,NA,NA,2.96,5.92,1.76
+8622,SLOAN,bullwood,Sloanea,spp.,NA,NA,2.96,5.92,1.76
+8623,SLAM,motillo,Sloanea,amygdalina,NA,NA,2.96,5.92,1.76
+8624,SLBE,bullwood,Sloanea,berteriana,NA,NA,2.96,5.92,1.76
+8626,SOBAB,Solanum bahamense,Solanum,bahamense,NA,NA,2.96,5.92,1.76
+8627,SODO3,mullein nightshade,Solanum,donianum,NA,NA,2.96,5.92,1.76
+8628,SOAM,American black nightshade,Solanum,americanum,NA,NA,0.98,1.96,1.76
+8629,SOER2,potatotree,Solanum,erianthum,NA,NA,2.96,5.92,1.76
+8631,SOMA3,earleaf nightshade,Solanum,mauritianum,NA,NA,0.98,1.96,1.76
+8632,SONU4,forest nightshade,Solanum,nudum,NA,NA,2.96,5.92,1.76
+8633,SOPO,cakalaka berry,Solanum,polygamum,NA,NA,2.96,5.92,1.76
+8634,SORU,tabacon aspero,Solanum,rugosum,NA,NA,2.96,5.92,1.76
+8635,SOLAN,nightshade,Solanum,spp.,NA,NA,0.98,1.96,1.76
+8636,SOTO4,turkey berry,Solanum,torvum,NA,NA,2.96,5.92,1.76
+8639,SOAL10,mangrove,Sonneratia,alba,NA,NA,1.09,2.18,1.76
+8641,SOCH,mamani,Sophora,chrysophylla,NA,NA,1.7,3.4,1.76
+8642,SOPHO,necklacepod,Sophora,spp.,NA,NA,1.7,3.4,1.76
+8643,SOTO3,silver bush,Sophora,tomentosa,NA,NA,1.7,3.4,1.76
+8644,SPCA2,African tuliptree,Spathodea,campanulata,NA,NA,2.96,5.92,1.76
+8645,SPATH,spathodea,Spathodea,spp.,NA,NA,0.65,1.3,1.76
+8646,SPSA7,Spiraeanthemum samoense,Spiraeanthemum,samoense,NA,NA,1.55,3.1,1.76
+8648,SOSE3,mescal bean,Sophora,secundiflora,NA,NA,1.94,3.88,1.76
+8649,SPDU3,Spondias dulcis,Spondias,dulcis,NA,NA,2.96,5.92,1.76
+8650,SPMO,yellow mombin,Spondias,mombin,NA,NA,2.96,5.92,1.76
+8651,COBO2,Anacahuita Texas Olive,Cordia,boissieri,NA,NA,2.96,5.92,1.76
+8652,SPPU,purple mombin,Spondias,purpurea,NA,NA,2.96,5.92,1.76
+8653,SPOND,Spondias,Spondias,spp.,NA,NA,0.98,1.96,1.76
+8654,STMO,cobana negra,Stahlia,monosperma,NA,NA,2.96,5.92,1.76
+8655,STAM10,ngmui,Stemonurus,ammui,NA,NA,1.43,2.86,1.76
+8656,SPPI4,titmel,Spondias,pinnata,NA,NA,0.65,1.3,1.76
+8660,SOAM2,maras,Soulamea,amara,NA,NA,2.96,5.92,1.76
+8664,STAP,Panama tree,Sterculia,apetala,NA,NA,2.96,5.92,1.76
+8665,STFA5,fanaio,Sterculia,fanaiho,NA,NA,1.21,2.42,1.76
+8666,STFO2,hazel sterculia,Sterculia,foetida,NA,NA,2.96,5.92,1.76
+8667,STPA20,Sterculia palauensis,Sterculia,palauensis,NA,NA,1.21,2.42,1.76
+8669,STAN9,anthropophagorum,Streblus,anthropophagorum,NA,NA,2,4,1.76
+8670,STPE3,Hawaii roughbush,Streblus,pendulinus,NA,NA,2,4,1.76
+8671,STREB,streblus,Streblus,spp.,NA,NA,2,4,1.76
+8674,STPO3,palo de jazmin,Styrax,portoricensis,NA,NA,2.96,5.92,1.76
+8676,SUMA2,bay cedar,Suriana,maritima,NA,NA,2.96,5.92,1.76
+8678,SWIET,mahogany,Swietenia,spp.,NA,NA,2.96,5.92,1.76
+8679,SWMA,Honduras mahogany,Swietenia,macrophylla,NA,NA,2.96,5.92,1.76
+8683,SYLA2,nispero cimarron,Symplocos,lanata,NA,NA,2.96,5.92,1.76
+8684,SYMA,Martinique sweetleaf,Symplocos,martinicensis,NA,NA,2.96,5.92,1.76
+8685,SYMI3,aceitunilla,Symplocos,micrantha,NA,NA,2.96,5.92,1.76
+8686,SYRO4,queen palm,Syagrus,romanzoffiana,NA,NA,2.96,5.92,1.76
+8687,SYRA6,"chebtui, ebtui",Symplocos,racemosa,NA,NA,1.46,2.92,1.76
+8689,SYGL,turpentine tree,Syncarpia,glomulifera,NA,NA,2.14,4.28,1.76
+8690,SYNCA,turpentine tree,Syncarpia,spp.,NA,NA,2.1,4.2,1.76
+8691,SYDU,miraculous berry,Synsepalum,dulcificum,NA,NA,1.52,3.04,1.76
+8694,SYAQ,watery roseapple,Syzygium,aqueum,NA,NA,1.24,2.48,1.76
+8695,SYBR3,asi,Syzygium,brevifolium,NA,NA,1.78,3.56,1.76
+8696,SYCA4,popona,Syzygium,carolinense,NA,NA,1.78,3.56,1.76
+8697,SYCL,asi vai,Syzygium,clusiifolium,NA,NA,1.78,3.56,1.76
+8699,SYDE3,asi vai,Syzygium,dealatum,NA,NA,1.78,3.56,1.76
+8700,SYIN2,asi,Syzygium,inophylloides,NA,NA,2.25,4.5,1.76
+8701,SYJA,Syzygium jambos,Syzygium,jambos,NA,NA,2.96,5.92,1.76
+8702,SYMA2,Malaysian apple,Syzygium,malaccense,NA,NA,2.96,5.92,1.76
+8703,SYRI3,popona,Syzygium,richii,NA,NA,1.78,3.56,1.76
+8704,SYSA3,nonu vao,Syzygium,samarangense,NA,NA,1.78,3.56,1.76
+8705,SYSA6,fena vao,Syzygium,samoense,NA,NA,1.78,3.56,1.76
+8706,SYSA,ohia ha,Syzygium,sandwicense,NA,NA,1.78,3.56,1.76
+8707,SYPA7,brush cherry,Syzygium,paniculatum,NA,NA,2.96,5.92,1.76
+8708,SYZYG,syzygium,Syzygium,spp.,NA,NA,1.78,3.56,1.76
+8709,TACH3,roble amarillo,Tabebuia,chrysantha,NA,NA,2.96,5.92,1.76
+8710,TADO2,primavera,Tabebuia,donnell-smithii,NA,NA,2.96,5.92,1.76
+8712,TAHA,roble cimarron,Tabebuia,haemantha,NA,NA,2.96,5.92,1.76
+8713,TAHE,white cedar,Tabebuia,heterophylla,NA,NA,2.96,5.92,1.76
+8714,TAPA10,pink tabebuia,Tabebuia,pallida,NA,NA,1.63,3.26,1.76
+8715,TARI,roble de sierra,Tabebuia,rigida,NA,NA,2.96,5.92,1.76
+8716,TARO,pink trumpet-tree,Tabebuia,rosea,NA,NA,2.96,5.92,1.76
+8717,TASC2,roble colorado,Tabebuia,schumanniana,NA,NA,2.96,5.92,1.76
+8718,TABEB,trumpet-tree,Tabebuia,spp.,NA,NA,2.28,4.56,1.76
+8719,TAAU3,Tabernaemontana aurantiaca,Tabernaemontana,aurantiaca,NA,NA,1.46,2.92,1.76
+8720,TACI,milkwood,Tabernaemontana,citrifolia,NA,NA,2.96,5.92,1.76
+8722,TAPA13,Pulu,Tabernaemontana,pandacaqui,NA,NA,1.46,2.92,1.76
+8723,TARO3,Tabernaemontana rotensis,Tabernaemontana,rotensis,NA,NA,1.46,2.92,1.76
+8727,TAAP,Athel tamarisk,Tamarix,aphylla,NA,NA,2.96,5.92,1.76
+8729,TARA,saltcedar,Tamarix,ramosissima,NA,NA,2.96,5.92,1.76
+8737,TASA2,manunu,Tarenna,sambucina,NA,NA,1.85,3.7,1.76
+8741,TECA9,chestnutleaf trumpetbush,Tecoma,castanifolia,NA,NA,2.05,4.1,1.76
+8743,TEST,yellow trumpetbush,Tecoma,stans,NA,NA,2.96,5.92,1.76
+8744,TEGR,teak,Tectona,grandis,NA,NA,2.96,5.92,1.76
+8745,TECTO,tectona,Tectona,spp.,NA,NA,1.65,3.3,1.76
+8748,TERMI,tropical almond,Terminalia,spp.,NA,NA,2.96,5.92,1.76
+8749,TECA16,kehma,Terminalia,carolinensis,NA,NA,1.41,2.82,1.76
+8750,TECA,tropical almond,Terminalia,catappa,NA,NA,2.96,5.92,1.76
+8751,TECR3,"esemiich, chesemiich",Terminalia,crassipes,NA,NA,1.41,2.82,1.76
+8752,TEED,"esemiich, chesemiich",Terminalia,edulis,NA,NA,1.41,2.82,1.76
+8753,TELI7,strand tree,Terminalia,litoralis,NA,NA,2.96,5.92,1.76
+8754,TEIV2,Ivory Coast almond,Terminalia,ivorensis,NA,NA,2.96,5.92,1.76
+8755,TEKA4,tropical almond,Terminalia,kaernbachii,NA,NA,1.11,2.22,1.76
+8756,TEMY,East Indian almond,Terminalia,myriocarpa,NA,NA,2.96,5.92,1.76
+8757,TEOB,Peruvian almond,Terminalia,oblonga,NA,NA,2.96,5.92,1.76
+8758,TERI3,malili,Terminalia,richii,NA,NA,1.33,2.66,1.76
+8759,TESA2,talie,Terminalia,samoensis,NA,NA,1.41,2.82,1.76
+8761,TESU2,superb terminalia,Terminalia,superba,NA,NA,2.96,5.92,1.76
+8762,TEHE3,saintedwood,Ternstroemia,heptasepala,NA,NA,2.96,5.92,1.76
+8763,TELU2,palo colorado,Ternstroemia,luquillensis,NA,NA,2.96,5.92,1.76
+8764,TEPE,copey vera,Ternstroemia,peduncularis,NA,NA,2.96,5.92,1.76
+8766,TEST3,mamey de cura,Ternstroemia,stahlii,NA,NA,2.96,5.92,1.76
+8767,TESU,el yunque colorado,Ternstroemia,subsessilis,NA,NA,2.96,5.92,1.76
+8768,TEBA,masa,Tetragastris,balsamifera,NA,NA,2.96,5.92,1.76
+8770,TEFL5,Flynnsohe,Tetraplasandra,flynnii,NA,NA,1.15,2.3,1.76
+8771,TEGY,Koolau Rangeohe,Tetraplasandra,gymnocarpa,NA,NA,1.15,2.3,1.76
+8772,TEHA2,Hawaii ohe,Tetraplasandra,hawaiensis,NA,NA,1.15,2.3,1.76
+8773,TEKA3,ohe ohe,Tetraplasandra,kavaiensis,NA,NA,1.15,2.3,1.76
+8774,TEOA,ohe mauka,Tetraplasandra,oahuensis,NA,NA,1.15,2.3,1.76
+8775,TETRA11,tetraplasandra,Tetraplasandra,spp.,NA,NA,1.15,2.3,1.76
+8776,TEWA,Mt. Waialeale ohe,Tetraplasandra,waialealae,NA,NA,1.15,2.3,1.76
+8777,TEWA3,ohe kiko ola,Tetraplasandra,waimeae,NA,NA,1.15,2.3,1.76
+8778,TEAN2,stinkingfish,Tetrazygia,angustifolia,NA,NA,2.96,5.92,1.76
+8779,TEBI,Florida clover ash,Tetrazygia,bicolor,NA,NA,1.91,3.82,1.76
+8780,TEBI2,Puerto Rico clover ash,Tetrazygia,biflora,NA,NA,2.96,5.92,1.76
+8781,TEEL,krekre,Tetrazygia,elaeagnoides,NA,NA,2.96,5.92,1.76
+8783,TEUR,cenizo,Tetrazygia,urbanii,NA,NA,2.96,5.92,1.76
+8784,THCA,cacao,Theobroma,cacao,NA,NA,2.96,5.92,1.76
+8786,THGR2,maga,Thespesia,grandiflora,NA,NA,2.96,5.92,1.76
+8787,THPO3,Portia tree,Thespesia,populnea,NA,NA,2.96,5.92,1.76
+8788,THESP,thespesia,Thespesia,spp.,NA,NA,1.71,3.42,1.76
+8789,THPE3,luckynut,Thevetia,peruviana,NA,NA,2.96,5.92,1.76
+8793,THST2,ceboruquillo,Thouinia,striata,NA,NA,2.96,5.92,1.76
+8794,THSTP,Puerto Rico ceboruquillo,Thouinia,striata,portoricensis,NA,2.96,5.92,1.76
+8799,TIAL2,Timonius albus,Timonius,albus,NA,NA,1.6,3.2,1.76
+8800,TILE4,kehn,Timonius,ledermannii,NA,NA,1.55,3.1,1.76
+8801,TIPO5,tuhke duwehte kamal,Timonius,ponapensis,NA,NA,1.55,3.1,1.76
+8803,TIGR3,Brazilian glorytree,Tibouchina,granulosa,NA,NA,2.96,5.92,1.76
+8804,TIBOU,glorytree,Tibouchina,spp.,NA,NA,1.71,3.42,1.76
+8805,TIUR,princess-flower,Tibouchina,urvilleana,NA,NA,1.71,3.42,1.76
+8806,TICO7,Timonius corymbosus,Timonius,corymbosus,NA,NA,1.55,3.1,1.76
+8807,TIMO4,Timonius mollis,Timonius,mollis,NA,NA,1.55,3.1,1.76
+8808,TIMON,Timonius,Timonius,spp.,NA,NA,1.55,3.1,1.76
+8809,TISU3,Timonius subauritus,Timonius,subauritus,NA,NA,1.55,3.1,1.76
+8810,TITI,Timonius timon,Timonius,timon,NA,NA,1.55,3.1,1.76
+8811,TOONA,redcedar,Toona,spp.,NA,NA,2.96,5.92,1.76
+8812,TOCI,Australian redcedar,Toona,ciliata,NA,NA,2.96,5.92,1.76
+8814,TITO,Silver linden,Tilia,tomentosa,NA,NA,2.02,4.04,2.03
+8815,TITI2,tipa,Tipuana,tipu,NA,NA,2.96,5.92,1.76
+8816,TOCU,boje,Torralbasia,cuneifolia,NA,NA,2.96,5.92,1.76
+8822,TOLA,olona,Touchardia,latifolia,NA,NA,0.96,1.92,1.76
+8823,TOUCH,touchardia,Touchardia,spp.,NA,NA,0.96,1.92,1.76
+8824,TOAR2,velvetleaf soldierbush,Tournefortia,argentea,NA,NA,1.32,2.64,1.76
+8825,TOFI,cold withe,Tournefortia,filiflora,NA,NA,2.96,5.92,1.76
+8826,TOURN,soldierbush,Tournefortia,spp.,NA,NA,1.32,2.64,1.76
+8827,TRCA33,magele,Trema,cannabina,NA,NA,0.91,1.82,1.76
+8828,TRLA2,Lamarck's trema,Trema,lamarckiana,NA,NA,2.96,5.92,1.76
+8829,TRMI2,Jamaican nettletree,Trema,micrantha,NA,NA,2.96,5.92,1.76
+8831,TROR,oriental trema,Trema,orientalis,NA,NA,0.96,1.92,1.76
+8832,TREMA,trema,Trema,spp.,NA,NA,0.91,1.82,1.76
+8833,TRHI3,broomstick,Trichilia,hirta,NA,NA,2.96,5.92,1.76
+8834,TRPA2,gaita,Trichilia,pallida,NA,NA,2.96,5.92,1.76
+8836,TRTR8,bariaco,Trichilia,triacantha,NA,NA,2.96,5.92,1.76
+8837,TRIK,Trichospermum ikutai,Trichospermum,ikutai,NA,NA,0.94,1.88,1.76
+8838,TRLE8,"elsau, oleiulakersus",Trichospermum,ledermannii,NA,NA,0.9,1.8,1.76
+8839,TRRI9,maouli,Trichospermum,richii,NA,NA,0.9,1.8,1.76
+8842,TRTR7,limeberry,Triphasia,trifolia,NA,NA,2.96,5.92,1.76
+8843,TRIPL5,Triplaris spp.,Triplaris,spp.,NA,NA,2.96,5.92,1.76
+8844,TRCU6,ant tree,Triplaris,cumingiana,NA,NA,2.96,5.92,1.76
+8846,TROB7,faia,Tristiropsis,obtusangula,NA,NA,1.62,3.24,1.76
+8848,TRRA4,white ramoon,Trophis,racemosa,NA,NA,2.96,5.92,1.76
+8849,TRCA7,Trukia carolinensis,Trukia,carolinensis,NA,NA,2.14,4.28,1.76
+8850,TUOC,muttonwood,Turpinia,occidentalis,NA,NA,2.96,5.92,1.76
+8851,ULPA,Chinese elm,Ulmus,parvifolia,NA,NA,1.73,3.46,1.76
+8853,URBA,scratchbush,Urera,baccifera,NA,NA,2.96,5.92,1.76
+8854,URCA2,flameberry,Urera,caracasana,NA,NA,2.96,5.92,1.76
+8855,URCH2,ortiga,Urera,chlorocarpa,NA,NA,2.96,5.92,1.76
+8856,URGL,hopue,Urera,glabra,NA,NA,0.51,1.02,1.76
+8857,URKA,opuhe,Urera,kaalae,NA,NA,0.51,1.02,1.76
+8858,URERA,urera,Urera,spp.,NA,NA,0.51,1.02,1.76
+8860,VAAR,farkleberry,Vaccinium,arboreum,NA,NA,1.71,3.42,2
+8861,VAMA5,voa vanga,Vangueria,madagascariensis,NA,NA,2.96,5.92,1.76
+8863,VAOA5,Vavaea pauciflora,Vavaea,pauciflora,NA,NA,1.55,3.1,1.76
+8866,VEME3,Manila palm,Veitchia,merrillii,NA,NA,1.35,2.7,1.76
+8868,STPO10,Sterculia ponapensis,Sterculia,ponapensis,NA,NA,1.21,2.42,1.76
+8869,VEMO3,mu oil tree,Vernicia,montana,NA,NA,1.35,2.7,1.76
+8870,VERNI,vernicia,Vernicia,spp.,NA,NA,1.35,2.7,1.76
+8871,VIAG,lilac chastetree,Vitex,agnus-castus,NA,NA,2.96,5.92,1.76
+8872,VICO17,"bars, beokel",Vitex,cofassus,NA,NA,1.83,3.66,1.76
+8873,VIDI2,higuerillo,Vitex,divaricata,NA,NA,2.96,5.92,1.76
+8874,VIPA6,smallflower chastetree,Vitex,parviflora,NA,NA,1.46,2.92,1.76
+8875,VITEX,chastetree,Vitex,spp.,NA,NA,1.46,2.92,1.76
+8876,VITR7,simpleleaf chastetree,Vitex,trifolia,NA,NA,1.46,2.92,1.76
+8878,VIPR,blackhaw,Viburnum,prunifolium,NA,NA,2.96,5.92,2
+8879,VIRU,rusty blackhaw,Viburnum,rufidulum,NA,NA,1.71,3.42,1.76
+8881,WALA,Wallenia lamarckiana,Wallenia,lamarckiana,NA,NA,2.96,5.92,1.76
+8884,WEBI,ateate,Wedelia,biflora,NA,NA,1.83,3.66,1.76
+8885,WARO,Washington fan palm,Washingtonia,robusta,NA,NA,2.96,5.92,1.76
+8886,WEAF,Weinmannia affinis,Weinmannia,affinis,NA,NA,1.66,3.32,1.76
+8887,WEPI,bastard briziletto,Weinmannia,pinnata,NA,NA,2.96,5.92,1.76
+8889,WIBI,alpine false ohelo,Wikstroemia,bicornuta,NA,NA,1.46,2.92,1.76
+8890,WIFU,forest false ohelo,Wikstroemia,furcata,NA,NA,1.46,2.92,1.76
+8891,WIMO,montane false ohelo,Wikstroemia,monticola,NA,NA,1.46,2.92,1.76
+8892,WIOA,Oahu false ohelo,Wikstroemia,oahuensis,NA,NA,1.46,2.92,1.76
+8895,WIPH2,Hawaii false ohelo,Wikstroemia,phillyreifolia,NA,NA,1.46,2.92,1.76
+8896,WIPU,Kohala false ohelo,Wikstroemia,pulcherrima,NA,NA,1.46,2.92,1.76
+8897,WISA,variableleaf false ohelo,Wikstroemia,sandwicensis,NA,NA,1.46,2.92,1.76
+8898,WISK,Skottsbergs false ohelo,Wikstroemia,skottsbergiana,NA,NA,1.46,2.92,1.76
+8899,WIKST,false ohelo,Wikstroemia,spp.,NA,NA,1.46,2.92,1.76
+8900,WIVI,hairy false ohelo,Wikstroemia,villosa,NA,NA,1.46,2.92,1.76
+8901,XIAM,tallow wood,Ximenia,americana,NA,NA,2.96,5.92,1.76
+8903,XYGR,lalanyog,Xylocarpus,granatum,NA,NA,1.48,2.96,1.76
+8904,XYMO2,leilei,Xylocarpus,moluccensis,NA,NA,1.72,3.44,1.76
+8905,XYLOC2,Xylocarpus,Xylocarpus,spp.,NA,NA,1.56,3.12,1.76
+8906,XYBU,mucha-gente,Xylosma,buxifolia,NA,NA,2.96,5.92,1.76
+8907,XYCR,sawtooth logwood,Xylosma,crenata,NA,NA,1.67,3.34,1.76
+8908,XYHA,Hawaii brushholly,Xylosma,hawaiiensis,NA,NA,1.67,3.34,1.76
+8909,XYNE2,Xylosma nelsonii,Xylosma,nelsonii,NA,NA,1.67,3.34,1.76
+8910,XYPA2,spiny logwood,Xylosma,pachyphylla,NA,NA,2.96,5.92,1.76
+8911,XYSA,Xylosma samoensis,Xylosma,samoensis,NA,NA,1.67,3.34,1.76
+8912,XYSC2,white logwood,Xylosma,schaefferioides,NA,NA,2.96,5.92,1.76
+8913,XYSC3,Schwaneck's logwood,Xylosma,schwaneckeana,NA,NA,2.96,5.92,1.76
+8915,XYLOS,xylosma,Xylosma,spp.,NA,NA,1.67,3.34,1.76
+8916,YUAL,aloe yucca,Yucca,aloifolia,NA,NA,2.96,5.92,1.76
+8918,YUGL2,moundlily yucca,Yucca,gloriosa,NA,NA,2.96,5.92,1.76
+8919,YUGU,bluestem yucca,Yucca,guatemalensis,NA,NA,2.96,5.92,1.76
+8923,ZABI,Maricao pricklyash,Zanthoxylum,bifoliolatum,NA,NA,2.96,5.92,1.76
+8924,ZACA3,prickly yellow,Zanthoxylum,caribaeum,NA,NA,2.96,5.92,1.76
+8925,ZADI,kawau,Zanthoxylum,dipetalum,NA,NA,1.69,3.38,1.76
+8928,ZAFL,West Indian satinwood,Zanthoxylum,flavum,NA,NA,2.96,5.92,1.76
+8929,ZAHA,Hawaii pricklyash,Zanthoxylum,hawaiiense,NA,NA,1.69,3.38,1.76
+8930,ZAKA,Kauai pricklyash,Zanthoxylum,kauaense,NA,NA,1.69,3.38,1.76
+8931,ZAMA,white pricklyash,Zanthoxylum,martinicense,NA,NA,2.96,5.92,1.76
+8932,ZAMO,yellow prickle,Zanthoxylum,monophyllum,NA,NA,2.96,5.92,1.76
+8933,ZAOA,Oahu pricklyash,Zanthoxylum,oahuense,NA,NA,1.69,3.38,1.76
+8934,ZAPU2,dotted pricklyash,Zanthoxylum,punctatum,NA,NA,2.96,5.92,1.76
+8935,ZASP,niaragato,Zanthoxylum,spinifex,NA,NA,2.96,5.92,1.76
+8936,ZANTH,pricklyash,Zanthoxylum,spp.,NA,NA,1.69,3.38,1.76
+8937,ZATH,St. Thomas pricklyash,Zanthoxylum,thomasianum,NA,NA,2.96,5.92,1.76
+8938,ZAPO2,Zapoteca portoricensis,Zapoteca,portoricensis,NA,NA,2.96,5.92,1.76
+8939,ZIMA,Indian jujube,Ziziphus,mauritiana,NA,NA,2.96,5.92,1.76
+8940,ZIRE,cacao rojo,Ziziphus,reticulata,NA,NA,2.96,5.92,1.76
+8941,ZIRI,soana,Ziziphus,rignonii,NA,NA,2.96,5.92,1.76
+8942,ZAAM,common pricklyash,Zanthoxylum,americanum,NA,NA,2.96,5.92,1.76
+8943,ZITA,Taylor's jujube,Ziziphus,taylorii,NA,NA,2.96,5.92,1.76
+8944,ZACL,Hercules' club,Zanthoxylum,clava-herculis,NA,NA,1.78,3.56,1.76
